@@ -4,6 +4,15 @@ Postdoctoral research code for modelling photosynthesis, leaf heat balance, hydr
 
 The repository organizes a coupled C3/C4 photosynthesis modelling workflow into a reproducible Python package. The model links biochemical carbon assimilation, stomatal/hydraulic constraints, heat balance, sensitivity analysis, and evolutionary optimization of selected traits.
 
+## Contributors and acknowledgements
+
+This repository is based on my postdoctoral research on coupled photosynthesis, heat-balance, hydraulics, sensitivity analysis, and trait-adaptation modelling.
+
+I acknowledge the substantial contribution of **Yvonne Danisch** to the computational execution of this project, including running model workflows, testing simulations, organizing outputs, and supporting the evaluation of model behaviour across parameter and environmental settings.
+
+The current repository structure, packaging, reproducibility layer, and public refactor were prepared by **Chilperic Armel Foko Kuate**.
+
+
 ## Scientific scope
 
 The project explores how environmental conditions and plant traits interact to shape photosynthetic performance. It combines:
