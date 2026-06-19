@@ -1,0 +1,22 @@
+name: photosynthesis-adaptation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - casadi
+  - requests
+  - scikit-learn
+  - salib
+  - cma
+  - joblib
+  - tqdm
+  - plotly
+  - seaborn
+  - pytest
+  - pip
+  - pip:
+      - -e .[dev]

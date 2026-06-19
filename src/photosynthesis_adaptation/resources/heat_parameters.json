@@ -1,0 +1,20 @@
+[
+    {
+        "param_set": "default",
+        "f_canopy": 0.8,
+        "alpha_mes": 0.85,
+        "rho_mes": 0.05,
+        "tau_mes": 0.1,
+        "gamma_mes": 0.3,
+        "alpha_bs": 0.8,
+        "rho_bs": 0.1,
+        "tau_bs": 0.1,
+        "gamma_bs": 0.2,
+        "rho_soil": 0.3,
+        "u_a": 20,
+        "g_h": 0.9,
+        "c_p": 29.2,
+        "lambda_heat": 44.44e3,
+        "leaf_emissivity": 0.98
+    }
+]

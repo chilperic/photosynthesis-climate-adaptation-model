@@ -1,0 +1,18 @@
+[
+  {
+    "param_set": "default",
+    "v_pmax_ea": 70373,
+    "v_pmax_hd": 117910,
+    "v_pmax_delta_s": 376,
+    "v_cmax_ea": 67294,
+    "v_cmax_hd": 144568,
+    "v_cmax_delta_s": 472,
+    "k_c_ea": 64200,
+    "k_o_ea": 10500,
+    "k_p_ea": 38300,
+    "r_ea": 66400,
+    "gamma_star_ea": 31100,
+    "a_o_ea": 1630,
+    "g_m_ea": 49800
+  }
+]

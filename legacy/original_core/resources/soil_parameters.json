@@ -1,0 +1,68 @@
+[
+  {
+    "soil_type": "sand",
+    "psi_sat": -12.1,
+    "b": 4.05,
+    "k_sat": 63.36
+  },
+  {
+    "soil_type": "loamy_sand",
+    "psi_sat": -9.0,
+    "b": 4.38,
+    "k_sat": 56.28
+  },
+  {
+    "soil_type": "sandy_loam",
+    "psi_sat": -21.8,
+    "b": 4.9,
+    "k_sat": 12.48
+  },
+  {
+    "soil_type": "slit_loam",
+    "psi_sat": -78.6,
+    "b": 5.3,
+    "k_sat": 2.59
+  },
+  {
+    "soil_type": "loam",
+    "psi_sat": -47.8,
+    "b": 5.39,
+    "k_sat": 2.5
+  },
+  {
+    "soil_type": "sandy_clay_loam",
+    "psi_sat": -29.9,
+    "b": 7.12,
+    "k_sat": 2.27
+  },
+  {
+    "soil_type": "silty_clay_loam",
+    "psi_sat": -35.6,
+    "b": 7.75,
+    "k_sat": 0.61
+  },
+  {
+    "soil_type": "clay_loam",
+    "psi_sat": -63.0,
+    "b": 8.52,
+    "k_sat": 0.88
+  },
+  {
+    "soil_type": "sandy_clay",
+    "psi_sat": -15.3,
+    "b": 10.4,
+    "k_sat": 0.78
+  },
+  {
+    "soil_type": "silty_clay",
+    "psi_sat": -49.0,
+    "b": 10.4,
+    "k_sat": 0.37
+  },
+  {
+    "soil_type": "clay",
+    "psi_sat": -40.5,
+    "b": 11.4,
+    "k_sat": 0.46
+  }
+]

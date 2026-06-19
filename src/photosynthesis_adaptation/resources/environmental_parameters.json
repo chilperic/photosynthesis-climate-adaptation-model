@@ -1,0 +1,73 @@
+[
+    {
+        "param_set": "default",
+        "solar_irradiance": 237,
+        "a_air": 0.038,
+        "b_air": 289.15,
+        "rel_humidity": 25,
+        "rel_soil_wetness": 0.33,
+        "co2_atm": 405,
+        "o2_atm": 210000.0
+    },
+    {
+        "param_set": "sudan",
+        "solar_irradiance": 436.25,
+        "a_air": 0.022812186558658024,
+        "b_air": 297.089995779982,
+        "rel_humidity": 40.33,
+        "rel_soil_wetness": 0.62,
+        "co2_atm": 405,
+        "o2_atm": 210000.0
+    },
+    {
+        "param_set": "brazil",
+        "solar_irradiance": 482.6,
+        "a_air": 0.026978712644687045,
+        "b_air": 295.2193141099023,
+        "rel_humidity": 29.28,
+        "rel_soil_wetness": 0.61,
+        "co2_atm": 405,
+        "o2_atm": 210000.0
+    },
+    {
+        "param_set": "niger",
+        "solar_irradiance": 445.15,
+        "a_air": 0.03188787529846628,
+        "b_air": 299.64145032246154,
+        "rel_humidity": 8.55,
+        "rel_soil_wetness": 0.25,
+        "co2_atm": 405,
+        "o2_atm": 210000.0
+    },
+    {
+        "param_set": "russia",
+        "solar_irradiance": 204.73,
+        "a_air": 0.027097804890307157,
+        "b_air": 280.8957758529586,
+        "rel_humidity": 68.9,
+        "rel_soil_wetness": 0.72,
+        "co2_atm": 405,
+        "o2_atm": 210000.0
+    },
+    {
+        "param_set": "germany",
+        "solar_irradiance": 342.72,
+        "a_air": 0.03170253000240105,
+        "b_air": 287.09546150353947,
+        "rel_humidity": 52.74,
+        "rel_soil_wetness": 0.58,
+        "co2_atm": 405,
+        "o2_atm": 210000.0
+    },
+    
+    {
+        "param_set": "canada",
+        "solar_irradiance": 254.5,
+        "a_air": 0.0329155611698043,
+        "b_air": 287.9905263749689,
+        "rel_humidity": 48.3,
+        "rel_soil_wetness": 0.51,
+        "co2_atm": 405,
+        "o2_atm": 210000.0
+    }
+]

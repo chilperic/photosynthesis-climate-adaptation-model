@@ -1,0 +1,1365 @@
+2025-05-15 12:05:46,464 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:05:46,467 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.21652e-11, T_mes: 301.08, T_bs: 301.20, T_soil: 285.06, Iter: 1
+2025-05-15 12:05:46,468 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.21652e-11, T_mes: 301.08, T_bs: 301.20, T_soil: 285.06
+2025-05-15 12:05:46,976 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:05:46,979 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 8.36544e-12, T_mes: 302.63, T_bs: 302.89, T_soil: 285.99, Iter: 1
+2025-05-15 12:05:46,979 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 8.36544e-12, T_mes: 302.63, T_bs: 302.89, T_soil: 285.99
+2025-05-15 12:05:47,426 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:47,429 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.97160e-11, T_mes: 304.18, T_bs: 304.59, T_soil: 286.93, Iter: 1
+2025-05-15 12:05:47,429 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.97160e-11, T_mes: 304.18, T_bs: 304.59, T_soil: 286.93
+2025-05-15 12:05:47,914 - INFO - Initial Guess - g_m: 0.03784, F: 9.11230e-06, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:47,916 - INFO - Refined Solution - g_m: 0.03784, F: 8.00302e-06, E_mes: 3.28058e-06, T_mes: 305.40, T_bs: 305.94, T_soil: 287.90, Iter: 1
+2025-05-15 12:05:47,917 - INFO - Final Optimized Values - g_m: 0.03784, F: 8.00302e-06, E_mes: 3.28058e-06, T_mes: 305.40, T_bs: 305.94, T_soil: 287.90
+2025-05-15 12:05:48,461 - INFO - Initial Guess - g_m: 0.11433, F: 3.51574e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:48,464 - INFO - Refined Solution - g_m: 0.11433, F: 3.54277e-04, E_mes: 1.00816e-05, T_mes: 305.79, T_bs: 305.94, T_soil: 290.28, Iter: 1
+2025-05-15 12:05:48,464 - INFO - Final Optimized Values - g_m: 0.11433, F: 3.54277e-04, E_mes: 1.00816e-05, T_mes: 305.79, T_bs: 305.94, T_soil: 290.28
+2025-05-15 12:05:48,983 - INFO - Initial Guess - g_m: 0.09581, F: 1.22254e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:48,985 - INFO - Refined Solution - g_m: 0.09581, F: 1.22254e-03, E_mes: 8.59339e-06, T_mes: 306.57, T_bs: 305.94, T_soil: 293.72, Iter: 0
+2025-05-15 12:05:48,985 - INFO - Final Optimized Values - g_m: 0.09581, F: 1.22254e-03, E_mes: 8.59339e-06, T_mes: 306.57, T_bs: 305.94, T_soil: 293.72
+2025-05-15 12:05:49,431 - INFO - Initial Guess - g_m: 0.00814, F: 3.41948e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:49,434 - INFO - Refined Solution - g_m: 0.00814, F: 3.43029e-03, E_mes: 7.42760e-07, T_mes: 307.67, T_bs: 305.95, T_soil: 297.97, Iter: 1
+2025-05-15 12:05:49,434 - INFO - Final Optimized Values - g_m: 0.00814, F: 3.43029e-03, E_mes: 7.42760e-07, T_mes: 307.67, T_bs: 305.95, T_soil: 297.97
+2025-05-15 12:05:49,921 - INFO - Initial Guess - g_m: 0.02226, F: 7.26630e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:49,924 - INFO - Refined Solution - g_m: 0.02226, F: 7.26614e-03, E_mes: 2.06528e-06, T_mes: 308.31, T_bs: 305.94, T_soil: 301.07, Iter: 1
+2025-05-15 12:05:49,924 - INFO - Final Optimized Values - g_m: 0.02226, F: 7.26614e-03, E_mes: 2.06528e-06, T_mes: 308.31, T_bs: 305.94, T_soil: 301.07
+2025-05-15 12:05:50,539 - INFO - Initial Guess - g_m: 0.06427, F: 1.99131e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:50,541 - INFO - Refined Solution - g_m: 0.06427, F: 1.99127e-02, E_mes: 6.06296e-06, T_mes: 308.83, T_bs: 305.93, T_soil: 303.81, Iter: 1
+2025-05-15 12:05:50,541 - INFO - Final Optimized Values - g_m: 0.06427, F: 1.99127e-02, E_mes: 6.06296e-06, T_mes: 308.83, T_bs: 305.93, T_soil: 303.81
+2025-05-15 12:05:50,988 - INFO - Initial Guess - g_m: 0.32238, F: 1.88553e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:50,990 - INFO - Refined Solution - g_m: 0.32238, F: 1.88550e-02, E_mes: 3.09295e-05, T_mes: 308.34, T_bs: 305.94, T_soil: 303.87, Iter: 1
+2025-05-15 12:05:50,990 - INFO - Final Optimized Values - g_m: 0.32238, F: 1.88550e-02, E_mes: 3.09295e-05, T_mes: 308.34, T_bs: 305.94, T_soil: 303.87
+2025-05-15 12:05:51,395 - INFO - Initial Guess - g_m: 0.56273, F: 1.88882e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:51,396 - INFO - Refined Solution - g_m: 0.56273, F: 1.88883e-02, E_mes: 5.49004e-05, T_mes: 307.90, T_bs: 305.94, T_soil: 304.04, Iter: 1
+2025-05-15 12:05:51,396 - INFO - Final Optimized Values - g_m: 0.56273, F: 1.88883e-02, E_mes: 5.49004e-05, T_mes: 307.90, T_bs: 305.94, T_soil: 304.04
+2025-05-15 12:05:51,786 - INFO - Initial Guess - g_m: 0.80300, F: 1.80189e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:51,787 - INFO - Refined Solution - g_m: 0.80300, F: 1.80188e-02, E_mes: 7.96627e-05, T_mes: 307.42, T_bs: 305.94, T_soil: 304.12, Iter: 1
+2025-05-15 12:05:51,788 - INFO - Final Optimized Values - g_m: 0.80300, F: 1.80188e-02, E_mes: 7.96627e-05, T_mes: 307.42, T_bs: 305.94, T_soil: 304.12
+2025-05-15 12:05:52,206 - INFO - Initial Guess - g_m: 0.99286, F: 1.98040e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:52,208 - INFO - Refined Solution - g_m: 0.99287, F: 1.98101e-02, E_mes: 1.00155e-04, T_mes: 307.22, T_bs: 306.09, T_soil: 304.53, Iter: 1
+2025-05-15 12:05:52,208 - INFO - Final Optimized Values - g_m: 0.99287, F: 1.98101e-02, E_mes: 1.00155e-04, T_mes: 307.22, T_bs: 306.09, T_soil: 304.53
+2025-05-15 12:05:52,651 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:05:52,653 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.02568e-04, T_mes: 308.44, T_bs: 307.35, T_soil: 305.75, Iter: 0
+2025-05-15 12:05:52,653 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.02568e-04, T_mes: 308.44, T_bs: 307.35, T_soil: 305.75
+2025-05-15 12:05:53,075 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:05:53,076 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.04286e-04, T_mes: 309.71, T_bs: 308.65, T_soil: 307.00, Iter: 0
+2025-05-15 12:05:53,076 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.04286e-04, T_mes: 309.71, T_bs: 308.65, T_soil: 307.00
+2025-05-15 12:05:53,506 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:05:53,508 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.06029e-04, T_mes: 310.98, T_bs: 309.95, T_soil: 308.24, Iter: 0
+2025-05-15 12:05:53,508 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.06029e-04, T_mes: 310.98, T_bs: 309.95, T_soil: 308.24
+2025-05-15 12:05:53,983 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00007, Iterations: 1000
+2025-05-15 12:05:53,984 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.07798e-04, T_mes: 312.25, T_bs: 311.26, T_soil: 309.49, Iter: 0
+2025-05-15 12:05:53,984 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.07798e-04, T_mes: 312.25, T_bs: 311.26, T_soil: 309.49
+2025-05-15 12:05:54,400 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00006, Iterations: 1000
+2025-05-15 12:05:54,401 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.09592e-04, T_mes: 313.52, T_bs: 312.56, T_soil: 310.73, Iter: 0
+2025-05-15 12:05:54,401 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.09592e-04, T_mes: 313.52, T_bs: 312.56, T_soil: 310.73
+2025-05-15 12:05:54,815 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00006, Iterations: 1000
+2025-05-15 12:05:54,817 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.11412e-04, T_mes: 314.78, T_bs: 313.85, T_soil: 311.97, Iter: 0
+2025-05-15 12:05:54,817 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.11412e-04, T_mes: 314.78, T_bs: 313.85, T_soil: 311.97
+2025-05-15 12:05:55,276 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00005, Iterations: 1000
+2025-05-15 12:05:55,277 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.13259e-04, T_mes: 316.04, T_bs: 315.15, T_soil: 313.21, Iter: 0
+2025-05-15 12:05:55,278 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.13259e-04, T_mes: 316.04, T_bs: 315.15, T_soil: 313.21
+2025-05-15 12:05:55,724 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00004, Iterations: 1000
+2025-05-15 12:05:55,725 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.15132e-04, T_mes: 317.31, T_bs: 316.45, T_soil: 314.45, Iter: 0
+2025-05-15 12:05:55,726 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.15132e-04, T_mes: 317.31, T_bs: 316.45, T_soil: 314.45
+2025-05-15 12:05:56,125 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00004, Iterations: 1000
+2025-05-15 12:05:56,127 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.17032e-04, T_mes: 318.56, T_bs: 317.74, T_soil: 315.68, Iter: 0
+2025-05-15 12:05:56,127 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.17032e-04, T_mes: 318.56, T_bs: 317.74, T_soil: 315.68
+2025-05-15 12:05:56,537 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00003, Iterations: 1000
+2025-05-15 12:05:56,538 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.18959e-04, T_mes: 319.82, T_bs: 319.03, T_soil: 316.92, Iter: 0
+2025-05-15 12:05:56,538 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.18959e-04, T_mes: 319.82, T_bs: 319.03, T_soil: 316.92
+2025-05-15 12:05:56,928 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00003, Iterations: 1000
+2025-05-15 12:05:56,929 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.20914e-04, T_mes: 321.08, T_bs: 320.32, T_soil: 318.16, Iter: 0
+2025-05-15 12:05:56,929 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.20914e-04, T_mes: 321.08, T_bs: 320.32, T_soil: 318.16
+2025-05-15 12:05:57,361 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00002, Iterations: 1000
+2025-05-15 12:05:57,363 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.22897e-04, T_mes: 322.33, T_bs: 321.61, T_soil: 319.39, Iter: 0
+2025-05-15 12:05:57,363 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.22897e-04, T_mes: 322.33, T_bs: 321.61, T_soil: 319.39
+2025-05-15 12:05:57,773 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00002, Iterations: 1000
+2025-05-15 12:05:57,774 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.24908e-04, T_mes: 323.58, T_bs: 322.90, T_soil: 320.62, Iter: 0
+2025-05-15 12:05:57,774 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.24908e-04, T_mes: 323.58, T_bs: 322.90, T_soil: 320.62
+2025-05-15 12:05:58,188 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:05:58,189 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.26948e-04, T_mes: 324.83, T_bs: 324.19, T_soil: 321.85, Iter: 0
+2025-05-15 12:05:58,189 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.26948e-04, T_mes: 324.83, T_bs: 324.19, T_soil: 321.85
+2025-05-15 12:05:58,600 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:05:58,602 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.29017e-04, T_mes: 326.07, T_bs: 325.47, T_soil: 323.08, Iter: 0
+2025-05-15 12:05:58,602 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.29017e-04, T_mes: 326.07, T_bs: 325.47, T_soil: 323.08
+2025-05-15 12:05:58,999 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:05:59,001 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.31115e-04, T_mes: 327.32, T_bs: 326.75, T_soil: 324.31, Iter: 0
+2025-05-15 12:05:59,001 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.31115e-04, T_mes: 327.32, T_bs: 326.75, T_soil: 324.31
+2025-05-15 12:05:59,425 - INFO - Initial Guess - g_m: 0.99508, F: 2.00000e-02, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:05:59,427 - INFO - Refined Solution - g_m: 0.99509, F: 2.00000e-02, E_mes: 1.32588e-04, T_mes: 328.61, T_bs: 328.07, T_soil: 325.57, Iter: 1
+2025-05-15 12:05:59,427 - INFO - Final Optimized Values - g_m: 0.99509, F: 2.00000e-02, E_mes: 1.32588e-04, T_mes: 328.61, T_bs: 328.07, T_soil: 325.57
+2025-05-15 12:06:04,268 - INFO - Initial Guess - g_m: 0.00662, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:04,270 - INFO - Refined Solution - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23655e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.49, Iter: 1
+2025-05-15 12:06:04,270 - INFO - Final Optimized Values - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23655e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.49
+2025-05-15 12:06:04,630 - INFO - Initial Guess - g_m: 0.00662, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:04,632 - INFO - Refined Solution - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23664e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.49, Iter: 1
+2025-05-15 12:06:04,632 - INFO - Final Optimized Values - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23664e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.49
+2025-05-15 12:06:04,996 - INFO - Initial Guess - g_m: 0.00662, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:04,998 - INFO - Refined Solution - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23673e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.49, Iter: 1
+2025-05-15 12:06:04,998 - INFO - Final Optimized Values - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23673e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.49
+2025-05-15 12:06:05,375 - INFO - Initial Guess - g_m: 0.00662, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:05,377 - INFO - Refined Solution - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23682e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.49, Iter: 1
+2025-05-15 12:06:05,377 - INFO - Final Optimized Values - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23682e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.49
+2025-05-15 12:06:05,762 - INFO - Initial Guess - g_m: 0.00662, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:05,763 - INFO - Refined Solution - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23691e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.49, Iter: 1
+2025-05-15 12:06:05,763 - INFO - Final Optimized Values - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23691e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.49
+2025-05-15 12:06:06,153 - INFO - Initial Guess - g_m: 0.00662, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:06,155 - INFO - Refined Solution - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23700e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.50, Iter: 1
+2025-05-15 12:06:06,155 - INFO - Final Optimized Values - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23700e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.50
+2025-05-15 12:06:06,543 - INFO - Initial Guess - g_m: 0.00662, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:06,546 - INFO - Refined Solution - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23710e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.50, Iter: 1
+2025-05-15 12:06:06,546 - INFO - Final Optimized Values - g_m: 0.00662, F: 0.00000e+00, E_mes: 4.23710e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.50
+2025-05-15 12:06:06,924 - INFO - Initial Guess - g_m: 0.04382, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:06,926 - INFO - Refined Solution - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80670e-06, T_mes: 278.40, T_bs: 276.41, T_soil: 271.50, Iter: 1
+2025-05-15 12:06:06,926 - INFO - Final Optimized Values - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80670e-06, T_mes: 278.40, T_bs: 276.41, T_soil: 271.50
+2025-05-15 12:06:07,278 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:07,279 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63332e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.50, Iter: 1
+2025-05-15 12:06:07,279 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63332e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.50
+2025-05-15 12:06:07,643 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:07,644 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63345e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.50, Iter: 1
+2025-05-15 12:06:07,644 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63345e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.50
+2025-05-15 12:06:08,023 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:08,024 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63356e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.50, Iter: 1
+2025-05-15 12:06:08,024 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63356e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.50
+2025-05-15 12:06:08,407 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:08,408 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63368e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.50, Iter: 1
+2025-05-15 12:06:08,408 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63368e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.50
+2025-05-15 12:06:08,813 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:08,814 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63381e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.50, Iter: 1
+2025-05-15 12:06:08,814 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63381e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.50
+2025-05-15 12:06:09,211 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:09,213 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63393e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.50, Iter: 1
+2025-05-15 12:06:09,213 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63393e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.50
+2025-05-15 12:06:09,611 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:09,613 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63405e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.51, Iter: 1
+2025-05-15 12:06:09,613 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63405e-07, T_mes: 278.62, T_bs: 276.63, T_soil: 271.51
+2025-05-15 12:06:09,997 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:09,998 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63418e-07, T_mes: 278.62, T_bs: 276.64, T_soil: 271.51, Iter: 1
+2025-05-15 12:06:09,998 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63418e-07, T_mes: 278.62, T_bs: 276.64, T_soil: 271.51
+2025-05-15 12:06:10,342 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:10,344 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63430e-07, T_mes: 278.63, T_bs: 276.64, T_soil: 271.51, Iter: 1
+2025-05-15 12:06:10,345 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63430e-07, T_mes: 278.63, T_bs: 276.64, T_soil: 271.51
+2025-05-15 12:06:10,692 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:10,693 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63442e-07, T_mes: 278.63, T_bs: 276.64, T_soil: 271.51, Iter: 1
+2025-05-15 12:06:10,693 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63442e-07, T_mes: 278.63, T_bs: 276.64, T_soil: 271.51
+2025-05-15 12:06:11,032 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:11,034 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63454e-07, T_mes: 278.63, T_bs: 276.64, T_soil: 271.51, Iter: 1
+2025-05-15 12:06:11,034 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63454e-07, T_mes: 278.63, T_bs: 276.64, T_soil: 271.51
+2025-05-15 12:06:11,400 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:11,402 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63466e-07, T_mes: 278.63, T_bs: 276.64, T_soil: 271.51, Iter: 1
+2025-05-15 12:06:11,402 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63466e-07, T_mes: 278.63, T_bs: 276.64, T_soil: 271.51
+2025-05-15 12:06:11,776 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:11,778 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63478e-07, T_mes: 278.63, T_bs: 276.65, T_soil: 271.51, Iter: 1
+2025-05-15 12:06:11,778 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63478e-07, T_mes: 278.63, T_bs: 276.65, T_soil: 271.51
+2025-05-15 12:06:12,129 - INFO - Initial Guess - g_m: 0.00880, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:12,130 - INFO - Refined Solution - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63490e-07, T_mes: 278.64, T_bs: 276.65, T_soil: 271.51, Iter: 1
+2025-05-15 12:06:12,130 - INFO - Final Optimized Values - g_m: 0.00879, F: 0.00000e+00, E_mes: 5.63490e-07, T_mes: 278.64, T_bs: 276.65, T_soil: 271.51
+2025-05-15 12:06:12,475 - INFO - Initial Guess - g_m: 0.04382, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:12,477 - INFO - Refined Solution - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80763e-06, T_mes: 278.43, T_bs: 276.44, T_soil: 271.52, Iter: 1
+2025-05-15 12:06:12,477 - INFO - Final Optimized Values - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80763e-06, T_mes: 278.43, T_bs: 276.44, T_soil: 271.52
+2025-05-15 12:06:12,819 - INFO - Initial Guess - g_m: 0.04382, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:12,821 - INFO - Refined Solution - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80769e-06, T_mes: 278.43, T_bs: 276.44, T_soil: 271.52, Iter: 1
+2025-05-15 12:06:12,821 - INFO - Final Optimized Values - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80769e-06, T_mes: 278.43, T_bs: 276.44, T_soil: 271.52
+2025-05-15 12:06:13,179 - INFO - Initial Guess - g_m: 0.04382, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:13,180 - INFO - Refined Solution - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80775e-06, T_mes: 278.43, T_bs: 276.44, T_soil: 271.52, Iter: 1
+2025-05-15 12:06:13,181 - INFO - Final Optimized Values - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80775e-06, T_mes: 278.43, T_bs: 276.44, T_soil: 271.52
+2025-05-15 12:06:13,529 - INFO - Initial Guess - g_m: 0.04382, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:13,531 - INFO - Refined Solution - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80782e-06, T_mes: 278.43, T_bs: 276.45, T_soil: 271.52, Iter: 1
+2025-05-15 12:06:13,531 - INFO - Final Optimized Values - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80782e-06, T_mes: 278.43, T_bs: 276.45, T_soil: 271.52
+2025-05-15 12:06:13,868 - INFO - Initial Guess - g_m: 0.04382, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:13,869 - INFO - Refined Solution - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80788e-06, T_mes: 278.43, T_bs: 276.45, T_soil: 271.52, Iter: 1
+2025-05-15 12:06:13,869 - INFO - Final Optimized Values - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80788e-06, T_mes: 278.43, T_bs: 276.45, T_soil: 271.52
+2025-05-15 12:06:14,213 - INFO - Initial Guess - g_m: 0.04382, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:14,215 - INFO - Refined Solution - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80794e-06, T_mes: 278.44, T_bs: 276.45, T_soil: 271.52, Iter: 1
+2025-05-15 12:06:14,215 - INFO - Final Optimized Values - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80794e-06, T_mes: 278.44, T_bs: 276.45, T_soil: 271.52
+2025-05-15 12:06:14,566 - INFO - Initial Guess - g_m: 0.04382, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:14,568 - INFO - Refined Solution - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80800e-06, T_mes: 278.44, T_bs: 276.45, T_soil: 271.52, Iter: 1
+2025-05-15 12:06:14,568 - INFO - Final Optimized Values - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80800e-06, T_mes: 278.44, T_bs: 276.45, T_soil: 271.52
+2025-05-15 12:06:14,910 - INFO - Initial Guess - g_m: 0.04382, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:06:14,912 - INFO - Refined Solution - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80806e-06, T_mes: 278.44, T_bs: 276.45, T_soil: 271.52, Iter: 1
+2025-05-15 12:06:14,912 - INFO - Final Optimized Values - g_m: 0.04382, F: 0.00000e+00, E_mes: 2.80806e-06, T_mes: 278.44, T_bs: 276.45, T_soil: 271.52
+2025-05-15 12:06:19,971 - INFO - Initial Guess - g_m: 0.02359, F: 9.90024e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:19,973 - INFO - Refined Solution - g_m: 0.02359, F: 9.88865e-03, E_mes: 2.48062e-06, T_mes: 296.90, T_bs: 305.96, T_soil: 317.29, Iter: 1
+2025-05-15 12:06:19,973 - INFO - Final Optimized Values - g_m: 0.02359, F: 9.88865e-03, E_mes: 2.48062e-06, T_mes: 296.90, T_bs: 305.96, T_soil: 317.29
+2025-05-15 12:06:20,335 - INFO - Initial Guess - g_m: 0.00911, F: 8.65010e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:20,337 - INFO - Refined Solution - g_m: 0.00911, F: 8.64373e-03, E_mes: 9.57863e-07, T_mes: 297.65, T_bs: 305.95, T_soil: 317.83, Iter: 1
+2025-05-15 12:06:20,337 - INFO - Final Optimized Values - g_m: 0.00911, F: 8.64373e-03, E_mes: 9.57863e-07, T_mes: 297.65, T_bs: 305.95, T_soil: 317.83
+2025-05-15 12:06:20,740 - INFO - Initial Guess - g_m: 0.03553, F: 8.08640e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:20,742 - INFO - Refined Solution - g_m: 0.03553, F: 8.06996e-03, E_mes: 3.73581e-06, T_mes: 298.20, T_bs: 305.96, T_soil: 317.79, Iter: 1
+2025-05-15 12:06:20,742 - INFO - Final Optimized Values - g_m: 0.03553, F: 8.06996e-03, E_mes: 3.73581e-06, T_mes: 298.20, T_bs: 305.96, T_soil: 317.79
+2025-05-15 12:06:21,144 - INFO - Initial Guess - g_m: 0.01831, F: 6.89123e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:21,146 - INFO - Refined Solution - g_m: 0.01831, F: 6.90065e-03, E_mes: 1.92511e-06, T_mes: 298.96, T_bs: 305.94, T_soil: 318.38, Iter: 1
+2025-05-15 12:06:21,147 - INFO - Final Optimized Values - g_m: 0.01831, F: 6.90065e-03, E_mes: 1.92511e-06, T_mes: 298.96, T_bs: 305.94, T_soil: 318.38
+2025-05-15 12:06:21,532 - INFO - Initial Guess - g_m: 0.02035, F: 6.05890e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:21,534 - INFO - Refined Solution - g_m: 0.02035, F: 6.07143e-03, E_mes: 2.14038e-06, T_mes: 299.63, T_bs: 305.94, T_soil: 318.68, Iter: 1
+2025-05-15 12:06:21,534 - INFO - Final Optimized Values - g_m: 0.02035, F: 6.07143e-03, E_mes: 2.14038e-06, T_mes: 299.63, T_bs: 305.94, T_soil: 318.68
+2025-05-15 12:06:21,915 - INFO - Initial Guess - g_m: 0.03986, F: 5.44571e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:21,917 - INFO - Refined Solution - g_m: 0.03986, F: 5.45099e-03, E_mes: 4.19131e-06, T_mes: 300.21, T_bs: 305.94, T_soil: 318.74, Iter: 1
+2025-05-15 12:06:21,917 - INFO - Final Optimized Values - g_m: 0.03986, F: 5.45099e-03, E_mes: 4.19131e-06, T_mes: 300.21, T_bs: 305.94, T_soil: 318.74
+2025-05-15 12:06:22,284 - INFO - Initial Guess - g_m: 0.10978, F: 5.30376e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:22,285 - INFO - Refined Solution - g_m: 0.10978, F: 5.30927e-03, E_mes: 1.15439e-05, T_mes: 300.53, T_bs: 305.94, T_soil: 318.12, Iter: 1
+2025-05-15 12:06:22,285 - INFO - Final Optimized Values - g_m: 0.10978, F: 5.30927e-03, E_mes: 1.15439e-05, T_mes: 300.53, T_bs: 305.94, T_soil: 318.12
+2025-05-15 12:06:22,638 - INFO - Initial Guess - g_m: 0.14801, F: 4.82821e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:22,639 - INFO - Refined Solution - g_m: 0.14801, F: 4.83566e-03, E_mes: 1.55640e-05, T_mes: 301.02, T_bs: 305.94, T_soil: 317.94, Iter: 1
+2025-05-15 12:06:22,639 - INFO - Final Optimized Values - g_m: 0.14801, F: 4.83566e-03, E_mes: 1.55640e-05, T_mes: 301.02, T_bs: 305.94, T_soil: 317.94
+2025-05-15 12:06:22,981 - INFO - Initial Guess - g_m: 0.14863, F: 4.02225e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:22,983 - INFO - Refined Solution - g_m: 0.14863, F: 4.01595e-03, E_mes: 1.56289e-05, T_mes: 301.70, T_bs: 305.94, T_soil: 318.25, Iter: 1
+2025-05-15 12:06:22,983 - INFO - Final Optimized Values - g_m: 0.14863, F: 4.01595e-03, E_mes: 1.56289e-05, T_mes: 301.70, T_bs: 305.94, T_soil: 318.25
+2025-05-15 12:06:23,335 - INFO - Initial Guess - g_m: 0.01780, F: 2.37507e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:23,337 - INFO - Refined Solution - g_m: 0.01780, F: 2.37505e-03, E_mes: 1.87166e-06, T_mes: 303.04, T_bs: 305.94, T_soil: 320.35, Iter: 1
+2025-05-15 12:06:23,337 - INFO - Final Optimized Values - g_m: 0.01780, F: 2.37505e-03, E_mes: 1.87166e-06, T_mes: 303.04, T_bs: 305.94, T_soil: 320.35
+2025-05-15 12:06:23,681 - INFO - Initial Guess - g_m: 0.05549, F: 1.93371e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:23,682 - INFO - Refined Solution - g_m: 0.05549, F: 1.93371e-03, E_mes: 5.83452e-06, T_mes: 303.53, T_bs: 305.94, T_soil: 320.17, Iter: 1
+2025-05-15 12:06:23,682 - INFO - Final Optimized Values - g_m: 0.05549, F: 1.93371e-03, E_mes: 5.83452e-06, T_mes: 303.53, T_bs: 305.94, T_soil: 320.17
+2025-05-15 12:06:24,036 - INFO - Initial Guess - g_m: 0.13688, F: 1.71022e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:24,038 - INFO - Refined Solution - g_m: 0.13688, F: 1.71021e-03, E_mes: 1.43940e-05, T_mes: 303.79, T_bs: 305.94, T_soil: 319.40, Iter: 1
+2025-05-15 12:06:24,038 - INFO - Final Optimized Values - g_m: 0.13688, F: 1.71021e-03, E_mes: 1.43940e-05, T_mes: 303.79, T_bs: 305.94, T_soil: 319.40
+2025-05-15 12:06:24,388 - INFO - Initial Guess - g_m: 0.08326, F: 8.05578e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:24,390 - INFO - Refined Solution - g_m: 0.08326, F: 8.05573e-04, E_mes: 8.75474e-06, T_mes: 304.75, T_bs: 305.94, T_soil: 320.45, Iter: 1
+2025-05-15 12:06:24,390 - INFO - Final Optimized Values - g_m: 0.08326, F: 8.05573e-04, E_mes: 8.75474e-06, T_mes: 304.75, T_bs: 305.94, T_soil: 320.45
+2025-05-15 12:06:24,733 - INFO - Initial Guess - g_m: 0.33437, F: 1.37819e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:24,735 - INFO - Refined Solution - g_m: 0.33437, F: 1.37782e-03, E_mes: 3.51606e-05, T_mes: 304.15, T_bs: 305.94, T_soil: 317.39, Iter: 1
+2025-05-15 12:06:24,735 - INFO - Final Optimized Values - g_m: 0.33437, F: 1.37782e-03, E_mes: 3.51606e-05, T_mes: 304.15, T_bs: 305.94, T_soil: 317.39
+2025-05-15 12:06:25,139 - INFO - Initial Guess - g_m: 0.28905, F: 3.92795e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:25,141 - INFO - Refined Solution - g_m: 0.28905, F: 3.92749e-04, E_mes: 3.03946e-05, T_mes: 305.06, T_bs: 305.94, T_soil: 318.33, Iter: 1
+2025-05-15 12:06:25,141 - INFO - Final Optimized Values - g_m: 0.28905, F: 3.92749e-04, E_mes: 3.03946e-05, T_mes: 305.06, T_bs: 305.94, T_soil: 318.33
+2025-05-15 12:06:25,493 - INFO - Initial Guess - g_m: 0.50292, F: 7.22008e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:25,495 - INFO - Refined Solution - g_m: 0.50292, F: 7.18953e-04, E_mes: 5.28848e-05, T_mes: 304.65, T_bs: 305.94, T_soil: 315.77, Iter: 1
+2025-05-15 12:06:25,496 - INFO - Final Optimized Values - g_m: 0.50292, F: 7.18953e-04, E_mes: 5.28848e-05, T_mes: 304.65, T_bs: 305.94, T_soil: 315.77
+2025-05-15 12:06:25,860 - INFO - Initial Guess - g_m: 0.60102, F: 3.86305e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:25,863 - INFO - Refined Solution - g_m: 0.60102, F: 3.86253e-04, E_mes: 6.32005e-05, T_mes: 304.84, T_bs: 305.94, T_soil: 314.77, Iter: 1
+2025-05-15 12:06:25,863 - INFO - Final Optimized Values - g_m: 0.60102, F: 3.86253e-04, E_mes: 6.32005e-05, T_mes: 304.84, T_bs: 305.94, T_soil: 314.77
+2025-05-15 12:06:26,214 - INFO - Initial Guess - g_m: 0.83671, F: 1.13254e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:26,216 - INFO - Refined Solution - g_m: 0.83671, F: 1.12523e-03, E_mes: 8.79843e-05, T_mes: 304.32, T_bs: 305.94, T_soil: 311.91, Iter: 1
+2025-05-15 12:06:26,216 - INFO - Final Optimized Values - g_m: 0.83671, F: 1.12523e-03, E_mes: 8.79843e-05, T_mes: 304.32, T_bs: 305.94, T_soil: 311.91
+2025-05-15 12:06:26,559 - INFO - Initial Guess - g_m: 0.88100, F: 7.22580e-05, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:26,560 - INFO - Refined Solution - g_m: 0.88100, F: 5.14778e-05, E_mes: 9.26413e-05, T_mes: 304.77, T_bs: 305.93, T_soil: 311.66, Iter: 1
+2025-05-15 12:06:26,560 - INFO - Final Optimized Values - g_m: 0.88100, F: 5.14778e-05, E_mes: 9.26413e-05, T_mes: 304.77, T_bs: 305.93, T_soil: 311.66
+2025-05-15 12:06:26,918 - INFO - Initial Guess - g_m: 1.00000, F: 0.00000e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:26,919 - INFO - Refined Solution - g_m: 1.00000, F: 0.00000e+00, E_mes: 1.05155e-04, T_mes: 305.07, T_bs: 306.38, T_soil: 309.76, Iter: 0
+2025-05-15 12:06:26,919 - INFO - Final Optimized Values - g_m: 1.00000, F: 0.00000e+00, E_mes: 1.05155e-04, T_mes: 305.07, T_bs: 306.38, T_soil: 309.76
+2025-05-15 12:06:27,275 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:06:27,276 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 306.52, T_bs: 307.96, T_soil: 307.93, Iter: 0
+2025-05-15 12:06:27,276 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 306.52, T_bs: 307.96, T_soil: 307.93
+2025-05-15 12:06:27,621 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:06:27,622 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 307.34, T_bs: 308.25, T_soil: 307.87, Iter: 0
+2025-05-15 12:06:27,622 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 307.34, T_bs: 308.25, T_soil: 307.87
+2025-05-15 12:06:27,969 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:06:27,971 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 308.17, T_bs: 308.54, T_soil: 307.80, Iter: 0
+2025-05-15 12:06:27,971 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 308.17, T_bs: 308.54, T_soil: 307.80
+2025-05-15 12:06:28,317 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:06:28,318 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 308.99, T_bs: 308.83, T_soil: 307.73, Iter: 0
+2025-05-15 12:06:28,318 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 308.99, T_bs: 308.83, T_soil: 307.73
+2025-05-15 12:06:28,664 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:06:28,666 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 309.81, T_bs: 309.12, T_soil: 307.66, Iter: 0
+2025-05-15 12:06:28,666 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 309.81, T_bs: 309.12, T_soil: 307.66
+2025-05-15 12:06:29,029 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:06:29,030 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 310.63, T_bs: 309.40, T_soil: 307.60, Iter: 0
+2025-05-15 12:06:29,030 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 310.63, T_bs: 309.40, T_soil: 307.60
+2025-05-15 12:06:29,451 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:06:29,453 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 311.45, T_bs: 309.69, T_soil: 307.53, Iter: 0
+2025-05-15 12:06:29,453 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 311.45, T_bs: 309.69, T_soil: 307.53
+2025-05-15 12:06:29,850 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:06:29,852 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 312.28, T_bs: 309.98, T_soil: 307.46, Iter: 0
+2025-05-15 12:06:29,852 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 312.28, T_bs: 309.98, T_soil: 307.46
+2025-05-15 12:06:30,256 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:06:30,258 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 313.10, T_bs: 310.27, T_soil: 307.39, Iter: 0
+2025-05-15 12:06:30,258 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 313.10, T_bs: 310.27, T_soil: 307.39
+2025-05-15 12:06:30,630 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00007, Iterations: 1000
+2025-05-15 12:06:30,631 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 313.92, T_bs: 310.56, T_soil: 307.33, Iter: 0
+2025-05-15 12:06:30,631 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 1.05155e-04, T_mes: 313.92, T_bs: 310.56, T_soil: 307.33
+2025-05-15 12:06:35,770 - INFO - Initial Guess - g_m: 0.00001, F: 2.00000e-02, Objective: -0.00003, Iterations: 1000
+2025-05-15 12:06:35,773 - INFO - Refined Solution - g_m: 0.00000, F: 2.00000e-02, E_mes: 1.71470e-11, T_mes: 289.12, T_bs: 291.91, T_soil: 294.21, Iter: 1
+2025-05-15 12:06:35,774 - INFO - Final Optimized Values - g_m: 0.00000, F: 2.00000e-02, E_mes: 1.71470e-11, T_mes: 289.12, T_bs: 291.91, T_soil: 294.21
+2025-05-15 12:30:51,000 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:30:51,003 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 7.44606e-11, T_mes: 301.08, T_bs: 301.20, T_soil: 285.06, Iter: 1
+2025-05-15 12:30:51,003 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 7.44606e-11, T_mes: 301.08, T_bs: 301.20, T_soil: 285.06
+2025-05-15 12:30:51,388 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:30:51,391 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.66986e-11, T_mes: 302.63, T_bs: 302.89, T_soil: 285.99, Iter: 1
+2025-05-15 12:30:51,391 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.66986e-11, T_mes: 302.63, T_bs: 302.89, T_soil: 285.99
+2025-05-15 12:30:51,759 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:51,762 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.49491e-11, T_mes: 304.18, T_bs: 304.59, T_soil: 286.93, Iter: 1
+2025-05-15 12:30:51,762 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.49491e-11, T_mes: 304.18, T_bs: 304.59, T_soil: 286.93
+2025-05-15 12:30:52,155 - INFO - Initial Guess - g_m: 0.01370, F: 5.92666e-07, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:52,157 - INFO - Refined Solution - g_m: 0.01370, F: 4.56863e-07, E_mes: 3.56351e-06, T_mes: 305.39, T_bs: 305.94, T_soil: 287.86, Iter: 1
+2025-05-15 12:30:52,157 - INFO - Final Optimized Values - g_m: 0.01370, F: 4.56863e-07, E_mes: 3.56351e-06, T_mes: 305.39, T_bs: 305.94, T_soil: 287.86
+2025-05-15 12:30:52,548 - INFO - Initial Guess - g_m: 0.08169, F: 2.78417e-07, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:52,550 - INFO - Refined Solution - g_m: 0.08169, F: 3.26668e-07, E_mes: 2.16116e-05, T_mes: 305.23, T_bs: 305.94, T_soil: 288.80, Iter: 1
+2025-05-15 12:30:52,550 - INFO - Final Optimized Values - g_m: 0.08169, F: 3.26668e-07, E_mes: 2.16116e-05, T_mes: 305.23, T_bs: 305.94, T_soil: 288.80
+2025-05-15 12:30:52,960 - INFO - Initial Guess - g_m: 0.07611, F: 6.71388e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:52,962 - INFO - Refined Solution - g_m: 0.07611, F: 6.71126e-04, E_mes: 2.04779e-05, T_mes: 306.00, T_bs: 305.94, T_soil: 292.20, Iter: 1
+2025-05-15 12:30:52,962 - INFO - Final Optimized Values - g_m: 0.07611, F: 6.71126e-04, E_mes: 2.04779e-05, T_mes: 306.00, T_bs: 305.94, T_soil: 292.20
+2025-05-15 12:30:53,352 - INFO - Initial Guess - g_m: 0.01347, F: 3.12551e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:53,354 - INFO - Refined Solution - g_m: 0.01347, F: 3.11924e-03, E_mes: 3.68539e-06, T_mes: 307.52, T_bs: 305.94, T_soil: 297.61, Iter: 1
+2025-05-15 12:30:53,354 - INFO - Final Optimized Values - g_m: 0.01347, F: 3.11924e-03, E_mes: 3.68539e-06, T_mes: 307.52, T_bs: 305.94, T_soil: 297.61
+2025-05-15 12:30:53,692 - INFO - Initial Guess - g_m: 0.01835, F: 6.47409e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:53,693 - INFO - Refined Solution - g_m: 0.01835, F: 6.47167e-03, E_mes: 5.10744e-06, T_mes: 308.16, T_bs: 305.94, T_soil: 300.68, Iter: 1
+2025-05-15 12:30:53,693 - INFO - Final Optimized Values - g_m: 0.01835, F: 6.47167e-03, E_mes: 5.10744e-06, T_mes: 308.16, T_bs: 305.94, T_soil: 300.68
+2025-05-15 12:30:54,033 - INFO - Initial Guess - g_m: 0.02971, F: 1.69332e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:54,035 - INFO - Refined Solution - g_m: 0.02971, F: 1.69328e-02, E_mes: 8.40833e-06, T_mes: 308.72, T_bs: 305.94, T_soil: 303.51, Iter: 1
+2025-05-15 12:30:54,035 - INFO - Final Optimized Values - g_m: 0.02971, F: 1.69328e-02, E_mes: 8.40833e-06, T_mes: 308.72, T_bs: 305.94, T_soil: 303.51
+2025-05-15 12:30:54,404 - INFO - Initial Guess - g_m: 0.10674, F: 1.91890e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:54,406 - INFO - Refined Solution - g_m: 0.10674, F: 1.91886e-02, E_mes: 3.07212e-05, T_mes: 308.35, T_bs: 305.93, T_soil: 303.90, Iter: 1
+2025-05-15 12:30:54,406 - INFO - Final Optimized Values - g_m: 0.10674, F: 1.91886e-02, E_mes: 3.07212e-05, T_mes: 308.35, T_bs: 305.93, T_soil: 303.90
+2025-05-15 12:30:54,797 - INFO - Initial Guess - g_m: 0.18569, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:54,799 - INFO - Refined Solution - g_m: 0.18569, F: 1.99997e-02, E_mes: 5.43477e-05, T_mes: 307.93, T_bs: 305.94, T_soil: 304.12, Iter: 1
+2025-05-15 12:30:54,799 - INFO - Final Optimized Values - g_m: 0.18569, F: 1.99997e-02, E_mes: 5.43477e-05, T_mes: 307.93, T_bs: 305.94, T_soil: 304.12
+2025-05-15 12:30:55,207 - INFO - Initial Guess - g_m: 0.26753, F: 1.81389e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:55,209 - INFO - Refined Solution - g_m: 0.26753, F: 1.81385e-02, E_mes: 7.96223e-05, T_mes: 307.42, T_bs: 305.94, T_soil: 304.12, Iter: 1
+2025-05-15 12:30:55,209 - INFO - Final Optimized Values - g_m: 0.26753, F: 1.81385e-02, E_mes: 7.96223e-05, T_mes: 307.42, T_bs: 305.94, T_soil: 304.12
+2025-05-15 12:30:55,571 - INFO - Initial Guess - g_m: 0.33888, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:55,572 - INFO - Refined Solution - g_m: 0.33888, F: 2.00000e-02, E_mes: 1.02552e-04, T_mes: 307.03, T_bs: 305.94, T_soil: 304.42, Iter: 1
+2025-05-15 12:30:55,573 - INFO - Final Optimized Values - g_m: 0.33888, F: 2.00000e-02, E_mes: 1.02552e-04, T_mes: 307.03, T_bs: 305.94, T_soil: 304.42
+2025-05-15 12:30:55,947 - INFO - Initial Guess - g_m: 0.42402, F: 1.35275e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:55,949 - INFO - Refined Solution - g_m: 0.42402, F: 1.35288e-02, E_mes: 1.30473e-04, T_mes: 306.40, T_bs: 305.96, T_soil: 304.07, Iter: 1
+2025-05-15 12:30:55,949 - INFO - Final Optimized Values - g_m: 0.42402, F: 1.35288e-02, E_mes: 1.30473e-04, T_mes: 306.40, T_bs: 305.96, T_soil: 304.07
+2025-05-15 12:30:56,317 - INFO - Initial Guess - g_m: 0.48432, F: 1.91157e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:56,318 - INFO - Refined Solution - g_m: 0.48432, F: 1.91153e-02, E_mes: 1.51523e-04, T_mes: 306.09, T_bs: 305.93, T_soil: 304.66, Iter: 1
+2025-05-15 12:30:56,318 - INFO - Final Optimized Values - g_m: 0.48432, F: 1.91153e-02, E_mes: 1.51523e-04, T_mes: 306.09, T_bs: 305.93, T_soil: 304.66
+2025-05-15 12:30:56,903 - INFO - Initial Guess - g_m: 0.54998, F: 1.99384e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:56,904 - INFO - Refined Solution - g_m: 0.54998, F: 1.99387e-02, E_mes: 1.74943e-04, T_mes: 305.68, T_bs: 305.95, T_soil: 304.87, Iter: 1
+2025-05-15 12:30:56,904 - INFO - Final Optimized Values - g_m: 0.54998, F: 1.99387e-02, E_mes: 1.74943e-04, T_mes: 305.68, T_bs: 305.95, T_soil: 304.87
+2025-05-15 12:30:57,261 - INFO - Initial Guess - g_m: 0.61724, F: 1.92945e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:57,263 - INFO - Refined Solution - g_m: 0.61724, F: 1.92944e-02, E_mes: 1.99612e-04, T_mes: 305.20, T_bs: 305.94, T_soil: 304.98, Iter: 1
+2025-05-15 12:30:57,263 - INFO - Final Optimized Values - g_m: 0.61724, F: 1.92944e-02, E_mes: 1.99612e-04, T_mes: 305.20, T_bs: 305.94, T_soil: 304.98
+2025-05-15 12:30:57,619 - INFO - Initial Guess - g_m: 0.68314, F: 1.60054e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:57,621 - INFO - Refined Solution - g_m: 0.68314, F: 1.60057e-02, E_mes: 2.24600e-04, T_mes: 304.71, T_bs: 305.95, T_soil: 305.00, Iter: 1
+2025-05-15 12:30:57,621 - INFO - Final Optimized Values - g_m: 0.68314, F: 1.60057e-02, E_mes: 2.24600e-04, T_mes: 304.71, T_bs: 305.95, T_soil: 305.00
+2025-05-15 12:30:57,980 - INFO - Initial Guess - g_m: 0.74240, F: 1.89911e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:57,982 - INFO - Refined Solution - g_m: 0.74240, F: 1.89908e-02, E_mes: 2.48136e-04, T_mes: 304.28, T_bs: 305.93, T_soil: 305.26, Iter: 1
+2025-05-15 12:30:57,982 - INFO - Final Optimized Values - g_m: 0.74240, F: 1.89908e-02, E_mes: 2.48136e-04, T_mes: 304.28, T_bs: 305.93, T_soil: 305.26
+2025-05-15 12:30:58,337 - INFO - Initial Guess - g_m: 0.80201, F: 1.68326e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:58,338 - INFO - Refined Solution - g_m: 0.80201, F: 1.68325e-02, E_mes: 2.72504e-04, T_mes: 303.82, T_bs: 305.94, T_soil: 305.37, Iter: 1
+2025-05-15 12:30:58,338 - INFO - Final Optimized Values - g_m: 0.80201, F: 1.68325e-02, E_mes: 2.72504e-04, T_mes: 303.82, T_bs: 305.94, T_soil: 305.37
+2025-05-15 12:30:58,718 - INFO - Initial Guess - g_m: 0.85710, F: 1.98486e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:58,720 - INFO - Refined Solution - g_m: 0.85710, F: 1.98486e-02, E_mes: 2.96040e-04, T_mes: 303.40, T_bs: 305.94, T_soil: 305.60, Iter: 0
+2025-05-15 12:30:58,720 - INFO - Final Optimized Values - g_m: 0.85710, F: 1.98486e-02, E_mes: 2.96040e-04, T_mes: 303.40, T_bs: 305.94, T_soil: 305.60
+2025-05-15 12:30:59,088 - INFO - Initial Guess - g_m: 0.91208, F: 1.89482e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:59,090 - INFO - Refined Solution - g_m: 0.91208, F: 1.89482e-02, E_mes: 3.20227e-04, T_mes: 302.94, T_bs: 305.95, T_soil: 305.74, Iter: 1
+2025-05-15 12:30:59,090 - INFO - Final Optimized Values - g_m: 0.91208, F: 1.89482e-02, E_mes: 3.20227e-04, T_mes: 302.94, T_bs: 305.95, T_soil: 305.74
+2025-05-15 12:30:59,470 - INFO - Initial Guess - g_m: 0.96498, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:59,471 - INFO - Refined Solution - g_m: 0.96498, F: 2.00000e-02, E_mes: 3.44381e-04, T_mes: 302.49, T_bs: 305.94, T_soil: 305.89, Iter: 0
+2025-05-15 12:30:59,471 - INFO - Final Optimized Values - g_m: 0.96498, F: 2.00000e-02, E_mes: 3.44381e-04, T_mes: 302.49, T_bs: 305.94, T_soil: 305.89
+2025-05-15 12:30:59,849 - INFO - Initial Guess - g_m: 0.99892, F: 3.38633e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:30:59,850 - INFO - Refined Solution - g_m: 0.99893, F: 3.38077e-03, E_mes: 3.62354e-04, T_mes: 302.49, T_bs: 306.25, T_soil: 306.42, Iter: 1
+2025-05-15 12:30:59,850 - INFO - Final Optimized Values - g_m: 0.99893, F: 3.38077e-03, E_mes: 3.62354e-04, T_mes: 302.49, T_bs: 306.25, T_soil: 306.42
+2025-05-15 12:31:00,218 - INFO - Initial Guess - g_m: 1.00000, F: 0.00000e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:00,219 - INFO - Refined Solution - g_m: 1.00000, F: 0.00000e+00, E_mes: 3.68692e-04, T_mes: 303.38, T_bs: 307.23, T_soil: 307.51, Iter: 0
+2025-05-15 12:31:00,219 - INFO - Final Optimized Values - g_m: 1.00000, F: 0.00000e+00, E_mes: 3.68692e-04, T_mes: 303.38, T_bs: 307.23, T_soil: 307.51
+2025-05-15 12:31:00,560 - INFO - Initial Guess - g_m: 1.00000, F: 1.52345e-03, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:31:00,562 - INFO - Refined Solution - g_m: 1.00000, F: 1.50504e-03, E_mes: 3.74725e-04, T_mes: 304.36, T_bs: 308.38, T_soil: 308.42, Iter: 1
+2025-05-15 12:31:00,562 - INFO - Final Optimized Values - g_m: 1.00000, F: 1.50504e-03, E_mes: 3.74725e-04, T_mes: 304.36, T_bs: 308.38, T_soil: 308.42
+2025-05-15 12:31:00,898 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:31:00,899 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 3.80844e-04, T_mes: 305.31, T_bs: 309.44, T_soil: 309.43, Iter: 0
+2025-05-15 12:31:00,899 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 3.80844e-04, T_mes: 305.31, T_bs: 309.44, T_soil: 309.43
+2025-05-15 12:31:01,234 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:31:01,236 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 3.87051e-04, T_mes: 306.24, T_bs: 310.49, T_soil: 310.46, Iter: 0
+2025-05-15 12:31:01,236 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 3.87051e-04, T_mes: 306.24, T_bs: 310.49, T_soil: 310.46
+2025-05-15 12:31:01,618 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00007, Iterations: 1000
+2025-05-15 12:31:01,620 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 3.93345e-04, T_mes: 307.16, T_bs: 311.52, T_soil: 311.48, Iter: 0
+2025-05-15 12:31:01,620 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 3.93345e-04, T_mes: 307.16, T_bs: 311.52, T_soil: 311.48
+2025-05-15 12:31:01,989 - INFO - Initial Guess - g_m: 1.00000, F: 2.00000e-02, Objective: -0.00006, Iterations: 1000
+2025-05-15 12:31:01,990 - INFO - Refined Solution - g_m: 1.00000, F: 2.00000e-02, E_mes: 3.99728e-04, T_mes: 308.07, T_bs: 312.56, T_soil: 312.50, Iter: 0
+2025-05-15 12:31:01,990 - INFO - Final Optimized Values - g_m: 1.00000, F: 2.00000e-02, E_mes: 3.99728e-04, T_mes: 308.07, T_bs: 312.56, T_soil: 312.50
+2025-05-15 12:31:06,314 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:06,317 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 7.83594e-12, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:31:06,317 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 7.83594e-12, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:31:06,658 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:06,662 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.34955e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:31:06,662 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.34955e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:31:07,012 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:07,014 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.33390e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:31:07,014 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.33390e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:31:07,356 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:07,359 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.31825e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:31:07,359 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.31825e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:31:07,720 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:07,724 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.30260e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.49, Iter: 1
+2025-05-15 12:31:07,724 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.30260e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.49
+2025-05-15 12:31:08,070 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:08,073 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.28695e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-15 12:31:08,073 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.28695e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-15 12:31:08,420 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:08,423 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.27127e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-15 12:31:08,423 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.27127e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-15 12:31:08,808 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:08,812 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 7.78110e-12, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-15 12:31:08,812 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 7.78110e-12, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-15 12:31:09,217 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:09,221 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.23991e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-15 12:31:09,221 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.23991e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-15 12:31:09,604 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:09,608 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.22425e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:31:09,608 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.22425e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:31:10,029 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:10,032 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.20856e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:31:10,032 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.20856e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:31:10,392 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:10,395 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.19287e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:31:10,395 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.19287e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:31:10,747 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:10,750 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.20565e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:31:10,750 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.20565e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:31:11,097 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:11,100 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.16147e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:31:11,100 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.16147e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:31:11,444 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:11,446 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.14577e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:31:11,446 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.14577e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:31:11,789 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:11,791 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.13005e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:31:11,791 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.13005e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:31:12,135 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:12,138 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.11434e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:31:12,138 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.11434e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:31:12,492 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:12,495 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.09862e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:31:12,495 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.09862e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:31:12,842 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:12,845 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.08290e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:31:12,845 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.08290e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:31:13,192 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:13,195 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.06717e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51, Iter: 1
+2025-05-15 12:31:13,195 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.06717e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51
+2025-05-15 12:31:13,540 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:13,543 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.05145e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51, Iter: 1
+2025-05-15 12:31:13,543 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.05145e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51
+2025-05-15 12:31:13,886 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:13,889 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.03569e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51, Iter: 1
+2025-05-15 12:31:13,889 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.03569e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51
+2025-05-15 12:31:14,229 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:14,232 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.01995e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.52, Iter: 1
+2025-05-15 12:31:14,232 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.01995e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.52
+2025-05-15 12:31:14,590 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:14,594 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.00422e-11, T_mes: 278.69, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:31:14,594 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.00422e-11, T_mes: 278.69, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:31:14,953 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:14,957 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.98845e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:31:14,957 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.98845e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:31:15,357 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:15,360 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.97269e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:31:15,360 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.97269e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:31:15,760 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:15,763 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.95693e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:31:15,763 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.95693e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:31:16,125 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:16,128 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.94117e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:31:16,128 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.94117e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:31:16,489 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:16,492 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.92540e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52, Iter: 1
+2025-05-15 12:31:16,492 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.92540e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52
+2025-05-15 12:31:16,845 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:31:16,848 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 6.80556e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52, Iter: 1
+2025-05-15 12:31:16,848 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 6.80556e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52
+2025-05-15 12:31:21,675 - INFO - Initial Guess - g_m: 0.01513, F: 1.01618e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:21,677 - INFO - Refined Solution - g_m: 0.01513, F: 1.01712e-02, E_mes: 4.77263e-06, T_mes: 296.78, T_bs: 305.93, T_soil: 317.04, Iter: 1
+2025-05-15 12:31:21,677 - INFO - Final Optimized Values - g_m: 0.01513, F: 1.01712e-02, E_mes: 4.77263e-06, T_mes: 296.78, T_bs: 305.93, T_soil: 317.04
+2025-05-15 12:31:22,023 - INFO - Initial Guess - g_m: 0.01869, F: 9.26671e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:22,025 - INFO - Refined Solution - g_m: 0.01869, F: 9.28080e-03, E_mes: 5.89537e-06, T_mes: 297.40, T_bs: 305.92, T_soil: 317.23, Iter: 1
+2025-05-15 12:31:22,025 - INFO - Final Optimized Values - g_m: 0.01869, F: 9.28080e-03, E_mes: 5.89537e-06, T_mes: 297.40, T_bs: 305.92, T_soil: 317.23
+2025-05-15 12:31:22,362 - INFO - Initial Guess - g_m: 0.00913, F: 8.00233e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:22,364 - INFO - Refined Solution - g_m: 0.00913, F: 7.97712e-03, E_mes: 2.87928e-06, T_mes: 298.25, T_bs: 305.97, T_soil: 317.89, Iter: 1
+2025-05-15 12:31:22,364 - INFO - Final Optimized Values - g_m: 0.00913, F: 7.97712e-03, E_mes: 2.87928e-06, T_mes: 298.25, T_bs: 305.97, T_soil: 317.89
+2025-05-15 12:31:22,707 - INFO - Initial Guess - g_m: 0.01377, F: 7.18361e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:22,709 - INFO - Refined Solution - g_m: 0.01377, F: 7.18403e-03, E_mes: 4.34541e-06, T_mes: 298.84, T_bs: 305.94, T_soil: 318.06, Iter: 1
+2025-05-15 12:31:22,709 - INFO - Final Optimized Values - g_m: 0.01377, F: 7.18403e-03, E_mes: 4.34541e-06, T_mes: 298.84, T_bs: 305.94, T_soil: 318.06
+2025-05-15 12:31:23,047 - INFO - Initial Guess - g_m: 0.05132, F: 7.68472e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:23,049 - INFO - Refined Solution - g_m: 0.05132, F: 7.68989e-03, E_mes: 1.61893e-05, T_mes: 298.95, T_bs: 305.94, T_soil: 316.88, Iter: 1
+2025-05-15 12:31:23,049 - INFO - Final Optimized Values - g_m: 0.05132, F: 7.68989e-03, E_mes: 1.61893e-05, T_mes: 298.95, T_bs: 305.94, T_soil: 316.88
+2025-05-15 12:31:23,388 - INFO - Initial Guess - g_m: 0.04323, F: 6.42729e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:23,390 - INFO - Refined Solution - g_m: 0.04323, F: 6.42242e-03, E_mes: 1.36387e-05, T_mes: 299.76, T_bs: 305.95, T_soil: 317.52, Iter: 1
+2025-05-15 12:31:23,390 - INFO - Final Optimized Values - g_m: 0.04323, F: 6.42242e-03, E_mes: 1.36387e-05, T_mes: 299.76, T_bs: 305.95, T_soil: 317.52
+2025-05-15 12:31:23,730 - INFO - Initial Guess - g_m: 0.00681, F: 4.49753e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:23,732 - INFO - Refined Solution - g_m: 0.00681, F: 4.49603e-03, E_mes: 2.14817e-06, T_mes: 300.99, T_bs: 305.94, T_soil: 319.33, Iter: 1
+2025-05-15 12:31:23,732 - INFO - Final Optimized Values - g_m: 0.00681, F: 4.49603e-03, E_mes: 2.14817e-06, T_mes: 300.99, T_bs: 305.94, T_soil: 319.33
+2025-05-15 12:31:24,073 - INFO - Initial Guess - g_m: 0.04298, F: 4.66506e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:24,074 - INFO - Refined Solution - g_m: 0.04298, F: 4.65949e-03, E_mes: 1.35584e-05, T_mes: 301.12, T_bs: 305.94, T_soil: 318.19, Iter: 1
+2025-05-15 12:31:24,074 - INFO - Final Optimized Values - g_m: 0.04298, F: 4.65949e-03, E_mes: 1.35584e-05, T_mes: 301.12, T_bs: 305.94, T_soil: 318.19
+2025-05-15 12:31:24,419 - INFO - Initial Guess - g_m: 0.02052, F: 3.35755e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:24,420 - INFO - Refined Solution - g_m: 0.02052, F: 3.33105e-03, E_mes: 6.47438e-06, T_mes: 302.13, T_bs: 305.93, T_soil: 319.44, Iter: 1
+2025-05-15 12:31:24,420 - INFO - Final Optimized Values - g_m: 0.02052, F: 3.33105e-03, E_mes: 6.47438e-06, T_mes: 302.13, T_bs: 305.93, T_soil: 319.44
+2025-05-15 12:31:24,763 - INFO - Initial Guess - g_m: 0.11570, F: 5.12742e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:24,765 - INFO - Refined Solution - g_m: 0.11570, F: 5.11788e-03, E_mes: 3.64996e-05, T_mes: 301.37, T_bs: 305.95, T_soil: 315.89, Iter: 1
+2025-05-15 12:31:24,765 - INFO - Final Optimized Values - g_m: 0.11570, F: 5.11788e-03, E_mes: 3.64996e-05, T_mes: 301.37, T_bs: 305.95, T_soil: 315.89
+2025-05-15 12:31:25,106 - INFO - Initial Guess - g_m: 0.01971, F: 1.95351e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:25,108 - INFO - Refined Solution - g_m: 0.01971, F: 1.95350e-03, E_mes: 6.21928e-06, T_mes: 303.51, T_bs: 305.94, T_soil: 320.12, Iter: 1
+2025-05-15 12:31:25,108 - INFO - Final Optimized Values - g_m: 0.01971, F: 1.95350e-03, E_mes: 6.21928e-06, T_mes: 303.51, T_bs: 305.94, T_soil: 320.12
+2025-05-15 12:31:25,464 - INFO - Initial Guess - g_m: 0.00081, F: 1.06224e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:25,467 - INFO - Refined Solution - g_m: 0.00081, F: 1.06182e-03, E_mes: 2.56902e-07, T_mes: 304.48, T_bs: 305.94, T_soil: 321.21, Iter: 1
+2025-05-15 12:31:25,467 - INFO - Final Optimized Values - g_m: 0.00081, F: 1.06182e-03, E_mes: 2.56902e-07, T_mes: 304.48, T_bs: 305.94, T_soil: 321.21
+2025-05-15 12:31:25,843 - INFO - Initial Guess - g_m: 0.11685, F: 2.31680e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:25,844 - INFO - Refined Solution - g_m: 0.11685, F: 2.31023e-03, E_mes: 3.68613e-05, T_mes: 303.39, T_bs: 305.94, T_soil: 316.84, Iter: 1
+2025-05-15 12:31:25,844 - INFO - Final Optimized Values - g_m: 0.11685, F: 2.31023e-03, E_mes: 3.68613e-05, T_mes: 303.39, T_bs: 305.94, T_soil: 316.84
+2025-05-15 12:31:26,222 - INFO - Initial Guess - g_m: 0.11739, F: 1.49332e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:26,225 - INFO - Refined Solution - g_m: 0.11739, F: 1.48767e-03, E_mes: 3.70310e-05, T_mes: 304.06, T_bs: 305.94, T_soil: 317.15, Iter: 1
+2025-05-15 12:31:26,225 - INFO - Final Optimized Values - g_m: 0.11739, F: 1.48767e-03, E_mes: 3.70310e-05, T_mes: 304.06, T_bs: 305.94, T_soil: 317.15
+2025-05-15 12:31:26,614 - INFO - Initial Guess - g_m: 0.06747, F: 3.58274e-05, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:26,617 - INFO - Refined Solution - g_m: 0.06747, F: 3.57728e-05, E_mes: 2.12856e-05, T_mes: 305.50, T_bs: 305.94, T_soil: 319.49, Iter: 1
+2025-05-15 12:31:26,617 - INFO - Final Optimized Values - g_m: 0.06747, F: 3.57728e-05, E_mes: 2.12856e-05, T_mes: 305.50, T_bs: 305.94, T_soil: 319.49
+2025-05-15 12:31:26,991 - INFO - Initial Guess - g_m: 0.11942, F: 0.00000e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:26,993 - INFO - Refined Solution - g_m: 0.11942, F: 0.00000e+00, E_mes: 3.76733e-05, T_mes: 305.41, T_bs: 305.99, T_soil: 317.65, Iter: 1
+2025-05-15 12:31:26,993 - INFO - Final Optimized Values - g_m: 0.11942, F: 0.00000e+00, E_mes: 3.76733e-05, T_mes: 305.41, T_bs: 305.99, T_soil: 317.65
+2025-05-15 12:31:27,342 - INFO - Initial Guess - g_m: 0.17794, F: 1.57333e-06, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:27,344 - INFO - Refined Solution - g_m: 0.17794, F: 1.30699e-06, E_mes: 5.61332e-05, T_mes: 305.18, T_bs: 305.94, T_soil: 315.68, Iter: 1
+2025-05-15 12:31:27,345 - INFO - Final Optimized Values - g_m: 0.17794, F: 1.30699e-06, E_mes: 5.61332e-05, T_mes: 305.18, T_bs: 305.94, T_soil: 315.68
+2025-05-15 12:31:27,699 - INFO - Initial Guess - g_m: 0.23902, F: 8.87818e-05, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:27,702 - INFO - Refined Solution - g_m: 0.23902, F: 8.74644e-05, E_mes: 7.54021e-05, T_mes: 304.93, T_bs: 305.94, T_soil: 313.53, Iter: 1
+2025-05-15 12:31:27,703 - INFO - Final Optimized Values - g_m: 0.23902, F: 8.74644e-05, E_mes: 7.54021e-05, T_mes: 304.93, T_bs: 305.94, T_soil: 313.53
+2025-05-15 12:31:28,056 - INFO - Initial Guess - g_m: 0.34664, F: 2.39137e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:28,058 - INFO - Refined Solution - g_m: 0.34664, F: 2.38561e-03, E_mes: 1.09351e-04, T_mes: 303.97, T_bs: 305.95, T_soil: 309.49, Iter: 1
+2025-05-15 12:31:28,058 - INFO - Final Optimized Values - g_m: 0.34664, F: 2.38561e-03, E_mes: 1.09351e-04, T_mes: 303.97, T_bs: 305.95, T_soil: 309.49
+2025-05-15 12:31:28,436 - INFO - Initial Guess - g_m: 0.35423, F: 2.93004e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:28,439 - INFO - Refined Solution - g_m: 0.35423, F: 2.73194e-04, E_mes: 1.11747e-04, T_mes: 304.54, T_bs: 305.95, T_soil: 309.50, Iter: 1
+2025-05-15 12:31:28,439 - INFO - Final Optimized Values - g_m: 0.35423, F: 2.73194e-04, E_mes: 1.11747e-04, T_mes: 304.54, T_bs: 305.95, T_soil: 309.50
+2025-05-15 12:31:28,798 - INFO - Initial Guess - g_m: 0.40867, F: 3.10220e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:28,800 - INFO - Refined Solution - g_m: 0.40867, F: 3.12165e-04, E_mes: 1.28922e-04, T_mes: 304.38, T_bs: 305.94, T_soil: 307.65, Iter: 1
+2025-05-15 12:31:28,800 - INFO - Final Optimized Values - g_m: 0.40867, F: 3.12165e-04, E_mes: 1.28922e-04, T_mes: 304.38, T_bs: 305.94, T_soil: 307.65
+2025-05-15 12:31:29,142 - INFO - Initial Guess - g_m: 0.45933, F: 1.38956e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:29,144 - INFO - Refined Solution - g_m: 0.45934, F: 1.38956e-02, E_mes: 1.44904e-04, T_mes: 304.29, T_bs: 305.94, T_soil: 305.92, Iter: 1
+2025-05-15 12:31:29,144 - INFO - Final Optimized Values - g_m: 0.45934, F: 1.38956e-02, E_mes: 1.44904e-04, T_mes: 304.29, T_bs: 305.94, T_soil: 305.92
+2025-05-15 12:31:29,490 - INFO - Initial Guess - g_m: 0.47450, F: 1.95567e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:29,491 - INFO - Refined Solution - g_m: 0.47450, F: 1.95568e-02, E_mes: 1.49687e-04, T_mes: 304.74, T_bs: 305.95, T_soil: 305.62, Iter: 1
+2025-05-15 12:31:29,492 - INFO - Final Optimized Values - g_m: 0.47450, F: 1.95568e-02, E_mes: 1.49687e-04, T_mes: 304.74, T_bs: 305.95, T_soil: 305.62
+2025-05-15 12:31:29,838 - INFO - Initial Guess - g_m: 0.49402, F: 1.61436e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:29,840 - INFO - Refined Solution - g_m: 0.49402, F: 1.61435e-02, E_mes: 1.55845e-04, T_mes: 305.12, T_bs: 305.94, T_soil: 305.17, Iter: 1
+2025-05-15 12:31:29,840 - INFO - Final Optimized Values - g_m: 0.49402, F: 1.61435e-02, E_mes: 1.55845e-04, T_mes: 305.12, T_bs: 305.94, T_soil: 305.17
+2025-05-15 12:31:30,184 - INFO - Initial Guess - g_m: 0.50988, F: 1.68838e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:30,185 - INFO - Refined Solution - g_m: 0.50988, F: 1.68840e-02, E_mes: 1.60849e-04, T_mes: 305.56, T_bs: 305.95, T_soil: 304.85, Iter: 1
+2025-05-15 12:31:30,185 - INFO - Final Optimized Values - g_m: 0.50988, F: 1.68840e-02, E_mes: 1.60849e-04, T_mes: 305.56, T_bs: 305.95, T_soil: 304.85
+2025-05-15 12:31:30,525 - INFO - Initial Guess - g_m: 0.53737, F: 1.22912e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:30,526 - INFO - Refined Solution - g_m: 0.53737, F: 1.22912e-02, E_mes: 1.69521e-04, T_mes: 305.82, T_bs: 305.94, T_soil: 304.07, Iter: 1
+2025-05-15 12:31:30,526 - INFO - Final Optimized Values - g_m: 0.53737, F: 1.22912e-02, E_mes: 1.69521e-04, T_mes: 305.82, T_bs: 305.94, T_soil: 304.07
+2025-05-15 12:31:30,867 - INFO - Initial Guess - g_m: 0.55501, F: 1.28603e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:30,869 - INFO - Refined Solution - g_m: 0.55501, F: 1.28601e-02, E_mes: 1.75085e-04, T_mes: 306.23, T_bs: 305.94, T_soil: 303.69, Iter: 1
+2025-05-15 12:31:30,869 - INFO - Final Optimized Values - g_m: 0.55501, F: 1.28601e-02, E_mes: 1.75085e-04, T_mes: 306.23, T_bs: 305.94, T_soil: 303.69
+2025-05-15 12:31:31,204 - INFO - Initial Guess - g_m: 0.55874, F: 1.76791e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:31,205 - INFO - Refined Solution - g_m: 0.55874, F: 1.76794e-02, E_mes: 1.76262e-04, T_mes: 306.85, T_bs: 305.95, T_soil: 303.86, Iter: 1
+2025-05-15 12:31:31,206 - INFO - Final Optimized Values - g_m: 0.55874, F: 1.76794e-02, E_mes: 1.76262e-04, T_mes: 306.85, T_bs: 305.95, T_soil: 303.86
+2025-05-15 12:31:31,548 - INFO - Initial Guess - g_m: 0.57650, F: 1.72748e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:31,549 - INFO - Refined Solution - g_m: 0.57650, F: 1.72751e-02, E_mes: 1.81866e-04, T_mes: 307.26, T_bs: 305.95, T_soil: 303.46, Iter: 1
+2025-05-15 12:31:31,550 - INFO - Final Optimized Values - g_m: 0.57650, F: 1.72751e-02, E_mes: 1.81866e-04, T_mes: 307.26, T_bs: 305.95, T_soil: 303.46
+2025-05-15 12:31:31,889 - INFO - Initial Guess - g_m: 0.58870, F: 1.86756e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:31:31,891 - INFO - Refined Solution - g_m: 0.58870, F: 1.86761e-02, E_mes: 1.85715e-04, T_mes: 307.76, T_bs: 305.95, T_soil: 303.29, Iter: 1
+2025-05-15 12:31:31,891 - INFO - Final Optimized Values - g_m: 0.58870, F: 1.86761e-02, E_mes: 1.85715e-04, T_mes: 307.76, T_bs: 305.95, T_soil: 303.29
+2025-05-15 12:31:36,333 - INFO - Initial Guess - g_m: 0.00001, F: 2.00000e-02, Objective: -0.00003, Iterations: 1000
+2025-05-15 12:31:36,336 - INFO - Refined Solution - g_m: 0.00000, F: 2.00000e-02, E_mes: 7.55360e-11, T_mes: 289.12, T_bs: 291.91, T_soil: 294.21, Iter: 1
+2025-05-15 12:31:36,336 - INFO - Final Optimized Values - g_m: 0.00000, F: 2.00000e-02, E_mes: 7.55360e-11, T_mes: 289.12, T_bs: 291.91, T_soil: 294.21
+2025-05-15 12:33:21,856 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:33:21,859 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.74206e-11, T_mes: 301.08, T_bs: 301.20, T_soil: 285.06, Iter: 1
+2025-05-15 12:33:21,859 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.74206e-11, T_mes: 301.08, T_bs: 301.20, T_soil: 285.06
+2025-05-15 12:33:22,239 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:33:22,241 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.07259e-11, T_mes: 302.63, T_bs: 302.89, T_soil: 285.99, Iter: 1
+2025-05-15 12:33:22,241 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.07259e-11, T_mes: 302.63, T_bs: 302.89, T_soil: 285.99
+2025-05-15 12:33:22,631 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:22,634 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 9.16342e-11, T_mes: 304.18, T_bs: 304.59, T_soil: 286.93, Iter: 1
+2025-05-15 12:33:22,634 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 9.16342e-11, T_mes: 304.18, T_bs: 304.59, T_soil: 286.93
+2025-05-15 12:33:22,996 - INFO - Initial Guess - g_m: 0.01371, F: 5.10314e-07, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:22,997 - INFO - Refined Solution - g_m: 0.01371, F: 4.18438e-07, E_mes: 3.56496e-06, T_mes: 305.39, T_bs: 305.94, T_soil: 287.86, Iter: 1
+2025-05-15 12:33:22,998 - INFO - Final Optimized Values - g_m: 0.01371, F: 4.18438e-07, E_mes: 3.56496e-06, T_mes: 305.39, T_bs: 305.94, T_soil: 287.86
+2025-05-15 12:33:23,351 - INFO - Initial Guess - g_m: 0.05524, F: 2.06628e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:23,353 - INFO - Refined Solution - g_m: 0.05524, F: 2.07422e-04, E_mes: 1.46146e-05, T_mes: 305.57, T_bs: 305.94, T_soil: 289.70, Iter: 1
+2025-05-15 12:33:23,353 - INFO - Final Optimized Values - g_m: 0.05524, F: 2.07422e-04, E_mes: 1.46146e-05, T_mes: 305.57, T_bs: 305.94, T_soil: 289.70
+2025-05-15 12:33:23,737 - INFO - Initial Guess - g_m: 0.03486, F: 1.18195e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:23,740 - INFO - Refined Solution - g_m: 0.03486, F: 1.18182e-03, E_mes: 9.37974e-06, T_mes: 306.53, T_bs: 305.94, T_soil: 293.62, Iter: 1
+2025-05-15 12:33:23,740 - INFO - Final Optimized Values - g_m: 0.03486, F: 1.18182e-03, E_mes: 9.37974e-06, T_mes: 306.53, T_bs: 305.94, T_soil: 293.62
+2025-05-15 12:33:24,098 - INFO - Initial Guess - g_m: 0.00371, F: 3.42304e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:24,101 - INFO - Refined Solution - g_m: 0.00371, F: 3.41615e-03, E_mes: 1.01571e-06, T_mes: 307.65, T_bs: 305.94, T_soil: 297.95, Iter: 1
+2025-05-15 12:33:24,101 - INFO - Final Optimized Values - g_m: 0.00371, F: 3.41615e-03, E_mes: 1.01571e-06, T_mes: 307.65, T_bs: 305.94, T_soil: 297.95
+2025-05-15 12:33:24,467 - INFO - Initial Guess - g_m: 0.00511, F: 7.40351e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:24,469 - INFO - Refined Solution - g_m: 0.00512, F: 7.40661e-03, E_mes: 1.42356e-06, T_mes: 308.35, T_bs: 305.95, T_soil: 301.13, Iter: 1
+2025-05-15 12:33:24,469 - INFO - Final Optimized Values - g_m: 0.00512, F: 7.40661e-03, E_mes: 1.42356e-06, T_mes: 308.35, T_bs: 305.95, T_soil: 301.13
+2025-05-15 12:33:24,853 - INFO - Initial Guess - g_m: 0.02460, F: 1.86046e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:24,855 - INFO - Refined Solution - g_m: 0.02460, F: 1.86043e-02, E_mes: 6.96264e-06, T_mes: 308.79, T_bs: 305.94, T_soil: 303.69, Iter: 1
+2025-05-15 12:33:24,855 - INFO - Final Optimized Values - g_m: 0.02460, F: 1.86043e-02, E_mes: 6.96264e-06, T_mes: 308.79, T_bs: 305.94, T_soil: 303.69
+2025-05-15 12:33:25,221 - INFO - Initial Guess - g_m: 0.10489, F: 1.96222e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:25,223 - INFO - Refined Solution - g_m: 0.10489, F: 1.96225e-02, E_mes: 3.01887e-05, T_mes: 308.39, T_bs: 305.95, T_soil: 303.95, Iter: 1
+2025-05-15 12:33:25,223 - INFO - Final Optimized Values - g_m: 0.10489, F: 1.96225e-02, E_mes: 3.01887e-05, T_mes: 308.39, T_bs: 305.95, T_soil: 303.95
+2025-05-15 12:33:25,599 - INFO - Initial Guess - g_m: 0.19120, F: 1.72714e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:25,600 - INFO - Refined Solution - g_m: 0.19120, F: 1.72718e-02, E_mes: 5.59607e-05, T_mes: 307.86, T_bs: 305.95, T_soil: 303.89, Iter: 1
+2025-05-15 12:33:25,600 - INFO - Final Optimized Values - g_m: 0.19120, F: 1.72718e-02, E_mes: 5.59607e-05, T_mes: 307.86, T_bs: 305.95, T_soil: 303.89
+2025-05-15 12:33:25,941 - INFO - Initial Guess - g_m: 0.27075, F: 1.66071e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:25,943 - INFO - Refined Solution - g_m: 0.27075, F: 1.66071e-02, E_mes: 8.05794e-05, T_mes: 307.38, T_bs: 305.94, T_soil: 303.99, Iter: 1
+2025-05-15 12:33:25,943 - INFO - Final Optimized Values - g_m: 0.27075, F: 1.66071e-02, E_mes: 8.05794e-05, T_mes: 307.38, T_bs: 305.94, T_soil: 303.99
+2025-05-15 12:33:26,277 - INFO - Initial Guess - g_m: 0.33909, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:26,279 - INFO - Refined Solution - g_m: 0.33909, F: 1.99999e-02, E_mes: 1.02616e-04, T_mes: 307.03, T_bs: 305.94, T_soil: 304.42, Iter: 1
+2025-05-15 12:33:26,279 - INFO - Final Optimized Values - g_m: 0.33909, F: 1.99999e-02, E_mes: 1.02616e-04, T_mes: 307.03, T_bs: 305.94, T_soil: 304.42
+2025-05-15 12:33:26,621 - INFO - Initial Guess - g_m: 0.41475, F: 1.82978e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:26,623 - INFO - Refined Solution - g_m: 0.41475, F: 1.82978e-02, E_mes: 1.27621e-04, T_mes: 306.53, T_bs: 305.94, T_soil: 304.46, Iter: 1
+2025-05-15 12:33:26,623 - INFO - Final Optimized Values - g_m: 0.41475, F: 1.82978e-02, E_mes: 1.27621e-04, T_mes: 306.53, T_bs: 305.94, T_soil: 304.46
+2025-05-15 12:33:26,965 - INFO - Initial Guess - g_m: 0.48271, F: 1.96386e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:26,967 - INFO - Refined Solution - g_m: 0.48271, F: 1.96388e-02, E_mes: 1.51021e-04, T_mes: 306.12, T_bs: 305.95, T_soil: 304.70, Iter: 1
+2025-05-15 12:33:26,967 - INFO - Final Optimized Values - g_m: 0.48271, F: 1.96388e-02, E_mes: 1.51021e-04, T_mes: 306.12, T_bs: 305.95, T_soil: 304.70
+2025-05-15 12:33:27,312 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:27,313 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.59044e-04, T_mes: 306.90, T_bs: 306.88, T_soil: 305.65, Iter: 0
+2025-05-15 12:33:27,313 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.59044e-04, T_mes: 306.90, T_bs: 306.88, T_soil: 305.65
+2025-05-15 12:33:27,673 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:33:27,674 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.61697e-04, T_mes: 308.10, T_bs: 308.13, T_soil: 306.85, Iter: 0
+2025-05-15 12:33:27,674 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.61697e-04, T_mes: 308.10, T_bs: 308.13, T_soil: 306.85
+2025-05-15 12:33:28,010 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:33:28,011 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.64388e-04, T_mes: 309.30, T_bs: 309.37, T_soil: 308.05, Iter: 0
+2025-05-15 12:33:28,011 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.64388e-04, T_mes: 309.30, T_bs: 309.37, T_soil: 308.05
+2025-05-15 12:33:28,355 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00007, Iterations: 1000
+2025-05-15 12:33:28,356 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.67119e-04, T_mes: 310.50, T_bs: 310.62, T_soil: 309.24, Iter: 0
+2025-05-15 12:33:28,356 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.67119e-04, T_mes: 310.50, T_bs: 310.62, T_soil: 309.24
+2025-05-15 12:33:28,697 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00007, Iterations: 1000
+2025-05-15 12:33:28,698 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.69888e-04, T_mes: 311.69, T_bs: 311.86, T_soil: 310.44, Iter: 0
+2025-05-15 12:33:28,698 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.69888e-04, T_mes: 311.69, T_bs: 311.86, T_soil: 310.44
+2025-05-15 12:33:29,040 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00006, Iterations: 1000
+2025-05-15 12:33:29,042 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.72698e-04, T_mes: 312.88, T_bs: 313.10, T_soil: 311.63, Iter: 0
+2025-05-15 12:33:29,042 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.72698e-04, T_mes: 312.88, T_bs: 313.10, T_soil: 311.63
+2025-05-15 12:33:29,384 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00005, Iterations: 1000
+2025-05-15 12:33:29,386 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.75548e-04, T_mes: 314.07, T_bs: 314.34, T_soil: 312.82, Iter: 0
+2025-05-15 12:33:29,386 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.75548e-04, T_mes: 314.07, T_bs: 314.34, T_soil: 312.82
+2025-05-15 12:33:29,720 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00005, Iterations: 1000
+2025-05-15 12:33:29,721 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.78439e-04, T_mes: 315.25, T_bs: 315.58, T_soil: 314.01, Iter: 0
+2025-05-15 12:33:29,721 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.78439e-04, T_mes: 315.25, T_bs: 315.58, T_soil: 314.01
+2025-05-15 12:33:30,057 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00004, Iterations: 1000
+2025-05-15 12:33:30,058 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.81372e-04, T_mes: 316.43, T_bs: 316.81, T_soil: 315.20, Iter: 0
+2025-05-15 12:33:30,058 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.81372e-04, T_mes: 316.43, T_bs: 316.81, T_soil: 315.20
+2025-05-15 12:33:30,396 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00003, Iterations: 1000
+2025-05-15 12:33:30,397 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.84346e-04, T_mes: 317.60, T_bs: 318.04, T_soil: 316.38, Iter: 0
+2025-05-15 12:33:30,397 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.84346e-04, T_mes: 317.60, T_bs: 318.04, T_soil: 316.38
+2025-05-15 12:33:30,740 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00003, Iterations: 1000
+2025-05-15 12:33:30,741 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.87363e-04, T_mes: 318.78, T_bs: 319.27, T_soil: 317.57, Iter: 0
+2025-05-15 12:33:30,741 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.87363e-04, T_mes: 318.78, T_bs: 319.27, T_soil: 317.57
+2025-05-15 12:33:31,078 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00002, Iterations: 1000
+2025-05-15 12:33:31,080 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.90422e-04, T_mes: 319.95, T_bs: 320.50, T_soil: 318.75, Iter: 0
+2025-05-15 12:33:31,080 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.90422e-04, T_mes: 319.95, T_bs: 320.50, T_soil: 318.75
+2025-05-15 12:33:31,422 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00002, Iterations: 1000
+2025-05-15 12:33:31,424 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.93525e-04, T_mes: 321.11, T_bs: 321.72, T_soil: 319.93, Iter: 0
+2025-05-15 12:33:31,424 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.93525e-04, T_mes: 321.11, T_bs: 321.72, T_soil: 319.93
+2025-05-15 12:33:31,765 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00002, Iterations: 1000
+2025-05-15 12:33:31,767 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.96672e-04, T_mes: 322.28, T_bs: 322.95, T_soil: 321.10, Iter: 0
+2025-05-15 12:33:31,767 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.96672e-04, T_mes: 322.28, T_bs: 322.95, T_soil: 321.10
+2025-05-15 12:33:32,108 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:32,109 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.99864e-04, T_mes: 323.44, T_bs: 324.16, T_soil: 322.28, Iter: 0
+2025-05-15 12:33:32,110 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.99864e-04, T_mes: 323.44, T_bs: 324.16, T_soil: 322.28
+2025-05-15 12:33:36,984 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:36,987 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.67207e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:33:36,987 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.67207e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:33:37,339 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:37,342 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.67031e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:33:37,342 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.67031e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:33:37,693 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:37,696 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66855e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:33:37,696 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66855e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:33:38,047 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:38,050 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66678e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:33:38,050 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66678e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:33:38,399 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:38,403 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66501e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.49, Iter: 1
+2025-05-15 12:33:38,403 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66501e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.49
+2025-05-15 12:33:38,776 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:38,779 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66324e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-15 12:33:38,779 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66324e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-15 12:33:39,134 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:39,138 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66148e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-15 12:33:39,138 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66148e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-15 12:33:39,489 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:39,493 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.65971e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-15 12:33:39,493 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.65971e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-15 12:33:39,845 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:39,849 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.65783e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-15 12:33:39,849 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.65783e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-15 12:33:40,204 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:40,207 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.65605e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:33:40,207 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.65605e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:33:40,577 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:40,580 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.65428e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:33:40,580 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.65428e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:33:40,937 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:40,940 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.54211e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:33:40,940 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.54211e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:33:41,301 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:41,304 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.65074e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:33:41,304 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.65074e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:33:41,657 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:41,660 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.53864e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:33:41,660 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.53864e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:33:42,002 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:42,005 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.64720e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:33:42,005 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.64720e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:33:42,346 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:42,349 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.64542e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:33:42,349 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.64542e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:33:42,706 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:42,710 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.64365e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:33:42,710 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.64365e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:33:43,060 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:43,063 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.53169e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:33:43,063 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.53169e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:33:43,410 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:43,413 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.64010e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:33:43,413 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.64010e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:33:43,759 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:43,762 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.63833e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51, Iter: 1
+2025-05-15 12:33:43,762 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.63833e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51
+2025-05-15 12:33:44,108 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:44,111 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.52646e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51, Iter: 1
+2025-05-15 12:33:44,112 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.52646e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51
+2025-05-15 12:33:44,466 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:44,469 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.63477e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51, Iter: 1
+2025-05-15 12:33:44,469 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.63477e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51
+2025-05-15 12:33:44,827 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:44,830 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.63299e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.52, Iter: 1
+2025-05-15 12:33:44,830 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.63299e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.52
+2025-05-15 12:33:45,192 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:45,195 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.63122e-11, T_mes: 278.69, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:33:45,195 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.63122e-11, T_mes: 278.69, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:33:45,556 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:45,558 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.62944e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:33:45,558 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.62944e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:33:45,920 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:45,923 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.51775e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:33:45,923 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.51775e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:33:46,285 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:46,288 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.62575e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:33:46,288 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.62575e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:33:46,649 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:46,652 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.51414e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:33:46,652 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.51414e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:33:47,012 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:47,015 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.51239e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52, Iter: 1
+2025-05-15 12:33:47,015 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.51239e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52
+2025-05-15 12:33:47,447 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:33:47,450 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.62042e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52, Iter: 1
+2025-05-15 12:33:47,450 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.62042e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52
+2025-05-15 12:33:52,303 - INFO - Initial Guess - g_m: 0.00629, F: 9.69815e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:52,305 - INFO - Refined Solution - g_m: 0.00629, F: 9.71511e-03, E_mes: 1.98328e-06, T_mes: 296.91, T_bs: 305.92, T_soil: 317.41, Iter: 1
+2025-05-15 12:33:52,305 - INFO - Final Optimized Values - g_m: 0.00629, F: 9.71511e-03, E_mes: 1.98328e-06, T_mes: 296.91, T_bs: 305.92, T_soil: 317.41
+2025-05-15 12:33:52,653 - INFO - Initial Guess - g_m: 0.02163, F: 9.50873e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:52,655 - INFO - Refined Solution - g_m: 0.02163, F: 9.49889e-03, E_mes: 6.82456e-06, T_mes: 297.37, T_bs: 305.96, T_soil: 317.07, Iter: 1
+2025-05-15 12:33:52,655 - INFO - Final Optimized Values - g_m: 0.02163, F: 9.49889e-03, E_mes: 6.82456e-06, T_mes: 297.37, T_bs: 305.96, T_soil: 317.07
+2025-05-15 12:33:53,006 - INFO - Initial Guess - g_m: 0.00496, F: 7.73922e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:53,008 - INFO - Refined Solution - g_m: 0.00496, F: 7.74937e-03, E_mes: 1.56563e-06, T_mes: 298.29, T_bs: 305.93, T_soil: 318.10, Iter: 1
+2025-05-15 12:33:53,008 - INFO - Final Optimized Values - g_m: 0.00496, F: 7.74937e-03, E_mes: 1.56563e-06, T_mes: 298.29, T_bs: 305.93, T_soil: 318.10
+2025-05-15 12:33:53,347 - INFO - Initial Guess - g_m: 0.01158, F: 7.06582e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:53,349 - INFO - Refined Solution - g_m: 0.01158, F: 7.08279e-03, E_mes: 3.65164e-06, T_mes: 298.87, T_bs: 305.93, T_soil: 318.17, Iter: 1
+2025-05-15 12:33:53,349 - INFO - Final Optimized Values - g_m: 0.01158, F: 7.08279e-03, E_mes: 3.65164e-06, T_mes: 298.87, T_bs: 305.93, T_soil: 318.17
+2025-05-15 12:33:53,690 - INFO - Initial Guess - g_m: 0.05528, F: 7.84610e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:53,692 - INFO - Refined Solution - g_m: 0.05528, F: 7.85363e-03, E_mes: 1.74401e-05, T_mes: 298.89, T_bs: 305.93, T_soil: 316.72, Iter: 1
+2025-05-15 12:33:53,692 - INFO - Final Optimized Values - g_m: 0.05528, F: 7.85363e-03, E_mes: 1.74401e-05, T_mes: 298.89, T_bs: 305.93, T_soil: 316.72
+2025-05-15 12:33:54,030 - INFO - Initial Guess - g_m: 0.02177, F: 5.71393e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:54,033 - INFO - Refined Solution - g_m: 0.02177, F: 5.70976e-03, E_mes: 6.86861e-06, T_mes: 300.08, T_bs: 305.94, T_soil: 318.39, Iter: 1
+2025-05-15 12:33:54,033 - INFO - Final Optimized Values - g_m: 0.02177, F: 5.70976e-03, E_mes: 6.86861e-06, T_mes: 300.08, T_bs: 305.94, T_soil: 318.39
+2025-05-15 12:33:54,376 - INFO - Initial Guess - g_m: 0.02979, F: 5.12181e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:54,378 - INFO - Refined Solution - g_m: 0.02979, F: 5.11463e-03, E_mes: 9.39828e-06, T_mes: 300.64, T_bs: 305.94, T_soil: 318.39, Iter: 1
+2025-05-15 12:33:54,378 - INFO - Final Optimized Values - g_m: 0.02979, F: 5.11463e-03, E_mes: 9.39828e-06, T_mes: 300.64, T_bs: 305.94, T_soil: 318.39
+2025-05-15 12:33:54,717 - INFO - Initial Guess - g_m: 0.00138, F: 3.65893e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:54,718 - INFO - Refined Solution - g_m: 0.00138, F: 3.63501e-03, E_mes: 4.34533e-07, T_mes: 301.75, T_bs: 305.93, T_soil: 319.89, Iter: 1
+2025-05-15 12:33:54,718 - INFO - Final Optimized Values - g_m: 0.00138, F: 3.63501e-03, E_mes: 4.34533e-07, T_mes: 301.75, T_bs: 305.93, T_soil: 319.89
+2025-05-15 12:33:55,069 - INFO - Initial Guess - g_m: 0.03676, F: 3.70596e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:55,070 - INFO - Refined Solution - g_m: 0.03676, F: 3.70218e-03, E_mes: 1.15977e-05, T_mes: 301.89, T_bs: 305.94, T_soil: 318.77, Iter: 1
+2025-05-15 12:33:55,070 - INFO - Final Optimized Values - g_m: 0.03676, F: 3.70218e-03, E_mes: 1.15977e-05, T_mes: 301.89, T_bs: 305.94, T_soil: 318.77
+2025-05-15 12:33:55,434 - INFO - Initial Guess - g_m: 0.00350, F: 2.33346e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:55,436 - INFO - Refined Solution - g_m: 0.00350, F: 2.33343e-03, E_mes: 1.10316e-06, T_mes: 303.08, T_bs: 305.94, T_soil: 320.45, Iter: 1
+2025-05-15 12:33:55,436 - INFO - Final Optimized Values - g_m: 0.00350, F: 2.33343e-03, E_mes: 1.10316e-06, T_mes: 303.08, T_bs: 305.94, T_soil: 320.45
+2025-05-15 12:33:55,820 - INFO - Initial Guess - g_m: 0.01431, F: 1.86690e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:55,821 - INFO - Refined Solution - g_m: 0.01431, F: 1.86690e-03, E_mes: 4.51521e-06, T_mes: 303.59, T_bs: 305.94, T_soil: 320.34, Iter: 1
+2025-05-15 12:33:55,821 - INFO - Final Optimized Values - g_m: 0.01431, F: 1.86690e-03, E_mes: 4.51521e-06, T_mes: 303.59, T_bs: 305.94, T_soil: 320.34
+2025-05-15 12:33:56,170 - INFO - Initial Guess - g_m: 0.01529, F: 1.25384e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:56,172 - INFO - Refined Solution - g_m: 0.01529, F: 1.25378e-03, E_mes: 4.82431e-06, T_mes: 304.26, T_bs: 305.94, T_soil: 320.62, Iter: 1
+2025-05-15 12:33:56,172 - INFO - Final Optimized Values - g_m: 0.01529, F: 1.25378e-03, E_mes: 4.82431e-06, T_mes: 304.26, T_bs: 305.94, T_soil: 320.62
+2025-05-15 12:33:56,524 - INFO - Initial Guess - g_m: 0.02404, F: 7.58890e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:56,526 - INFO - Refined Solution - g_m: 0.02404, F: 7.58865e-04, E_mes: 7.58270e-06, T_mes: 304.80, T_bs: 305.94, T_soil: 320.60, Iter: 1
+2025-05-15 12:33:56,526 - INFO - Final Optimized Values - g_m: 0.02404, F: 7.58865e-04, E_mes: 7.58270e-06, T_mes: 304.80, T_bs: 305.94, T_soil: 320.60
+2025-05-15 12:33:56,877 - INFO - Initial Guess - g_m: 0.05923, F: 5.78924e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:56,879 - INFO - Refined Solution - g_m: 0.05923, F: 5.78786e-04, E_mes: 1.86861e-05, T_mes: 304.95, T_bs: 305.94, T_soil: 319.50, Iter: 1
+2025-05-15 12:33:56,879 - INFO - Final Optimized Values - g_m: 0.05923, F: 5.78786e-04, E_mes: 1.86861e-05, T_mes: 304.95, T_bs: 305.94, T_soil: 319.50
+2025-05-15 12:33:57,226 - INFO - Initial Guess - g_m: 0.11618, F: 6.79802e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:57,228 - INFO - Refined Solution - g_m: 0.11618, F: 6.79797e-04, E_mes: 3.66519e-05, T_mes: 304.76, T_bs: 305.94, T_soil: 317.52, Iter: 1
+2025-05-15 12:33:57,228 - INFO - Final Optimized Values - g_m: 0.11618, F: 6.79797e-04, E_mes: 3.66519e-05, T_mes: 304.76, T_bs: 305.94, T_soil: 317.52
+2025-05-15 12:33:57,568 - INFO - Initial Guess - g_m: 0.13391, F: 1.74126e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:57,570 - INFO - Refined Solution - g_m: 0.13391, F: 1.74115e-04, E_mes: 4.22447e-05, T_mes: 305.17, T_bs: 305.94, T_soil: 317.13, Iter: 1
+2025-05-15 12:33:57,570 - INFO - Final Optimized Values - g_m: 0.13391, F: 1.74115e-04, E_mes: 4.22447e-05, T_mes: 305.17, T_bs: 305.94, T_soil: 317.13
+2025-05-15 12:33:57,906 - INFO - Initial Guess - g_m: 0.21788, F: 7.48176e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:57,908 - INFO - Refined Solution - g_m: 0.21788, F: 7.47750e-04, E_mes: 6.87322e-05, T_mes: 304.57, T_bs: 305.94, T_soil: 314.06, Iter: 1
+2025-05-15 12:33:57,908 - INFO - Final Optimized Values - g_m: 0.21788, F: 7.47750e-04, E_mes: 6.87322e-05, T_mes: 304.57, T_bs: 305.94, T_soil: 314.06
+2025-05-15 12:33:58,245 - INFO - Initial Guess - g_m: 0.25614, F: 4.66424e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:58,246 - INFO - Refined Solution - g_m: 0.25614, F: 4.77358e-04, E_mes: 8.08034e-05, T_mes: 304.67, T_bs: 305.95, T_soil: 312.83, Iter: 1
+2025-05-15 12:33:58,247 - INFO - Final Optimized Values - g_m: 0.25614, F: 4.77358e-04, E_mes: 8.08034e-05, T_mes: 304.67, T_bs: 305.95, T_soil: 312.83
+2025-05-15 12:33:58,587 - INFO - Initial Guess - g_m: 0.29091, F: 3.86948e-06, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:58,588 - INFO - Refined Solution - g_m: 0.29091, F: 0.00000e+00, E_mes: 9.17713e-05, T_mes: 304.82, T_bs: 305.96, T_soil: 311.74, Iter: 1
+2025-05-15 12:33:58,588 - INFO - Final Optimized Values - g_m: 0.29091, F: 0.00000e+00, E_mes: 9.17713e-05, T_mes: 304.82, T_bs: 305.96, T_soil: 311.74
+2025-05-15 12:33:58,930 - INFO - Initial Guess - g_m: 0.34816, F: 0.00000e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:58,931 - INFO - Refined Solution - g_m: 0.34816, F: 0.00000e+00, E_mes: 1.09833e-04, T_mes: 304.62, T_bs: 305.94, T_soil: 309.76, Iter: 1
+2025-05-15 12:33:58,931 - INFO - Final Optimized Values - g_m: 0.34816, F: 0.00000e+00, E_mes: 1.09833e-04, T_mes: 304.62, T_bs: 305.94, T_soil: 309.76
+2025-05-15 12:33:59,274 - INFO - Initial Guess - g_m: 0.42084, F: 2.09404e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:59,276 - INFO - Refined Solution - g_m: 0.42084, F: 2.09196e-03, E_mes: 1.32761e-04, T_mes: 304.20, T_bs: 305.95, T_soil: 307.13, Iter: 1
+2025-05-15 12:33:59,276 - INFO - Final Optimized Values - g_m: 0.42084, F: 2.09196e-03, E_mes: 1.32761e-04, T_mes: 304.20, T_bs: 305.95, T_soil: 307.13
+2025-05-15 12:33:59,621 - INFO - Initial Guess - g_m: 0.45992, F: 5.38105e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:59,622 - INFO - Refined Solution - g_m: 0.45992, F: 5.38105e-03, E_mes: 1.45089e-04, T_mes: 304.28, T_bs: 305.94, T_soil: 305.89, Iter: 1
+2025-05-15 12:33:59,622 - INFO - Final Optimized Values - g_m: 0.45992, F: 5.38105e-03, E_mes: 1.45089e-04, T_mes: 304.28, T_bs: 305.94, T_soil: 305.89
+2025-05-15 12:33:59,966 - INFO - Initial Guess - g_m: 0.47545, F: 1.84969e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:33:59,968 - INFO - Refined Solution - g_m: 0.47545, F: 1.84969e-02, E_mes: 1.49987e-04, T_mes: 304.72, T_bs: 305.94, T_soil: 305.59, Iter: 1
+2025-05-15 12:33:59,968 - INFO - Final Optimized Values - g_m: 0.47545, F: 1.84969e-02, E_mes: 1.49987e-04, T_mes: 304.72, T_bs: 305.94, T_soil: 305.59
+2025-05-15 12:34:00,312 - INFO - Initial Guess - g_m: 0.49157, F: 1.91392e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:00,314 - INFO - Refined Solution - g_m: 0.49157, F: 1.91391e-02, E_mes: 1.55074e-04, T_mes: 305.16, T_bs: 305.94, T_soil: 305.27, Iter: 1
+2025-05-15 12:34:00,314 - INFO - Final Optimized Values - g_m: 0.49157, F: 1.91391e-02, E_mes: 1.55074e-04, T_mes: 305.16, T_bs: 305.94, T_soil: 305.27
+2025-05-15 12:34:00,653 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:00,655 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 305.77, T_bs: 306.06, T_soil: 305.09, Iter: 0
+2025-05-15 12:34:00,655 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 305.77, T_bs: 306.06, T_soil: 305.09
+2025-05-15 12:34:01,012 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:01,013 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 306.59, T_bs: 306.35, T_soil: 305.02, Iter: 0
+2025-05-15 12:34:01,013 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 306.59, T_bs: 306.35, T_soil: 305.02
+2025-05-15 12:34:01,379 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:01,381 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 307.41, T_bs: 306.64, T_soil: 304.96, Iter: 0
+2025-05-15 12:34:01,381 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 307.41, T_bs: 306.64, T_soil: 304.96
+2025-05-15 12:34:01,722 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:01,724 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 308.23, T_bs: 306.93, T_soil: 304.89, Iter: 0
+2025-05-15 12:34:01,724 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 308.23, T_bs: 306.93, T_soil: 304.89
+2025-05-15 12:34:02,059 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:02,061 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 309.05, T_bs: 307.22, T_soil: 304.82, Iter: 0
+2025-05-15 12:34:02,061 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 309.05, T_bs: 307.22, T_soil: 304.82
+2025-05-15 12:34:02,396 - INFO - Initial Guess - g_m: 0.50000, F: 2.00000e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:02,398 - INFO - Refined Solution - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 309.88, T_bs: 307.51, T_soil: 304.75, Iter: 0
+2025-05-15 12:34:02,398 - INFO - Final Optimized Values - g_m: 0.50000, F: 2.00000e-02, E_mes: 1.57732e-04, T_mes: 309.88, T_bs: 307.51, T_soil: 304.75
+2025-05-15 12:34:06,848 - INFO - Initial Guess - g_m: 0.00000, F: 2.00000e-02, Objective: -0.00003, Iterations: 1000
+2025-05-15 12:34:06,851 - INFO - Refined Solution - g_m: 0.00000, F: 2.00000e-02, E_mes: 4.37026e-11, T_mes: 289.12, T_bs: 291.91, T_soil: 294.21, Iter: 1
+2025-05-15 12:34:06,851 - INFO - Final Optimized Values - g_m: 0.00000, F: 2.00000e-02, E_mes: 4.37026e-11, T_mes: 289.12, T_bs: 291.91, T_soil: 294.21
+2025-05-15 12:34:47,729 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:34:47,732 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.05363e-11, T_mes: 301.08, T_bs: 301.20, T_soil: 285.06, Iter: 1
+2025-05-15 12:34:47,732 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.05363e-11, T_mes: 301.08, T_bs: 301.20, T_soil: 285.06
+2025-05-15 12:34:48,142 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:34:48,144 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.65857e-11, T_mes: 302.63, T_bs: 302.89, T_soil: 285.99, Iter: 1
+2025-05-15 12:34:48,144 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.65857e-11, T_mes: 302.63, T_bs: 302.89, T_soil: 285.99
+2025-05-15 12:34:48,520 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:48,522 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.00473e-11, T_mes: 304.18, T_bs: 304.59, T_soil: 286.93, Iter: 1
+2025-05-15 12:34:48,522 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.00473e-11, T_mes: 304.18, T_bs: 304.59, T_soil: 286.93
+2025-05-15 12:34:48,884 - INFO - Initial Guess - g_m: 0.01748, F: 0.00000e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:48,885 - INFO - Refined Solution - g_m: 0.01748, F: 0.00000e+00, E_mes: 4.54598e-06, T_mes: 305.30, T_bs: 305.85, T_soil: 287.86, Iter: 1
+2025-05-15 12:34:48,885 - INFO - Final Optimized Values - g_m: 0.01748, F: 0.00000e+00, E_mes: 4.54598e-06, T_mes: 305.30, T_bs: 305.85, T_soil: 287.86
+2025-05-15 12:34:49,235 - INFO - Initial Guess - g_m: 0.00000, F: 7.24586e-04, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:49,237 - INFO - Refined Solution - g_m: 0.00000, F: 7.23506e-04, E_mes: 3.50969e-10, T_mes: 306.27, T_bs: 305.94, T_soil: 291.57, Iter: 1
+2025-05-15 12:34:49,237 - INFO - Final Optimized Values - g_m: 0.00000, F: 7.23506e-04, E_mes: 3.50969e-10, T_mes: 306.27, T_bs: 305.94, T_soil: 291.57
+2025-05-15 12:34:49,589 - INFO - Initial Guess - g_m: 0.00001, F: 1.72756e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:49,591 - INFO - Refined Solution - g_m: 0.00001, F: 1.71539e-03, E_mes: 2.45736e-09, T_mes: 306.99, T_bs: 305.94, T_soil: 294.83, Iter: 1
+2025-05-15 12:34:49,591 - INFO - Final Optimized Values - g_m: 0.00001, F: 1.71539e-03, E_mes: 2.45736e-09, T_mes: 306.99, T_bs: 305.94, T_soil: 294.83
+2025-05-15 12:34:49,940 - INFO - Initial Guess - g_m: 0.00007, F: 3.53342e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:49,941 - INFO - Refined Solution - g_m: 0.00007, F: 3.52978e-03, E_mes: 1.98495e-08, T_mes: 307.70, T_bs: 305.94, T_soil: 298.08, Iter: 1
+2025-05-15 12:34:49,942 - INFO - Final Optimized Values - g_m: 0.00007, F: 3.52978e-03, E_mes: 1.98495e-08, T_mes: 307.70, T_bs: 305.94, T_soil: 298.08
+2025-05-15 12:34:50,289 - INFO - Initial Guess - g_m: 0.26904, F: 2.95881e-05, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:50,291 - INFO - Refined Solution - g_m: 0.26904, F: 2.95841e-05, E_mes: 7.48754e-05, T_mes: 304.80, T_bs: 305.94, T_soil: 291.72, Iter: 1
+2025-05-15 12:34:50,291 - INFO - Final Optimized Values - g_m: 0.26904, F: 2.95841e-05, E_mes: 7.48754e-05, T_mes: 304.80, T_bs: 305.94, T_soil: 291.72
+2025-05-15 12:34:50,631 - INFO - Initial Guess - g_m: 0.08074, F: 8.75346e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:50,633 - INFO - Refined Solution - g_m: 0.08074, F: 8.72487e-03, E_mes: 2.28512e-05, T_mes: 307.96, T_bs: 305.81, T_soil: 301.83, Iter: 1
+2025-05-15 12:34:50,633 - INFO - Final Optimized Values - g_m: 0.08074, F: 8.72487e-03, E_mes: 2.28512e-05, T_mes: 307.96, T_bs: 305.81, T_soil: 301.83
+2025-05-15 12:34:50,977 - INFO - Initial Guess - g_m: 0.05190, F: 1.96142e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:50,979 - INFO - Refined Solution - g_m: 0.05190, F: 1.96142e+00, E_mes: 1.49392e-05, T_mes: 309.12, T_bs: 305.94, T_soil: 305.92, Iter: 1
+2025-05-15 12:34:50,979 - INFO - Final Optimized Values - g_m: 0.05190, F: 1.96142e+00, E_mes: 1.49392e-05, T_mes: 309.12, T_bs: 305.94, T_soil: 305.92
+2025-05-15 12:34:51,321 - INFO - Initial Guess - g_m: 0.13769, F: 1.71424e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:51,322 - INFO - Refined Solution - g_m: 0.13769, F: 1.71424e+00, E_mes: 4.02997e-05, T_mes: 308.61, T_bs: 305.94, T_soil: 305.91, Iter: 1
+2025-05-15 12:34:51,322 - INFO - Final Optimized Values - g_m: 0.13769, F: 1.71424e+00, E_mes: 4.02997e-05, T_mes: 308.61, T_bs: 305.94, T_soil: 305.91
+2025-05-15 12:34:51,665 - INFO - Initial Guess - g_m: 0.22044, F: 1.98222e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:51,667 - INFO - Refined Solution - g_m: 0.22044, F: 1.98222e+00, E_mes: 6.56081e-05, T_mes: 308.10, T_bs: 305.94, T_soil: 305.92, Iter: 1
+2025-05-15 12:34:51,667 - INFO - Final Optimized Values - g_m: 0.22044, F: 1.98222e+00, E_mes: 6.56081e-05, T_mes: 308.10, T_bs: 305.94, T_soil: 305.92
+2025-05-15 12:34:52,006 - INFO - Initial Guess - g_m: 0.30045, F: 1.95788e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:52,007 - INFO - Refined Solution - g_m: 0.30045, F: 1.95788e+00, E_mes: 9.09226e-05, T_mes: 307.59, T_bs: 305.94, T_soil: 305.92, Iter: 1
+2025-05-15 12:34:52,007 - INFO - Final Optimized Values - g_m: 0.30045, F: 1.95788e+00, E_mes: 9.09226e-05, T_mes: 307.59, T_bs: 305.94, T_soil: 305.92
+2025-05-15 12:34:52,351 - INFO - Initial Guess - g_m: 0.37790, F: 1.56438e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:52,352 - INFO - Refined Solution - g_m: 0.37790, F: 1.56438e+00, E_mes: 1.16280e-04, T_mes: 307.08, T_bs: 305.94, T_soil: 305.92, Iter: 1
+2025-05-15 12:34:52,352 - INFO - Final Optimized Values - g_m: 0.37790, F: 1.56438e+00, E_mes: 1.16280e-04, T_mes: 307.08, T_bs: 305.94, T_soil: 305.92
+2025-05-15 12:34:52,694 - INFO - Initial Guess - g_m: 0.45227, F: 1.70163e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:52,695 - INFO - Refined Solution - g_m: 0.45227, F: 1.70163e+00, E_mes: 1.41497e-04, T_mes: 306.58, T_bs: 305.94, T_soil: 305.93, Iter: 1
+2025-05-15 12:34:52,695 - INFO - Final Optimized Values - g_m: 0.45227, F: 1.70163e+00, E_mes: 1.41497e-04, T_mes: 306.58, T_bs: 305.94, T_soil: 305.93
+2025-05-15 12:34:53,034 - INFO - Initial Guess - g_m: 0.49952, F: 1.72238e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:53,036 - INFO - Refined Solution - g_m: 0.49953, F: 1.72238e+00, E_mes: 1.58895e-04, T_mes: 306.66, T_bs: 306.37, T_soil: 306.36, Iter: 1
+2025-05-15 12:34:53,036 - INFO - Final Optimized Values - g_m: 0.49953, F: 1.72238e+00, E_mes: 1.58895e-04, T_mes: 306.66, T_bs: 306.37, T_soil: 306.36
+2025-05-15 12:34:53,380 - INFO - Initial Guess - g_m: 0.49985, F: 1.36400e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:34:53,381 - INFO - Refined Solution - g_m: 0.49989, F: 1.36400e+00, E_mes: 1.61662e-04, T_mes: 307.85, T_bs: 307.60, T_soil: 307.58, Iter: 1
+2025-05-15 12:34:53,381 - INFO - Final Optimized Values - g_m: 0.49989, F: 1.36400e+00, E_mes: 1.61662e-04, T_mes: 307.85, T_bs: 307.60, T_soil: 307.58
+2025-05-15 12:34:53,719 - INFO - Initial Guess - g_m: 0.50000, F: 1.66339e+00, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:34:53,720 - INFO - Refined Solution - g_m: 0.50000, F: 1.66339e+00, E_mes: 1.64388e-04, T_mes: 309.03, T_bs: 308.82, T_soil: 308.80, Iter: 1
+2025-05-15 12:34:53,720 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.66339e+00, E_mes: 1.64388e-04, T_mes: 309.03, T_bs: 308.82, T_soil: 308.80
+2025-05-15 12:34:54,059 - INFO - Initial Guess - g_m: 0.50000, F: 1.68815e+00, Objective: -0.00008, Iterations: 1000
+2025-05-15 12:34:54,061 - INFO - Refined Solution - g_m: 0.50000, F: 1.68815e+00, E_mes: 1.67119e-04, T_mes: 310.22, T_bs: 310.05, T_soil: 310.03, Iter: 1
+2025-05-15 12:34:54,061 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.68815e+00, E_mes: 1.67119e-04, T_mes: 310.22, T_bs: 310.05, T_soil: 310.03
+2025-05-15 12:34:54,400 - INFO - Initial Guess - g_m: 0.50000, F: 1.95921e+00, Objective: -0.00007, Iterations: 1000
+2025-05-15 12:34:54,404 - INFO - Refined Solution - g_m: 0.50000, F: 1.95921e+00, E_mes: 1.69888e-04, T_mes: 311.40, T_bs: 311.27, T_soil: 311.25, Iter: 1
+2025-05-15 12:34:54,404 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95921e+00, E_mes: 1.69888e-04, T_mes: 311.40, T_bs: 311.27, T_soil: 311.25
+2025-05-15 12:34:54,748 - INFO - Initial Guess - g_m: 0.50000, F: 1.96024e+00, Objective: -0.00006, Iterations: 1000
+2025-05-15 12:34:54,752 - INFO - Refined Solution - g_m: 0.50000, F: 1.96024e+00, E_mes: 1.72698e-04, T_mes: 312.58, T_bs: 312.49, T_soil: 312.47, Iter: 1
+2025-05-15 12:34:54,752 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.96024e+00, E_mes: 1.72698e-04, T_mes: 312.58, T_bs: 312.49, T_soil: 312.47
+2025-05-15 12:34:55,093 - INFO - Initial Guess - g_m: 0.50000, F: 1.95909e+00, Objective: -0.00006, Iterations: 1000
+2025-05-15 12:34:55,097 - INFO - Refined Solution - g_m: 0.50000, F: 1.95909e+00, E_mes: 1.75548e-04, T_mes: 313.75, T_bs: 313.71, T_soil: 313.69, Iter: 1
+2025-05-15 12:34:55,097 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95909e+00, E_mes: 1.75548e-04, T_mes: 313.75, T_bs: 313.71, T_soil: 313.69
+2025-05-15 12:34:55,438 - INFO - Initial Guess - g_m: 0.50000, F: 1.95910e+00, Objective: -0.00005, Iterations: 1000
+2025-05-15 12:34:55,440 - INFO - Refined Solution - g_m: 0.50000, F: 1.95910e+00, E_mes: 1.78439e-04, T_mes: 314.93, T_bs: 314.92, T_soil: 314.91, Iter: 1
+2025-05-15 12:34:55,440 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95910e+00, E_mes: 1.78439e-04, T_mes: 314.93, T_bs: 314.92, T_soil: 314.91
+2025-05-15 12:34:55,783 - INFO - Initial Guess - g_m: 0.50000, F: 1.95910e+00, Objective: -0.00004, Iterations: 1000
+2025-05-15 12:34:55,785 - INFO - Refined Solution - g_m: 0.50000, F: 1.95910e+00, E_mes: 1.81372e-04, T_mes: 316.10, T_bs: 316.14, T_soil: 316.12, Iter: 1
+2025-05-15 12:34:55,785 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95910e+00, E_mes: 1.81372e-04, T_mes: 316.10, T_bs: 316.14, T_soil: 316.12
+2025-05-15 12:34:56,128 - INFO - Initial Guess - g_m: 0.50000, F: 1.95911e+00, Objective: -0.00004, Iterations: 1000
+2025-05-15 12:34:56,130 - INFO - Refined Solution - g_m: 0.50000, F: 1.95911e+00, E_mes: 1.84346e-04, T_mes: 317.26, T_bs: 317.35, T_soil: 317.33, Iter: 0
+2025-05-15 12:34:56,130 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95911e+00, E_mes: 1.84346e-04, T_mes: 317.26, T_bs: 317.35, T_soil: 317.33
+2025-05-15 12:34:56,473 - INFO - Initial Guess - g_m: 0.50000, F: 1.95912e+00, Objective: -0.00003, Iterations: 1000
+2025-05-15 12:34:56,475 - INFO - Refined Solution - g_m: 0.50000, F: 1.95912e+00, E_mes: 1.87363e-04, T_mes: 318.43, T_bs: 318.56, T_soil: 318.54, Iter: 1
+2025-05-15 12:34:56,475 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95912e+00, E_mes: 1.87363e-04, T_mes: 318.43, T_bs: 318.56, T_soil: 318.54
+2025-05-15 12:34:56,815 - INFO - Initial Guess - g_m: 0.50000, F: 1.40461e+00, Objective: -0.00003, Iterations: 1000
+2025-05-15 12:34:56,817 - INFO - Refined Solution - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.90422e-04, T_mes: 319.59, T_bs: 319.77, T_soil: 319.74, Iter: 1
+2025-05-15 12:34:56,817 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.90422e-04, T_mes: 319.59, T_bs: 319.77, T_soil: 319.74
+2025-05-15 12:34:57,153 - INFO - Initial Guess - g_m: 0.50000, F: 1.40461e+00, Objective: -0.00002, Iterations: 1000
+2025-05-15 12:34:57,155 - INFO - Refined Solution - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.93525e-04, T_mes: 320.75, T_bs: 320.98, T_soil: 320.95, Iter: 1
+2025-05-15 12:34:57,155 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.93525e-04, T_mes: 320.75, T_bs: 320.98, T_soil: 320.95
+2025-05-15 12:34:57,498 - INFO - Initial Guess - g_m: 0.50000, F: 1.40461e+00, Objective: -0.00002, Iterations: 1000
+2025-05-15 12:34:57,499 - INFO - Refined Solution - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.96672e-04, T_mes: 321.90, T_bs: 322.18, T_soil: 322.15, Iter: 1
+2025-05-15 12:34:57,499 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.96672e-04, T_mes: 321.90, T_bs: 322.18, T_soil: 322.15
+2025-05-15 12:34:57,841 - INFO - Initial Guess - g_m: 0.50000, F: 1.68920e+00, Objective: -0.00002, Iterations: 1000
+2025-05-15 12:34:57,843 - INFO - Refined Solution - g_m: 0.50000, F: 1.68920e+00, E_mes: 1.99864e-04, T_mes: 323.05, T_bs: 323.38, T_soil: 323.35, Iter: 1
+2025-05-15 12:34:57,843 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.68920e+00, E_mes: 1.99864e-04, T_mes: 323.05, T_bs: 323.38, T_soil: 323.35
+2025-05-15 12:35:02,486 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:02,490 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.03734e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:35:02,490 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.03734e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:35:02,844 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:02,847 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.81497e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:35:02,847 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.81497e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:35:03,197 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:03,200 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.79965e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:35:03,201 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.79965e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:35:03,550 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:03,553 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.78433e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-15 12:35:03,553 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.78433e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-15 12:35:03,910 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:03,914 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.47415e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.49, Iter: 1
+2025-05-15 12:35:03,914 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.47415e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.49
+2025-05-15 12:35:04,268 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:04,271 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 6.92122e-12, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-15 12:35:04,271 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 6.92122e-12, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-15 12:35:04,622 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:04,626 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.93312e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-15 12:35:04,626 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.93312e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-15 12:35:04,976 - INFO - Initial Guess - g_m: 0.00099, F: 6.13407e-02, Objective: -0.00000, Iterations: 1000
+2025-05-15 12:35:04,978 - INFO - Refined Solution - g_m: 0.00098, F: 6.13400e-02, E_mes: 1.89087e-07, T_mes: 277.61, T_bs: 274.55, T_soil: 274.38, Iter: 1
+2025-05-15 12:35:04,978 - INFO - Final Optimized Values - g_m: 0.00098, F: 6.13400e-02, E_mes: 1.89087e-07, T_mes: 277.61, T_bs: 274.55, T_soil: 274.38
+2025-05-15 12:35:05,332 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:05,335 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.70768e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-15 12:35:05,335 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.70768e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-15 12:35:05,693 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:05,696 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.44258e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:35:05,696 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.44258e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:35:06,049 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:06,052 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.71453e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:35:06,052 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.71453e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:35:06,403 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:06,406 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66163e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:35:06,406 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.66163e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:35:06,762 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:06,764 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.83786e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-15 12:35:06,765 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.83786e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-15 12:35:07,107 - INFO - Initial Guess - g_m: 0.00323, F: 4.07454e-02, Objective: -0.00000, Iterations: 1000
+2025-05-15 12:35:07,108 - INFO - Refined Solution - g_m: 0.00323, F: 4.07440e-02, E_mes: 6.19921e-07, T_mes: 277.60, T_bs: 274.57, T_soil: 274.31, Iter: 1
+2025-05-15 12:35:07,108 - INFO - Final Optimized Values - g_m: 0.00323, F: 4.07440e-02, E_mes: 6.19921e-07, T_mes: 277.60, T_bs: 274.57, T_soil: 274.31
+2025-05-15 12:35:07,461 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:07,464 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.79386e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:35:07,464 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.79386e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:35:07,814 - INFO - Initial Guess - g_m: 0.01147, F: 6.91344e-03, Objective: -0.00000, Iterations: 1000
+2025-05-15 12:35:07,816 - INFO - Refined Solution - g_m: 0.01147, F: 6.88247e-03, E_mes: 2.20358e-06, T_mes: 277.68, T_bs: 274.88, T_soil: 273.69, Iter: 1
+2025-05-15 12:35:07,816 - INFO - Final Optimized Values - g_m: 0.01147, F: 6.88247e-03, E_mes: 2.20358e-06, T_mes: 277.68, T_bs: 274.88, T_soil: 273.69
+2025-05-15 12:35:08,200 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:08,203 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.11291e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:35:08,203 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.11291e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:35:08,581 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:08,584 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.30353e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-15 12:35:08,584 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.30353e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-15 12:35:08,929 - INFO - Initial Guess - g_m: 0.00323, F: 4.07454e-02, Objective: -0.00000, Iterations: 1000
+2025-05-15 12:35:08,931 - INFO - Refined Solution - g_m: 0.00323, F: 4.07440e-02, E_mes: 6.19988e-07, T_mes: 277.61, T_bs: 274.58, T_soil: 274.32, Iter: 1
+2025-05-15 12:35:08,931 - INFO - Final Optimized Values - g_m: 0.00323, F: 4.07440e-02, E_mes: 6.19988e-07, T_mes: 277.61, T_bs: 274.58, T_soil: 274.32
+2025-05-15 12:35:09,289 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:09,292 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.41971e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51, Iter: 1
+2025-05-15 12:35:09,292 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.41971e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51
+2025-05-15 12:35:09,670 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:09,673 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.27716e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51, Iter: 1
+2025-05-15 12:35:09,673 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.27716e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51
+2025-05-15 12:35:10,061 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:10,064 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.67173e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51, Iter: 1
+2025-05-15 12:35:10,064 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.67173e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51
+2025-05-15 12:35:10,425 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:10,428 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.53427e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.52, Iter: 1
+2025-05-15 12:35:10,428 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.53427e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.52
+2025-05-15 12:35:10,778 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:10,781 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.20489e-11, T_mes: 278.69, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:35:10,781 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.20489e-11, T_mes: 278.69, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:35:11,127 - INFO - Initial Guess - g_m: 0.00546, F: 1.44392e-02, Objective: -0.00000, Iterations: 1000
+2025-05-15 12:35:11,129 - INFO - Refined Solution - g_m: 0.00545, F: 1.44299e-02, E_mes: 1.04819e-06, T_mes: 277.68, T_bs: 274.74, T_soil: 274.08, Iter: 1
+2025-05-15 12:35:11,129 - INFO - Final Optimized Values - g_m: 0.00545, F: 1.44299e-02, E_mes: 1.04819e-06, T_mes: 277.68, T_bs: 274.74, T_soil: 274.08
+2025-05-15 12:35:11,482 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:11,485 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.92293e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:35:11,485 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.92293e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:35:11,845 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:11,848 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.19937e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:35:11,848 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.19937e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:35:12,212 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-15 12:35:12,214 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.78243e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-15 12:35:12,214 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.78243e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-15 12:35:12,572 - INFO - Initial Guess - g_m: 0.01462, F: 1.35008e-02, Objective: -0.00000, Iterations: 1000
+2025-05-15 12:35:12,574 - INFO - Refined Solution - g_m: 0.01462, F: 1.34908e-02, E_mes: 2.80974e-06, T_mes: 277.55, T_bs: 274.66, T_soil: 273.98, Iter: 1
+2025-05-15 12:35:12,574 - INFO - Final Optimized Values - g_m: 0.01462, F: 1.34908e-02, E_mes: 2.80974e-06, T_mes: 277.55, T_bs: 274.66, T_soil: 273.98
+2025-05-15 12:35:12,923 - INFO - Initial Guess - g_m: 0.00174, F: 5.57852e-03, Objective: -0.00000, Iterations: 1000
+2025-05-15 12:35:12,924 - INFO - Refined Solution - g_m: 0.00173, F: 5.53311e-03, E_mes: 3.32675e-07, T_mes: 277.90, T_bs: 275.12, T_soil: 273.67, Iter: 1
+2025-05-15 12:35:12,924 - INFO - Final Optimized Values - g_m: 0.00173, F: 5.53311e-03, E_mes: 3.32675e-07, T_mes: 277.90, T_bs: 275.12, T_soil: 273.67
+2025-05-15 12:35:17,729 - INFO - Initial Guess - g_m: 0.12415, F: 1.95635e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:17,731 - INFO - Refined Solution - g_m: 0.12415, F: 1.95609e-02, E_mes: 3.91646e-05, T_mes: 295.13, T_bs: 305.96, T_soil: 312.59, Iter: 1
+2025-05-15 12:35:17,731 - INFO - Final Optimized Values - g_m: 0.12415, F: 1.95609e-02, E_mes: 3.91646e-05, T_mes: 295.13, T_bs: 305.96, T_soil: 312.59
+2025-05-15 12:35:18,096 - INFO - Initial Guess - g_m: 0.16486, F: 2.36187e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:18,098 - INFO - Refined Solution - g_m: 0.16486, F: 2.36206e-02, E_mes: 5.20078e-05, T_mes: 295.18, T_bs: 305.93, T_soil: 311.31, Iter: 1
+2025-05-15 12:35:18,098 - INFO - Final Optimized Values - g_m: 0.16486, F: 2.36206e-02, E_mes: 5.20078e-05, T_mes: 295.18, T_bs: 305.93, T_soil: 311.31
+2025-05-15 12:35:18,451 - INFO - Initial Guess - g_m: 0.10781, F: 1.38335e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:18,452 - INFO - Refined Solution - g_m: 0.10781, F: 1.38297e-02, E_mes: 3.40104e-05, T_mes: 296.74, T_bs: 305.95, T_soil: 313.91, Iter: 1
+2025-05-15 12:35:18,452 - INFO - Final Optimized Values - g_m: 0.10781, F: 1.38297e-02, E_mes: 3.40104e-05, T_mes: 296.74, T_bs: 305.95, T_soil: 313.91
+2025-05-15 12:35:18,798 - INFO - Initial Guess - g_m: 0.20801, F: 2.67368e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:18,800 - INFO - Refined Solution - g_m: 0.20801, F: 2.67404e-02, E_mes: 6.56209e-05, T_mes: 295.87, T_bs: 305.90, T_soil: 310.25, Iter: 1
+2025-05-15 12:35:18,800 - INFO - Final Optimized Values - g_m: 0.20801, F: 2.67404e-02, E_mes: 6.56209e-05, T_mes: 295.87, T_bs: 305.90, T_soil: 310.25
+2025-05-15 12:35:19,147 - INFO - Initial Guess - g_m: 0.23743, F: 3.31407e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:19,149 - INFO - Refined Solution - g_m: 0.23743, F: 3.31407e-02, E_mes: 7.49007e-05, T_mes: 296.12, T_bs: 305.94, T_soil: 309.33, Iter: 1
+2025-05-15 12:35:19,149 - INFO - Final Optimized Values - g_m: 0.23743, F: 3.31407e-02, E_mes: 7.49007e-05, T_mes: 296.12, T_bs: 305.94, T_soil: 309.33
+2025-05-15 12:35:19,491 - INFO - Initial Guess - g_m: 0.17256, F: 1.45216e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:19,493 - INFO - Refined Solution - g_m: 0.17256, F: 1.45318e-02, E_mes: 5.44350e-05, T_mes: 297.76, T_bs: 305.90, T_soil: 312.35, Iter: 1
+2025-05-15 12:35:19,493 - INFO - Final Optimized Values - g_m: 0.17256, F: 1.45318e-02, E_mes: 5.44350e-05, T_mes: 297.76, T_bs: 305.90, T_soil: 312.35
+2025-05-15 12:35:19,837 - INFO - Initial Guess - g_m: 0.05594, F: 5.94975e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:19,839 - INFO - Refined Solution - g_m: 0.05594, F: 5.94258e-03, E_mes: 1.76485e-05, T_mes: 300.24, T_bs: 305.95, T_soil: 317.33, Iter: 1
+2025-05-15 12:35:19,839 - INFO - Final Optimized Values - g_m: 0.05594, F: 5.94258e-03, E_mes: 1.76485e-05, T_mes: 300.24, T_bs: 305.95, T_soil: 317.33
+2025-05-15 12:35:20,182 - INFO - Initial Guess - g_m: 0.17585, F: 1.09478e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:20,184 - INFO - Refined Solution - g_m: 0.17584, F: 1.09681e-02, E_mes: 5.54728e-05, T_mes: 299.06, T_bs: 305.88, T_soil: 312.89, Iter: 1
+2025-05-15 12:35:20,184 - INFO - Final Optimized Values - g_m: 0.17584, F: 1.09681e-02, E_mes: 5.54728e-05, T_mes: 299.06, T_bs: 305.88, T_soil: 312.89
+2025-05-15 12:35:20,522 - INFO - Initial Guess - g_m: 0.27941, F: 2.72534e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:20,524 - INFO - Refined Solution - g_m: 0.27941, F: 2.72557e-02, E_mes: 8.81444e-05, T_mes: 298.18, T_bs: 305.91, T_soil: 308.99, Iter: 1
+2025-05-15 12:35:20,524 - INFO - Final Optimized Values - g_m: 0.27941, F: 2.72557e-02, E_mes: 8.81444e-05, T_mes: 298.18, T_bs: 305.91, T_soil: 308.99
+2025-05-15 12:35:20,873 - INFO - Initial Guess - g_m: 0.32628, F: 5.70299e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:20,875 - INFO - Refined Solution - g_m: 0.32628, F: 5.70300e-02, E_mes: 1.02929e-04, T_mes: 298.16, T_bs: 305.93, T_soil: 307.38, Iter: 1
+2025-05-15 12:35:20,875 - INFO - Final Optimized Values - g_m: 0.32628, F: 5.70300e-02, E_mes: 1.02929e-04, T_mes: 298.16, T_bs: 305.93, T_soil: 307.38
+2025-05-15 12:35:21,218 - INFO - Initial Guess - g_m: 0.35753, F: 1.65682e-01, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:21,220 - INFO - Refined Solution - g_m: 0.35753, F: 1.65682e-01, E_mes: 1.12788e-04, T_mes: 298.37, T_bs: 305.95, T_soil: 306.43, Iter: 1
+2025-05-15 12:35:21,220 - INFO - Final Optimized Values - g_m: 0.35753, F: 1.65682e-01, E_mes: 1.12788e-04, T_mes: 298.37, T_bs: 305.95, T_soil: 306.43
+2025-05-15 12:35:21,574 - INFO - Initial Guess - g_m: 0.28920, F: 1.69315e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:21,577 - INFO - Refined Solution - g_m: 0.28920, F: 1.69296e-02, E_mes: 9.12337e-05, T_mes: 300.09, T_bs: 305.96, T_soil: 309.51, Iter: 1
+2025-05-15 12:35:21,577 - INFO - Final Optimized Values - g_m: 0.28920, F: 1.69296e-02, E_mes: 9.12337e-05, T_mes: 300.09, T_bs: 305.96, T_soil: 309.51
+2025-05-15 12:35:21,945 - INFO - Initial Guess - g_m: 0.11497, F: 2.26281e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:21,948 - INFO - Refined Solution - g_m: 0.11497, F: 2.27418e-03, E_mes: 3.62682e-05, T_mes: 303.42, T_bs: 305.95, T_soil: 316.91, Iter: 1
+2025-05-15 12:35:21,948 - INFO - Final Optimized Values - g_m: 0.11497, F: 2.27418e-03, E_mes: 3.62682e-05, T_mes: 303.42, T_bs: 305.95, T_soil: 316.91
+2025-05-15 12:35:22,309 - INFO - Initial Guess - g_m: 0.30590, F: 1.26154e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:22,311 - INFO - Refined Solution - g_m: 0.30590, F: 1.26164e-02, E_mes: 9.65010e-05, T_mes: 301.19, T_bs: 305.93, T_soil: 309.52, Iter: 1
+2025-05-15 12:35:22,311 - INFO - Final Optimized Values - g_m: 0.30590, F: 1.26164e-02, E_mes: 9.65010e-05, T_mes: 301.19, T_bs: 305.93, T_soil: 309.52
+2025-05-15 12:35:22,677 - INFO - Initial Guess - g_m: 0.39692, F: 2.38234e-01, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:22,679 - INFO - Refined Solution - g_m: 0.39692, F: 2.38234e-01, E_mes: 1.25215e-04, T_mes: 300.48, T_bs: 305.94, T_soil: 306.15, Iter: 1
+2025-05-15 12:35:22,679 - INFO - Final Optimized Values - g_m: 0.39692, F: 2.38234e-01, E_mes: 1.25215e-04, T_mes: 300.48, T_bs: 305.94, T_soil: 306.15
+2025-05-15 12:35:23,027 - INFO - Initial Guess - g_m: 0.39631, F: 7.45285e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:23,028 - INFO - Refined Solution - g_m: 0.39631, F: 7.45285e-02, E_mes: 1.25022e-04, T_mes: 301.17, T_bs: 305.94, T_soil: 306.50, Iter: 0
+2025-05-15 12:35:23,029 - INFO - Final Optimized Values - g_m: 0.39631, F: 7.45285e-02, E_mes: 1.25022e-04, T_mes: 301.17, T_bs: 305.94, T_soil: 306.50
+2025-05-15 12:35:23,373 - INFO - Initial Guess - g_m: 0.40973, F: 9.22970e-02, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:23,375 - INFO - Refined Solution - g_m: 0.40973, F: 9.22970e-02, E_mes: 1.29255e-04, T_mes: 301.64, T_bs: 305.93, T_soil: 306.31, Iter: 1
+2025-05-15 12:35:23,375 - INFO - Final Optimized Values - g_m: 0.40973, F: 9.22970e-02, E_mes: 1.29255e-04, T_mes: 301.64, T_bs: 305.93, T_soil: 306.31
+2025-05-15 12:35:23,773 - INFO - Initial Guess - g_m: 0.37194, F: 9.82330e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:23,775 - INFO - Refined Solution - g_m: 0.37194, F: 9.82020e-03, E_mes: 1.17334e-04, T_mes: 302.92, T_bs: 305.97, T_soil: 308.11, Iter: 1
+2025-05-15 12:35:23,775 - INFO - Final Optimized Values - g_m: 0.37194, F: 9.82020e-03, E_mes: 1.17334e-04, T_mes: 302.92, T_bs: 305.97, T_soil: 308.11
+2025-05-15 12:35:24,123 - INFO - Initial Guess - g_m: 0.43352, F: 4.37985e-01, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:24,125 - INFO - Refined Solution - g_m: 0.43352, F: 4.37985e-01, E_mes: 1.36759e-04, T_mes: 302.64, T_bs: 305.94, T_soil: 305.99, Iter: 1
+2025-05-15 12:35:24,125 - INFO - Final Optimized Values - g_m: 0.43352, F: 4.37985e-01, E_mes: 1.36759e-04, T_mes: 302.64, T_bs: 305.94, T_soil: 305.99
+2025-05-15 12:35:24,466 - INFO - Initial Guess - g_m: 0.40779, F: 6.06459e-03, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:24,467 - INFO - Refined Solution - g_m: 0.40779, F: 6.06721e-03, E_mes: 1.28644e-04, T_mes: 303.70, T_bs: 305.92, T_soil: 307.38, Iter: 1
+2025-05-15 12:35:24,468 - INFO - Final Optimized Values - g_m: 0.40779, F: 6.06721e-03, E_mes: 1.28644e-04, T_mes: 303.70, T_bs: 305.92, T_soil: 307.38
+2025-05-15 12:35:24,813 - INFO - Initial Guess - g_m: 0.45058, F: 1.55469e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:24,814 - INFO - Refined Solution - g_m: 0.45058, F: 1.55469e+00, E_mes: 1.42140e-04, T_mes: 303.74, T_bs: 305.94, T_soil: 305.95, Iter: 1
+2025-05-15 12:35:24,814 - INFO - Final Optimized Values - g_m: 0.45058, F: 1.55469e+00, E_mes: 1.42140e-04, T_mes: 303.74, T_bs: 305.94, T_soil: 305.95
+2025-05-15 12:35:25,165 - INFO - Initial Guess - g_m: 0.45895, F: 5.34914e-01, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:25,167 - INFO - Refined Solution - g_m: 0.45895, F: 5.34914e-01, E_mes: 1.44783e-04, T_mes: 304.29, T_bs: 305.94, T_soil: 305.94, Iter: 1
+2025-05-15 12:35:25,167 - INFO - Final Optimized Values - g_m: 0.45895, F: 5.34914e-01, E_mes: 1.44783e-04, T_mes: 304.29, T_bs: 305.94, T_soil: 305.94
+2025-05-15 12:35:25,515 - INFO - Initial Guess - g_m: 0.46694, F: 1.79533e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:25,516 - INFO - Refined Solution - g_m: 0.46694, F: 1.79533e+00, E_mes: 1.47304e-04, T_mes: 304.85, T_bs: 305.94, T_soil: 305.94, Iter: 0
+2025-05-15 12:35:25,516 - INFO - Final Optimized Values - g_m: 0.46694, F: 1.79533e+00, E_mes: 1.47304e-04, T_mes: 304.85, T_bs: 305.94, T_soil: 305.94
+2025-05-15 12:35:25,861 - INFO - Initial Guess - g_m: 0.47529, F: 1.19206e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:25,863 - INFO - Refined Solution - g_m: 0.47529, F: 1.19206e+00, E_mes: 1.49936e-04, T_mes: 305.40, T_bs: 305.94, T_soil: 305.93, Iter: 1
+2025-05-15 12:35:25,863 - INFO - Final Optimized Values - g_m: 0.47529, F: 1.19206e+00, E_mes: 1.49936e-04, T_mes: 305.40, T_bs: 305.94, T_soil: 305.93
+2025-05-15 12:35:26,208 - INFO - Initial Guess - g_m: 0.48372, F: 8.87266e-01, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:26,210 - INFO - Refined Solution - g_m: 0.48372, F: 8.87266e-01, E_mes: 1.52596e-04, T_mes: 305.96, T_bs: 305.94, T_soil: 305.92, Iter: 1
+2025-05-15 12:35:26,210 - INFO - Final Optimized Values - g_m: 0.48372, F: 8.87266e-01, E_mes: 1.52596e-04, T_mes: 305.96, T_bs: 305.94, T_soil: 305.92
+2025-05-15 12:35:26,548 - INFO - Initial Guess - g_m: 0.49175, F: 1.76569e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:26,549 - INFO - Refined Solution - g_m: 0.49175, F: 1.76569e+00, E_mes: 1.55130e-04, T_mes: 306.51, T_bs: 305.94, T_soil: 305.92, Iter: 1
+2025-05-15 12:35:26,549 - INFO - Final Optimized Values - g_m: 0.49175, F: 1.76569e+00, E_mes: 1.55130e-04, T_mes: 306.51, T_bs: 305.94, T_soil: 305.92
+2025-05-15 12:35:26,888 - INFO - Initial Guess - g_m: 0.49938, F: 1.95943e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:26,889 - INFO - Refined Solution - g_m: 0.49938, F: 1.95943e+00, E_mes: 1.57536e-04, T_mes: 307.08, T_bs: 305.95, T_soil: 305.93, Iter: 1
+2025-05-15 12:35:26,889 - INFO - Final Optimized Values - g_m: 0.49938, F: 1.95943e+00, E_mes: 1.57536e-04, T_mes: 307.08, T_bs: 305.95, T_soil: 305.93
+2025-05-15 12:35:27,232 - INFO - Initial Guess - g_m: 0.49962, F: 1.90370e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:27,234 - INFO - Refined Solution - g_m: 0.49963, F: 1.90370e+00, E_mes: 1.57615e-04, T_mes: 307.82, T_bs: 306.08, T_soil: 306.06, Iter: 1
+2025-05-15 12:35:27,234 - INFO - Final Optimized Values - g_m: 0.49963, F: 1.90370e+00, E_mes: 1.57615e-04, T_mes: 307.82, T_bs: 306.08, T_soil: 306.06
+2025-05-15 12:35:27,578 - INFO - Initial Guess - g_m: 0.49984, F: 1.79478e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:27,580 - INFO - Refined Solution - g_m: 0.49985, F: 1.79478e+00, E_mes: 1.57683e-04, T_mes: 308.57, T_bs: 306.22, T_soil: 306.19, Iter: 1
+2025-05-15 12:35:27,580 - INFO - Final Optimized Values - g_m: 0.49985, F: 1.79478e+00, E_mes: 1.57683e-04, T_mes: 308.57, T_bs: 306.22, T_soil: 306.19
+2025-05-15 12:35:27,924 - INFO - Initial Guess - g_m: 0.49993, F: 1.45839e+00, Objective: -0.00009, Iterations: 1000
+2025-05-15 12:35:27,925 - INFO - Refined Solution - g_m: 0.49994, F: 1.45839e+00, E_mes: 1.57714e-04, T_mes: 309.31, T_bs: 306.36, T_soil: 306.32, Iter: 1
+2025-05-15 12:35:27,925 - INFO - Final Optimized Values - g_m: 0.49994, F: 1.45839e+00, E_mes: 1.57714e-04, T_mes: 309.31, T_bs: 306.36, T_soil: 306.32
+2025-05-15 12:35:32,431 - INFO - Initial Guess - g_m: 0.00001, F: 1.21820e+00, Objective: -0.00004, Iterations: 1000
+2025-05-15 12:35:32,434 - INFO - Refined Solution - g_m: 0.00000, F: 1.21820e+00, E_mes: 6.48898e-11, T_mes: 289.59, T_bs: 292.86, T_soil: 292.90, Iter: 1
+2025-05-15 12:35:32,434 - INFO - Final Optimized Values - g_m: 0.00000, F: 1.21820e+00, E_mes: 6.48898e-11, T_mes: 289.59, T_bs: 292.86, T_soil: 292.90
+2025-05-27 21:24:49,897 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00008, Iterations: 1000
+2025-05-27 21:24:49,908 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.05363e-11, T_mes: 301.08, T_bs: 301.20, T_soil: 285.06, Iter: 1
+2025-05-27 21:24:49,908 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.05363e-11, T_mes: 301.08, T_bs: 301.20, T_soil: 285.06
+2025-05-27 21:24:50,266 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00008, Iterations: 1000
+2025-05-27 21:24:50,268 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.83411e-11, T_mes: 302.63, T_bs: 302.89, T_soil: 285.99, Iter: 1
+2025-05-27 21:24:50,269 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.83411e-11, T_mes: 302.63, T_bs: 302.89, T_soil: 285.99
+2025-05-27 21:24:50,611 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:50,614 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 9.46963e-11, T_mes: 304.18, T_bs: 304.59, T_soil: 286.93, Iter: 1
+2025-05-27 21:24:50,614 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 9.46963e-11, T_mes: 304.18, T_bs: 304.59, T_soil: 286.93
+2025-05-27 21:24:50,986 - INFO - Initial Guess - g_m: 0.01748, F: 0.00000e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:50,988 - INFO - Refined Solution - g_m: 0.01748, F: 0.00000e+00, E_mes: 4.54596e-06, T_mes: 305.30, T_bs: 305.85, T_soil: 287.86, Iter: 1
+2025-05-27 21:24:50,988 - INFO - Final Optimized Values - g_m: 0.01748, F: 0.00000e+00, E_mes: 4.54596e-06, T_mes: 305.30, T_bs: 305.85, T_soil: 287.86
+2025-05-27 21:24:51,405 - INFO - Initial Guess - g_m: 0.04446, F: 2.98540e-04, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:51,407 - INFO - Refined Solution - g_m: 0.04446, F: 2.98611e-04, E_mes: 1.17610e-05, T_mes: 305.71, T_bs: 305.94, T_soil: 290.06, Iter: 1
+2025-05-27 21:24:51,408 - INFO - Final Optimized Values - g_m: 0.04446, F: 2.98611e-04, E_mes: 1.17610e-05, T_mes: 305.71, T_bs: 305.94, T_soil: 290.06
+2025-05-27 21:24:51,815 - INFO - Initial Guess - g_m: 0.11119, F: 3.09659e-04, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:51,817 - INFO - Refined Solution - g_m: 0.11119, F: 3.13335e-04, E_mes: 2.99175e-05, T_mes: 305.54, T_bs: 305.94, T_soil: 290.98, Iter: 1
+2025-05-27 21:24:51,817 - INFO - Final Optimized Values - g_m: 0.11119, F: 3.13335e-04, E_mes: 2.99175e-05, T_mes: 305.54, T_bs: 305.94, T_soil: 290.98
+2025-05-27 21:24:52,160 - INFO - Initial Guess - g_m: 0.09757, F: 1.32676e-03, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:52,161 - INFO - Refined Solution - g_m: 0.09757, F: 1.32017e-03, E_mes: 2.67007e-05, T_mes: 306.41, T_bs: 305.94, T_soil: 294.65, Iter: 1
+2025-05-27 21:24:52,161 - INFO - Final Optimized Values - g_m: 0.09757, F: 1.32017e-03, E_mes: 2.67007e-05, T_mes: 306.41, T_bs: 305.94, T_soil: 294.65
+2025-05-27 21:24:52,517 - INFO - Initial Guess - g_m: 0.12293, F: 2.16568e-03, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:52,518 - INFO - Refined Solution - g_m: 0.12293, F: 2.22224e-03, E_mes: 3.42119e-05, T_mes: 306.76, T_bs: 305.94, T_soil: 296.94, Iter: 1
+2025-05-27 21:24:52,518 - INFO - Final Optimized Values - g_m: 0.12293, F: 2.22224e-03, E_mes: 3.42119e-05, T_mes: 306.76, T_bs: 305.94, T_soil: 296.94
+2025-05-27 21:24:52,849 - INFO - Initial Guess - g_m: 0.08074, F: 8.75346e-03, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:52,850 - INFO - Refined Solution - g_m: 0.08074, F: 8.72487e-03, E_mes: 2.28512e-05, T_mes: 307.96, T_bs: 305.81, T_soil: 301.83, Iter: 1
+2025-05-27 21:24:52,850 - INFO - Final Optimized Values - g_m: 0.08074, F: 8.72487e-03, E_mes: 2.28512e-05, T_mes: 307.96, T_bs: 305.81, T_soil: 301.83
+2025-05-27 21:24:53,186 - INFO - Initial Guess - g_m: 0.05270, F: 7.32416e-01, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:53,187 - INFO - Refined Solution - g_m: 0.05270, F: 7.32416e-01, E_mes: 1.51681e-05, T_mes: 309.11, T_bs: 305.95, T_soil: 305.88, Iter: 1
+2025-05-27 21:24:53,187 - INFO - Final Optimized Values - g_m: 0.05270, F: 7.32416e-01, E_mes: 1.51681e-05, T_mes: 309.11, T_bs: 305.95, T_soil: 305.88
+2025-05-27 21:24:53,541 - INFO - Initial Guess - g_m: 0.13731, F: 1.96857e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:53,543 - INFO - Refined Solution - g_m: 0.13731, F: 1.96857e+00, E_mes: 4.01884e-05, T_mes: 308.62, T_bs: 305.94, T_soil: 305.92, Iter: 1
+2025-05-27 21:24:53,543 - INFO - Final Optimized Values - g_m: 0.13731, F: 1.96857e+00, E_mes: 4.01884e-05, T_mes: 308.62, T_bs: 305.94, T_soil: 305.92
+2025-05-27 21:24:53,887 - INFO - Initial Guess - g_m: 0.22044, F: 1.84696e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:53,889 - INFO - Refined Solution - g_m: 0.22044, F: 1.84696e+00, E_mes: 6.56067e-05, T_mes: 308.10, T_bs: 305.94, T_soil: 305.92, Iter: 1
+2025-05-27 21:24:53,889 - INFO - Final Optimized Values - g_m: 0.22044, F: 1.84696e+00, E_mes: 6.56067e-05, T_mes: 308.10, T_bs: 305.94, T_soil: 305.92
+2025-05-27 21:24:54,234 - INFO - Initial Guess - g_m: 0.30071, F: 9.27147e-01, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:54,236 - INFO - Refined Solution - g_m: 0.30071, F: 9.27147e-01, E_mes: 9.10027e-05, T_mes: 307.59, T_bs: 305.94, T_soil: 305.90, Iter: 1
+2025-05-27 21:24:54,236 - INFO - Final Optimized Values - g_m: 0.30071, F: 9.27147e-01, E_mes: 9.10027e-05, T_mes: 307.59, T_bs: 305.94, T_soil: 305.90
+2025-05-27 21:24:54,563 - INFO - Initial Guess - g_m: 0.37752, F: 1.75712e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:54,564 - INFO - Refined Solution - g_m: 0.37752, F: 1.75712e+00, E_mes: 1.16164e-04, T_mes: 307.09, T_bs: 305.94, T_soil: 305.93, Iter: 1
+2025-05-27 21:24:54,564 - INFO - Final Optimized Values - g_m: 0.37752, F: 1.75712e+00, E_mes: 1.16164e-04, T_mes: 307.09, T_bs: 305.94, T_soil: 305.93
+2025-05-27 21:24:54,894 - INFO - Initial Guess - g_m: 0.45297, F: 6.48207e-01, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:54,895 - INFO - Refined Solution - g_m: 0.45297, F: 6.48207e-01, E_mes: 1.41716e-04, T_mes: 306.57, T_bs: 305.94, T_soil: 305.90, Iter: 1
+2025-05-27 21:24:54,895 - INFO - Final Optimized Values - g_m: 0.45297, F: 6.48207e-01, E_mes: 1.41716e-04, T_mes: 306.57, T_bs: 305.94, T_soil: 305.90
+2025-05-27 21:24:55,227 - INFO - Initial Guess - g_m: 0.49939, F: 1.95782e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:55,229 - INFO - Refined Solution - g_m: 0.49940, F: 1.95782e+00, E_mes: 1.58853e-04, T_mes: 306.67, T_bs: 306.37, T_soil: 306.36, Iter: 1
+2025-05-27 21:24:55,229 - INFO - Final Optimized Values - g_m: 0.49940, F: 1.95782e+00, E_mes: 1.58853e-04, T_mes: 306.67, T_bs: 306.37, T_soil: 306.36
+2025-05-27 21:24:55,561 - INFO - Initial Guess - g_m: 0.49951, F: 9.25707e-01, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:24:55,562 - INFO - Refined Solution - g_m: 0.49955, F: 9.25707e-01, E_mes: 1.61552e-04, T_mes: 307.86, T_bs: 307.61, T_soil: 307.58, Iter: 1
+2025-05-27 21:24:55,562 - INFO - Final Optimized Values - g_m: 0.49955, F: 9.25707e-01, E_mes: 1.61552e-04, T_mes: 307.86, T_bs: 307.61, T_soil: 307.58
+2025-05-27 21:24:55,894 - INFO - Initial Guess - g_m: 0.50000, F: 1.70665e+00, Objective: -0.00008, Iterations: 1000
+2025-05-27 21:24:55,896 - INFO - Refined Solution - g_m: 0.50000, F: 1.70665e+00, E_mes: 1.64388e-04, T_mes: 309.03, T_bs: 308.82, T_soil: 308.80, Iter: 1
+2025-05-27 21:24:55,896 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.70665e+00, E_mes: 1.64388e-04, T_mes: 309.03, T_bs: 308.82, T_soil: 308.80
+2025-05-27 21:24:56,235 - INFO - Initial Guess - g_m: 0.50000, F: 1.68826e+00, Objective: -0.00008, Iterations: 1000
+2025-05-27 21:24:56,235 - INFO - Refined Solution - g_m: 0.50000, F: 1.68826e+00, E_mes: 1.67119e-04, T_mes: 310.22, T_bs: 310.05, T_soil: 310.03, Iter: 0
+2025-05-27 21:24:56,236 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.68826e+00, E_mes: 1.67119e-04, T_mes: 310.22, T_bs: 310.05, T_soil: 310.03
+2025-05-27 21:24:56,575 - INFO - Initial Guess - g_m: 0.50000, F: 1.95933e+00, Objective: -0.00007, Iterations: 1000
+2025-05-27 21:24:56,577 - INFO - Refined Solution - g_m: 0.50000, F: 1.95933e+00, E_mes: 1.69888e-04, T_mes: 311.40, T_bs: 311.27, T_soil: 311.25, Iter: 1
+2025-05-27 21:24:56,577 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95933e+00, E_mes: 1.69888e-04, T_mes: 311.40, T_bs: 311.27, T_soil: 311.25
+2025-05-27 21:24:56,915 - INFO - Initial Guess - g_m: 0.50000, F: 1.95963e+00, Objective: -0.00006, Iterations: 1000
+2025-05-27 21:24:56,920 - INFO - Refined Solution - g_m: 0.50000, F: 1.95963e+00, E_mes: 1.72698e-04, T_mes: 312.58, T_bs: 312.49, T_soil: 312.47, Iter: 1
+2025-05-27 21:24:56,920 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95963e+00, E_mes: 1.72698e-04, T_mes: 312.58, T_bs: 312.49, T_soil: 312.47
+2025-05-27 21:24:57,250 - INFO - Initial Guess - g_m: 0.50000, F: 1.95909e+00, Objective: -0.00006, Iterations: 1000
+2025-05-27 21:24:57,254 - INFO - Refined Solution - g_m: 0.50000, F: 1.95909e+00, E_mes: 1.75548e-04, T_mes: 313.75, T_bs: 313.71, T_soil: 313.69, Iter: 1
+2025-05-27 21:24:57,254 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95909e+00, E_mes: 1.75548e-04, T_mes: 313.75, T_bs: 313.71, T_soil: 313.69
+2025-05-27 21:24:57,680 - INFO - Initial Guess - g_m: 0.50000, F: 1.95910e+00, Objective: -0.00005, Iterations: 1000
+2025-05-27 21:24:57,681 - INFO - Refined Solution - g_m: 0.50000, F: 1.95910e+00, E_mes: 1.78439e-04, T_mes: 314.93, T_bs: 314.92, T_soil: 314.91, Iter: 1
+2025-05-27 21:24:57,682 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95910e+00, E_mes: 1.78439e-04, T_mes: 314.93, T_bs: 314.92, T_soil: 314.91
+2025-05-27 21:24:58,046 - INFO - Initial Guess - g_m: 0.50000, F: 1.95911e+00, Objective: -0.00004, Iterations: 1000
+2025-05-27 21:24:58,047 - INFO - Refined Solution - g_m: 0.50000, F: 1.95911e+00, E_mes: 1.81372e-04, T_mes: 316.10, T_bs: 316.14, T_soil: 316.12, Iter: 1
+2025-05-27 21:24:58,047 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95911e+00, E_mes: 1.81372e-04, T_mes: 316.10, T_bs: 316.14, T_soil: 316.12
+2025-05-27 21:24:58,385 - INFO - Initial Guess - g_m: 0.50000, F: 1.95911e+00, Objective: -0.00004, Iterations: 1000
+2025-05-27 21:24:58,386 - INFO - Refined Solution - g_m: 0.50000, F: 1.95911e+00, E_mes: 1.84346e-04, T_mes: 317.26, T_bs: 317.35, T_soil: 317.33, Iter: 0
+2025-05-27 21:24:58,387 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95911e+00, E_mes: 1.84346e-04, T_mes: 317.26, T_bs: 317.35, T_soil: 317.33
+2025-05-27 21:24:58,726 - INFO - Initial Guess - g_m: 0.50000, F: 1.95912e+00, Objective: -0.00003, Iterations: 1000
+2025-05-27 21:24:58,728 - INFO - Refined Solution - g_m: 0.50000, F: 1.95912e+00, E_mes: 1.87363e-04, T_mes: 318.43, T_bs: 318.56, T_soil: 318.54, Iter: 1
+2025-05-27 21:24:58,728 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.95912e+00, E_mes: 1.87363e-04, T_mes: 318.43, T_bs: 318.56, T_soil: 318.54
+2025-05-27 21:24:59,058 - INFO - Initial Guess - g_m: 0.50000, F: 1.40461e+00, Objective: -0.00003, Iterations: 1000
+2025-05-27 21:24:59,060 - INFO - Refined Solution - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.90422e-04, T_mes: 319.59, T_bs: 319.77, T_soil: 319.74, Iter: 1
+2025-05-27 21:24:59,060 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.90422e-04, T_mes: 319.59, T_bs: 319.77, T_soil: 319.74
+2025-05-27 21:24:59,386 - INFO - Initial Guess - g_m: 0.50000, F: 1.40461e+00, Objective: -0.00002, Iterations: 1000
+2025-05-27 21:24:59,390 - INFO - Refined Solution - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.93525e-04, T_mes: 320.75, T_bs: 320.98, T_soil: 320.95, Iter: 1
+2025-05-27 21:24:59,390 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.93525e-04, T_mes: 320.75, T_bs: 320.98, T_soil: 320.95
+2025-05-27 21:24:59,716 - INFO - Initial Guess - g_m: 0.50000, F: 1.40461e+00, Objective: -0.00002, Iterations: 1000
+2025-05-27 21:24:59,718 - INFO - Refined Solution - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.96672e-04, T_mes: 321.90, T_bs: 322.18, T_soil: 322.15, Iter: 1
+2025-05-27 21:24:59,718 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.40461e+00, E_mes: 1.96672e-04, T_mes: 321.90, T_bs: 322.18, T_soil: 322.15
+2025-05-27 21:25:00,047 - INFO - Initial Guess - g_m: 0.50000, F: 1.68917e+00, Objective: -0.00002, Iterations: 1000
+2025-05-27 21:25:00,049 - INFO - Refined Solution - g_m: 0.50000, F: 1.68917e+00, E_mes: 1.99864e-04, T_mes: 323.05, T_bs: 323.38, T_soil: 323.35, Iter: 1
+2025-05-27 21:25:00,049 - INFO - Final Optimized Values - g_m: 0.50000, F: 1.68917e+00, E_mes: 1.99864e-04, T_mes: 323.05, T_bs: 323.38, T_soil: 323.35
+2025-05-27 21:25:04,238 - INFO - Initial Guess - g_m: 0.01198, F: 7.79395e-03, Objective: -0.00000, Iterations: 1000
+2025-05-27 21:25:04,240 - INFO - Refined Solution - g_m: 0.01198, F: 7.76856e-03, E_mes: 2.30069e-06, T_mes: 277.63, T_bs: 274.81, T_soil: 273.73, Iter: 1
+2025-05-27 21:25:04,240 - INFO - Final Optimized Values - g_m: 0.01198, F: 7.76856e-03, E_mes: 2.30069e-06, T_mes: 277.63, T_bs: 274.81, T_soil: 273.73
+2025-05-27 21:25:04,602 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:04,605 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.81497e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-27 21:25:04,605 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.81497e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-27 21:25:04,962 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:04,964 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.55070e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49, Iter: 1
+2025-05-27 21:25:04,964 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.55070e-11, T_mes: 278.65, T_bs: 276.66, T_soil: 271.49
+2025-05-27 21:25:05,283 - INFO - Initial Guess - g_m: 0.00376, F: 2.19938e-02, Objective: -0.00000, Iterations: 1000
+2025-05-27 21:25:05,285 - INFO - Refined Solution - g_m: 0.00375, F: 2.19894e-02, E_mes: 7.20424e-07, T_mes: 277.62, T_bs: 274.63, T_soil: 274.18, Iter: 1
+2025-05-27 21:25:05,285 - INFO - Final Optimized Values - g_m: 0.00375, F: 2.19894e-02, E_mes: 7.20424e-07, T_mes: 277.62, T_bs: 274.63, T_soil: 274.18
+2025-05-27 21:25:05,619 - INFO - Initial Guess - g_m: 0.00617, F: 3.03635e-02, Objective: -0.00000, Iterations: 1000
+2025-05-27 21:25:05,621 - INFO - Refined Solution - g_m: 0.00616, F: 3.03611e-02, E_mes: 1.18438e-06, T_mes: 277.56, T_bs: 274.56, T_soil: 274.22, Iter: 1
+2025-05-27 21:25:05,621 - INFO - Final Optimized Values - g_m: 0.00616, F: 3.03611e-02, E_mes: 1.18438e-06, T_mes: 277.56, T_bs: 274.56, T_soil: 274.22
+2025-05-27 21:25:05,986 - INFO - Initial Guess - g_m: 0.00297, F: 7.77872e-03, Objective: -0.00000, Iterations: 1000
+2025-05-27 21:25:05,988 - INFO - Refined Solution - g_m: 0.00296, F: 7.75203e-03, E_mes: 5.68804e-07, T_mes: 277.77, T_bs: 274.92, T_soil: 273.81, Iter: 1
+2025-05-27 21:25:05,988 - INFO - Final Optimized Values - g_m: 0.00296, F: 7.75203e-03, E_mes: 5.68804e-07, T_mes: 277.77, T_bs: 274.92, T_soil: 273.81
+2025-05-27 21:25:06,317 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:06,320 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.35305e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-27 21:25:06,320 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.35305e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-27 21:25:06,658 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:06,661 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.72302e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-27 21:25:06,661 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.72302e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-27 21:25:06,998 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:07,000 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.05682e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50, Iter: 1
+2025-05-27 21:25:07,001 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.05682e-11, T_mes: 278.66, T_bs: 276.67, T_soil: 271.50
+2025-05-27 21:25:07,337 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:07,340 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.69232e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-27 21:25:07,340 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.69232e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-27 21:25:07,677 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:07,680 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.71452e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-27 21:25:07,680 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.71452e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-27 21:25:08,033 - INFO - Initial Guess - g_m: 0.00326, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:08,034 - INFO - Refined Solution - g_m: 0.00325, F: 0.00000e+00, E_mes: 6.24962e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.50, Iter: 1
+2025-05-27 21:25:08,034 - INFO - Final Optimized Values - g_m: 0.00325, F: 0.00000e+00, E_mes: 6.24962e-07, T_mes: 278.61, T_bs: 276.62, T_soil: 271.50
+2025-05-27 21:25:08,379 - INFO - Initial Guess - g_m: 0.00276, F: 2.21202e-02, Objective: -0.00000, Iterations: 1000
+2025-05-27 21:25:08,381 - INFO - Refined Solution - g_m: 0.00275, F: 2.21158e-02, E_mes: 5.29058e-07, T_mes: 277.65, T_bs: 274.66, T_soil: 274.20, Iter: 1
+2025-05-27 21:25:08,381 - INFO - Final Optimized Values - g_m: 0.00275, F: 2.21158e-02, E_mes: 5.29058e-07, T_mes: 277.65, T_bs: 274.66, T_soil: 274.20
+2025-05-27 21:25:08,720 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:08,724 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.52092e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50, Iter: 1
+2025-05-27 21:25:08,724 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.52092e-11, T_mes: 278.67, T_bs: 276.68, T_soil: 271.50
+2025-05-27 21:25:09,057 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:09,060 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.30973e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-27 21:25:09,060 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.30973e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-27 21:25:09,388 - INFO - Initial Guess - g_m: 0.02236, F: 6.38199e-03, Objective: -0.00000, Iterations: 1000
+2025-05-27 21:25:09,390 - INFO - Refined Solution - g_m: 0.02235, F: 6.34883e-03, E_mes: 4.29573e-06, T_mes: 277.53, T_bs: 274.78, T_soil: 273.57, Iter: 1
+2025-05-27 21:25:09,390 - INFO - Final Optimized Values - g_m: 0.02235, F: 6.34883e-03, E_mes: 4.29573e-06, T_mes: 277.53, T_bs: 274.78, T_soil: 273.57
+2025-05-27 21:25:09,716 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:09,718 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.29888e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-27 21:25:09,718 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.29888e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-27 21:25:10,046 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:10,048 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.30353e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51, Iter: 1
+2025-05-27 21:25:10,048 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.30353e-11, T_mes: 278.68, T_bs: 276.69, T_soil: 271.51
+2025-05-27 21:25:10,420 - INFO - Initial Guess - g_m: 0.00224, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:10,421 - INFO - Refined Solution - g_m: 0.00223, F: 0.00000e+00, E_mes: 4.28199e-07, T_mes: 278.64, T_bs: 276.65, T_soil: 271.51, Iter: 1
+2025-05-27 21:25:10,421 - INFO - Final Optimized Values - g_m: 0.00223, F: 0.00000e+00, E_mes: 4.28199e-07, T_mes: 278.64, T_bs: 276.65, T_soil: 271.51
+2025-05-27 21:25:10,836 - INFO - Initial Guess - g_m: 0.02228, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:10,838 - INFO - Refined Solution - g_m: 0.02226, F: 0.00000e+00, E_mes: 4.27923e-06, T_mes: 278.28, T_bs: 276.30, T_soil: 271.51, Iter: 1
+2025-05-27 21:25:10,838 - INFO - Final Optimized Values - g_m: 0.02226, F: 0.00000e+00, E_mes: 4.27923e-06, T_mes: 278.28, T_bs: 276.30, T_soil: 271.51
+2025-05-27 21:25:11,201 - INFO - Initial Guess - g_m: 0.00174, F: 5.57868e-03, Objective: -0.00000, Iterations: 1000
+2025-05-27 21:25:11,203 - INFO - Refined Solution - g_m: 0.00173, F: 5.53343e-03, E_mes: 3.32615e-07, T_mes: 277.89, T_bs: 275.10, T_soil: 273.65, Iter: 1
+2025-05-27 21:25:11,203 - INFO - Final Optimized Values - g_m: 0.00173, F: 5.53343e-03, E_mes: 3.32615e-07, T_mes: 277.89, T_bs: 275.10, T_soil: 273.65
+2025-05-27 21:25:11,551 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:11,553 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.00236e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51, Iter: 1
+2025-05-27 21:25:11,553 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.00236e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.51
+2025-05-27 21:25:11,893 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:11,896 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.53427e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.52, Iter: 1
+2025-05-27 21:25:11,896 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.53427e-11, T_mes: 278.69, T_bs: 276.70, T_soil: 271.52
+2025-05-27 21:25:12,241 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:12,244 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.47697e-11, T_mes: 278.69, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-27 21:25:12,244 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 5.47697e-11, T_mes: 278.69, T_bs: 276.71, T_soil: 271.52
+2025-05-27 21:25:12,585 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:12,588 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.25263e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-27 21:25:12,588 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 2.25263e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-27 21:25:12,916 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:12,918 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 9.96460e-12, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-27 21:25:12,918 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 9.96460e-12, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-27 21:25:13,240 - INFO - Initial Guess - g_m: 0.00469, F: 1.09677e-02, Objective: -0.00000, Iterations: 1000
+2025-05-27 21:25:13,242 - INFO - Refined Solution - g_m: 0.00469, F: 1.09526e-02, E_mes: 9.00811e-07, T_mes: 277.73, T_bs: 274.83, T_soil: 273.98, Iter: 1
+2025-05-27 21:25:13,242 - INFO - Final Optimized Values - g_m: 0.00469, F: 1.09526e-02, E_mes: 9.00811e-07, T_mes: 277.73, T_bs: 274.83, T_soil: 273.98
+2025-05-27 21:25:13,565 - INFO - Initial Guess - g_m: 0.00001, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:13,568 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.23908e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52, Iter: 1
+2025-05-27 21:25:13,568 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 4.23908e-11, T_mes: 278.70, T_bs: 276.71, T_soil: 271.52
+2025-05-27 21:25:13,898 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:13,900 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.70508e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52, Iter: 1
+2025-05-27 21:25:13,900 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 1.70508e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52
+2025-05-27 21:25:14,214 - INFO - Initial Guess - g_m: 0.00000, F: 0.00000e+00, Objective: -0.00001, Iterations: 1000
+2025-05-27 21:25:14,216 - INFO - Refined Solution - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.66475e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52, Iter: 1
+2025-05-27 21:25:14,216 - INFO - Final Optimized Values - g_m: 0.00000, F: 0.00000e+00, E_mes: 3.66475e-11, T_mes: 278.70, T_bs: 276.72, T_soil: 271.52
+2025-05-27 21:25:18,356 - INFO - Initial Guess - g_m: 0.18714, F: 3.39350e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:18,358 - INFO - Refined Solution - g_m: 0.18714, F: 3.39347e-02, E_mes: 5.90366e-05, T_mes: 294.17, T_bs: 305.95, T_soil: 310.05, Iter: 1
+2025-05-27 21:25:18,358 - INFO - Final Optimized Values - g_m: 0.18714, F: 3.39347e-02, E_mes: 5.90366e-05, T_mes: 294.17, T_bs: 305.95, T_soil: 310.05
+2025-05-27 21:25:18,700 - INFO - Initial Guess - g_m: 0.16486, F: 2.36187e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:18,702 - INFO - Refined Solution - g_m: 0.16486, F: 2.36206e-02, E_mes: 5.20078e-05, T_mes: 295.18, T_bs: 305.93, T_soil: 311.31, Iter: 1
+2025-05-27 21:25:18,702 - INFO - Final Optimized Values - g_m: 0.16486, F: 2.36206e-02, E_mes: 5.20078e-05, T_mes: 295.18, T_bs: 305.93, T_soil: 311.31
+2025-05-27 21:25:19,038 - INFO - Initial Guess - g_m: 0.21878, F: 3.66573e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:19,040 - INFO - Refined Solution - g_m: 0.21878, F: 3.66566e-02, E_mes: 6.90176e-05, T_mes: 295.05, T_bs: 305.95, T_soil: 309.41, Iter: 1
+2025-05-27 21:25:19,040 - INFO - Final Optimized Values - g_m: 0.21878, F: 3.66566e-02, E_mes: 6.90176e-05, T_mes: 295.05, T_bs: 305.95, T_soil: 309.41
+2025-05-27 21:25:19,372 - INFO - Initial Guess - g_m: 0.27560, F: 8.36673e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:19,374 - INFO - Refined Solution - g_m: 0.27560, F: 8.36673e-02, E_mes: 8.69408e-05, T_mes: 294.86, T_bs: 305.94, T_soil: 307.46, Iter: 1
+2025-05-27 21:25:19,374 - INFO - Final Optimized Values - g_m: 0.27560, F: 8.36673e-02, E_mes: 8.69408e-05, T_mes: 294.86, T_bs: 305.94, T_soil: 307.46
+2025-05-27 21:25:19,714 - INFO - Initial Guess - g_m: 0.15818, F: 1.48399e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:19,716 - INFO - Refined Solution - g_m: 0.15818, F: 1.48539e-02, E_mes: 4.98988e-05, T_mes: 297.30, T_bs: 305.88, T_soil: 312.62, Iter: 1
+2025-05-27 21:25:19,716 - INFO - Final Optimized Values - g_m: 0.15818, F: 1.48539e-02, E_mes: 4.98988e-05, T_mes: 297.30, T_bs: 305.88, T_soil: 312.62
+2025-05-27 21:25:20,046 - INFO - Initial Guess - g_m: 0.31789, F: 2.72660e-01, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:20,047 - INFO - Refined Solution - g_m: 0.31789, F: 2.72660e-01, E_mes: 1.00283e-04, T_mes: 295.58, T_bs: 305.96, T_soil: 306.38, Iter: 1
+2025-05-27 21:25:20,048 - INFO - Final Optimized Values - g_m: 0.31789, F: 2.72660e-01, E_mes: 1.00283e-04, T_mes: 295.58, T_bs: 305.96, T_soil: 306.38
+2025-05-27 21:25:20,380 - INFO - Initial Guess - g_m: 0.23007, F: 2.08130e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:20,381 - INFO - Refined Solution - g_m: 0.23007, F: 2.08206e-02, E_mes: 7.25781e-05, T_mes: 297.56, T_bs: 305.88, T_soil: 310.38, Iter: 1
+2025-05-27 21:25:20,381 - INFO - Final Optimized Values - g_m: 0.23007, F: 2.08206e-02, E_mes: 7.25781e-05, T_mes: 297.56, T_bs: 305.88, T_soil: 310.38
+2025-05-27 21:25:20,713 - INFO - Initial Guess - g_m: 0.31865, F: 9.79473e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:20,715 - INFO - Refined Solution - g_m: 0.31865, F: 9.79471e-02, E_mes: 1.00523e-04, T_mes: 296.93, T_bs: 305.97, T_soil: 306.98, Iter: 1
+2025-05-27 21:25:20,715 - INFO - Final Optimized Values - g_m: 0.31865, F: 9.79471e-02, E_mes: 1.00523e-04, T_mes: 296.93, T_bs: 305.97, T_soil: 306.98
+2025-05-27 21:25:21,048 - INFO - Initial Guess - g_m: 0.33936, F: 1.55438e-01, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:21,050 - INFO - Refined Solution - g_m: 0.33936, F: 1.55438e-01, E_mes: 1.07056e-04, T_mes: 297.28, T_bs: 305.93, T_soil: 306.53, Iter: 1
+2025-05-27 21:25:21,050 - INFO - Final Optimized Values - g_m: 0.33936, F: 1.55438e-01, E_mes: 1.07056e-04, T_mes: 297.28, T_bs: 305.93, T_soil: 306.53
+2025-05-27 21:25:21,385 - INFO - Initial Guess - g_m: 0.33230, F: 6.79594e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:21,386 - INFO - Refined Solution - g_m: 0.33230, F: 6.79596e-02, E_mes: 1.04828e-04, T_mes: 298.06, T_bs: 305.92, T_soil: 307.15, Iter: 1
+2025-05-27 21:25:21,386 - INFO - Final Optimized Values - g_m: 0.33230, F: 6.79596e-02, E_mes: 1.04828e-04, T_mes: 298.06, T_bs: 305.92, T_soil: 307.15
+2025-05-27 21:25:21,724 - INFO - Initial Guess - g_m: 0.34799, F: 8.54261e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:21,726 - INFO - Refined Solution - g_m: 0.34799, F: 8.54261e-02, E_mes: 1.09780e-04, T_mes: 298.50, T_bs: 305.93, T_soil: 306.84, Iter: 1
+2025-05-27 21:25:21,726 - INFO - Final Optimized Values - g_m: 0.34799, F: 8.54261e-02, E_mes: 1.09780e-04, T_mes: 298.50, T_bs: 305.93, T_soil: 306.84
+2025-05-27 21:25:22,068 - INFO - Initial Guess - g_m: 0.28920, F: 1.69315e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:22,070 - INFO - Refined Solution - g_m: 0.28920, F: 1.69296e-02, E_mes: 9.12337e-05, T_mes: 300.09, T_bs: 305.96, T_soil: 309.51, Iter: 1
+2025-05-27 21:25:22,070 - INFO - Final Optimized Values - g_m: 0.28920, F: 1.69296e-02, E_mes: 9.12337e-05, T_mes: 300.09, T_bs: 305.96, T_soil: 309.51
+2025-05-27 21:25:22,415 - INFO - Initial Guess - g_m: 0.15690, F: 3.39762e-03, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:22,416 - INFO - Refined Solution - g_m: 0.15691, F: 3.37993e-03, E_mes: 4.94979e-05, T_mes: 302.78, T_bs: 305.95, T_soil: 315.21, Iter: 1
+2025-05-27 21:25:22,417 - INFO - Final Optimized Values - g_m: 0.15691, F: 3.37993e-03, E_mes: 4.94979e-05, T_mes: 302.78, T_bs: 305.95, T_soil: 315.21
+2025-05-27 21:25:22,759 - INFO - Initial Guess - g_m: 0.34615, F: 2.62106e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:22,760 - INFO - Refined Solution - g_m: 0.34615, F: 2.62109e-02, E_mes: 1.09197e-04, T_mes: 300.57, T_bs: 305.93, T_soil: 307.89, Iter: 1
+2025-05-27 21:25:22,761 - INFO - Final Optimized Values - g_m: 0.34615, F: 2.62109e-02, E_mes: 1.09197e-04, T_mes: 300.57, T_bs: 305.93, T_soil: 307.89
+2025-05-27 21:25:23,100 - INFO - Initial Guess - g_m: 0.37562, F: 4.33067e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:23,102 - INFO - Refined Solution - g_m: 0.37562, F: 4.33068e-02, E_mes: 1.18496e-04, T_mes: 300.80, T_bs: 305.93, T_soil: 307.02, Iter: 1
+2025-05-27 21:25:23,102 - INFO - Final Optimized Values - g_m: 0.37562, F: 4.33068e-02, E_mes: 1.18496e-04, T_mes: 300.80, T_bs: 305.93, T_soil: 307.02
+2025-05-27 21:25:23,449 - INFO - Initial Guess - g_m: 0.40331, F: 1.68238e-01, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:23,450 - INFO - Refined Solution - g_m: 0.40331, F: 1.68238e-01, E_mes: 1.27229e-04, T_mes: 301.07, T_bs: 305.95, T_soil: 306.21, Iter: 1
+2025-05-27 21:25:23,450 - INFO - Final Optimized Values - g_m: 0.40331, F: 1.68238e-01, E_mes: 1.27229e-04, T_mes: 301.07, T_bs: 305.95, T_soil: 306.21
+2025-05-27 21:25:23,787 - INFO - Initial Guess - g_m: 0.41720, F: 8.27063e-01, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:23,789 - INFO - Refined Solution - g_m: 0.41720, F: 8.27063e-01, E_mes: 1.31613e-04, T_mes: 301.53, T_bs: 305.94, T_soil: 305.99, Iter: 1
+2025-05-27 21:25:23,789 - INFO - Final Optimized Values - g_m: 0.41720, F: 8.27063e-01, E_mes: 1.31613e-04, T_mes: 301.53, T_bs: 305.94, T_soil: 305.99
+2025-05-27 21:25:24,127 - INFO - Initial Guess - g_m: 0.42514, F: 6.40695e-01, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:24,128 - INFO - Refined Solution - g_m: 0.42514, F: 6.40695e-01, E_mes: 1.34115e-04, T_mes: 302.09, T_bs: 305.94, T_soil: 305.99, Iter: 1
+2025-05-27 21:25:24,128 - INFO - Final Optimized Values - g_m: 0.42514, F: 6.40695e-01, E_mes: 1.34115e-04, T_mes: 302.09, T_bs: 305.94, T_soil: 305.99
+2025-05-27 21:25:24,467 - INFO - Initial Guess - g_m: 0.42017, F: 3.41053e-02, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:24,469 - INFO - Refined Solution - g_m: 0.42017, F: 3.41052e-02, E_mes: 1.32548e-04, T_mes: 302.85, T_bs: 305.94, T_soil: 306.52, Iter: 1
+2025-05-27 21:25:24,469 - INFO - Final Optimized Values - g_m: 0.42017, F: 3.41052e-02, E_mes: 1.32548e-04, T_mes: 302.85, T_bs: 305.94, T_soil: 306.52
+2025-05-27 21:25:24,809 - INFO - Initial Guess - g_m: 0.40779, F: 6.06459e-03, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:24,810 - INFO - Refined Solution - g_m: 0.40779, F: 6.06721e-03, E_mes: 1.28644e-04, T_mes: 303.70, T_bs: 305.92, T_soil: 307.38, Iter: 1
+2025-05-27 21:25:24,811 - INFO - Final Optimized Values - g_m: 0.40779, F: 6.06721e-03, E_mes: 1.28644e-04, T_mes: 303.70, T_bs: 305.92, T_soil: 307.38
+2025-05-27 21:25:25,152 - INFO - Initial Guess - g_m: 0.43530, F: 7.03791e-03, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:25,153 - INFO - Refined Solution - g_m: 0.43530, F: 7.03831e-03, E_mes: 1.37322e-04, T_mes: 303.97, T_bs: 305.93, T_soil: 306.58, Iter: 1
+2025-05-27 21:25:25,153 - INFO - Final Optimized Values - g_m: 0.43530, F: 7.03831e-03, E_mes: 1.37322e-04, T_mes: 303.97, T_bs: 305.93, T_soil: 306.58
+2025-05-27 21:25:25,490 - INFO - Initial Guess - g_m: 0.45873, F: 7.94228e-01, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:25,491 - INFO - Refined Solution - g_m: 0.45873, F: 7.94228e-01, E_mes: 1.44712e-04, T_mes: 304.30, T_bs: 305.94, T_soil: 305.94, Iter: 0
+2025-05-27 21:25:25,491 - INFO - Final Optimized Values - g_m: 0.45873, F: 7.94228e-01, E_mes: 1.44712e-04, T_mes: 304.30, T_bs: 305.94, T_soil: 305.94
+2025-05-27 21:25:25,826 - INFO - Initial Guess - g_m: 0.46704, F: 1.38179e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:25,828 - INFO - Refined Solution - g_m: 0.46704, F: 1.38179e+00, E_mes: 1.47333e-04, T_mes: 304.85, T_bs: 305.94, T_soil: 305.94, Iter: 1
+2025-05-27 21:25:25,828 - INFO - Final Optimized Values - g_m: 0.46704, F: 1.38179e+00, E_mes: 1.47333e-04, T_mes: 304.85, T_bs: 305.94, T_soil: 305.94
+2025-05-27 21:25:26,163 - INFO - Initial Guess - g_m: 0.47517, F: 1.94372e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:26,164 - INFO - Refined Solution - g_m: 0.47517, F: 1.94372e+00, E_mes: 1.49900e-04, T_mes: 305.41, T_bs: 305.94, T_soil: 305.93, Iter: 1
+2025-05-27 21:25:26,164 - INFO - Final Optimized Values - g_m: 0.47517, F: 1.94372e+00, E_mes: 1.49900e-04, T_mes: 305.41, T_bs: 305.94, T_soil: 305.93
+2025-05-27 21:25:26,502 - INFO - Initial Guess - g_m: 0.48350, F: 1.38238e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:26,504 - INFO - Refined Solution - g_m: 0.48350, F: 1.38238e+00, E_mes: 1.52528e-04, T_mes: 305.96, T_bs: 305.94, T_soil: 305.92, Iter: 1
+2025-05-27 21:25:26,504 - INFO - Final Optimized Values - g_m: 0.48350, F: 1.38238e+00, E_mes: 1.52528e-04, T_mes: 305.96, T_bs: 305.94, T_soil: 305.92
+2025-05-27 21:25:26,836 - INFO - Initial Guess - g_m: 0.49176, F: 1.47777e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:26,838 - INFO - Refined Solution - g_m: 0.49176, F: 1.47777e+00, E_mes: 1.55132e-04, T_mes: 306.51, T_bs: 305.94, T_soil: 305.92, Iter: 1
+2025-05-27 21:25:26,838 - INFO - Final Optimized Values - g_m: 0.49176, F: 1.47777e+00, E_mes: 1.55132e-04, T_mes: 306.51, T_bs: 305.94, T_soil: 305.92
+2025-05-27 21:25:27,173 - INFO - Initial Guess - g_m: 0.49916, F: 1.57454e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:27,175 - INFO - Refined Solution - g_m: 0.49916, F: 1.57454e+00, E_mes: 1.57467e-04, T_mes: 307.09, T_bs: 305.95, T_soil: 305.93, Iter: 1
+2025-05-27 21:25:27,175 - INFO - Final Optimized Values - g_m: 0.49916, F: 1.57454e+00, E_mes: 1.57467e-04, T_mes: 307.09, T_bs: 305.95, T_soil: 305.93
+2025-05-27 21:25:27,511 - INFO - Initial Guess - g_m: 0.49998, F: 1.88513e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:27,513 - INFO - Refined Solution - g_m: 0.49999, F: 1.88513e+00, E_mes: 1.57728e-04, T_mes: 307.81, T_bs: 306.08, T_soil: 306.05, Iter: 1
+2025-05-27 21:25:27,513 - INFO - Final Optimized Values - g_m: 0.49999, F: 1.88513e+00, E_mes: 1.57728e-04, T_mes: 307.81, T_bs: 306.08, T_soil: 306.05
+2025-05-27 21:25:27,846 - INFO - Initial Guess - g_m: 0.49982, F: 1.68512e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:27,848 - INFO - Refined Solution - g_m: 0.49983, F: 1.68512e+00, E_mes: 1.57677e-04, T_mes: 308.57, T_bs: 306.22, T_soil: 306.19, Iter: 1
+2025-05-27 21:25:27,848 - INFO - Final Optimized Values - g_m: 0.49983, F: 1.68512e+00, E_mes: 1.57677e-04, T_mes: 308.57, T_bs: 306.22, T_soil: 306.19
+2025-05-27 21:25:28,215 - INFO - Initial Guess - g_m: 0.49948, F: 1.92996e+00, Objective: -0.00009, Iterations: 1000
+2025-05-27 21:25:28,216 - INFO - Refined Solution - g_m: 0.49949, F: 1.92996e+00, E_mes: 1.57571e-04, T_mes: 309.32, T_bs: 306.37, T_soil: 306.34, Iter: 1
+2025-05-27 21:25:28,217 - INFO - Final Optimized Values - g_m: 0.49949, F: 1.92996e+00, E_mes: 1.57571e-04, T_mes: 309.32, T_bs: 306.37, T_soil: 306.34
+2025-05-27 21:25:32,780 - INFO - Initial Guess - g_m: 0.00001, F: 1.21820e+00, Objective: -0.00004, Iterations: 1000
+2025-05-27 21:25:32,783 - INFO - Refined Solution - g_m: 0.00000, F: 1.21820e+00, E_mes: 6.49033e-11, T_mes: 289.59, T_bs: 292.86, T_soil: 292.90, Iter: 1
+2025-05-27 21:25:32,783 - INFO - Final Optimized Values - g_m: 0.00000, F: 1.21820e+00, E_mes: 6.49033e-11, T_mes: 289.59, T_bs: 292.86, T_soil: 292.90

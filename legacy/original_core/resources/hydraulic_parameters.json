@@ -1,0 +1,7 @@
+[
+    {
+        "param_set": "default",
+        "leaf_water_potential": -1e6,
+        "k_l": 0.005e-6
+    }
+]
