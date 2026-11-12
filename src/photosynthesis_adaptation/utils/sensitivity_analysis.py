@@ -2,18 +2,15 @@
 
 # --- Imports (compatible with your pipeline) ---
 import os
-import numpy as np
-import matplotlib as mpl
+
 import matplotlib.pyplot as plt
-import matplotlib.cm as cm
+import numpy as np
 import seaborn as sns
-import pandas as pd
+from joblib import Parallel, delayed
+from SALib.analyze import sobol as sobol_analyze
+from SALib.sample import sobol as sobol_sample
 
 from photosynthesis_adaptation.model.model_builder import ModelBuilder
-from SALib.sample import saltelli as saltelli_sample
-from SALib.analyze import sobol as sobol_analyze
-from joblib import Parallel, delayed
-from tqdm import tqdm
 
 # ========= Beamer-ready styling (no LaTeX dependency) =========
 _BEAMER_RC = {
@@ -46,57 +43,52 @@ def _default_path(basename: str) -> str:
 # ==============================================================
 
 
-def compute_local_sensitivity(evolving_traits, bounds, params, epsilon):
+def _sensitivity_problem(evolving_traits, bounds, params):
+    names = list(evolving_traits)
+    limits = np.asarray(bounds, dtype=float)
+    if not names or len(set(names)) != len(names) or limits.shape != (len(names), 2):
+        raise ValueError("Unique traits and matching bounds are required")
+    if not np.all(np.isfinite(limits)) or np.any(limits[:, 0] >= limits[:, 1]):
+        raise ValueError("Bounds must be finite and increasing")
+    if set(names) - set(params):
+        raise ValueError("Every sensitivity trait must be an existing parameter")
+    overwritten = {"f_pepc", "f_rubisco_mes", "f_rubisco_bs", "v_pmax", "v_cmax_mes", "v_cmax_bs"}
+    if set(names) & overwritten:
+        raise ValueError("Sensitivity traits would be overwritten by internal allocation")
+    return {"num_vars": len(names), "names": names, "bounds": limits.tolist()}
+
+
+def _sensitivity_output(params, model_factory):
+    model = model_factory(dict(params))
+    model.build()
+    result = model.run()
+    value = float(result["co2_assimilation_rate_bs"] + result["co2_assimilation_rate_mes"])
+    if not result.get("success", False) or not np.isfinite(value):
+        raise RuntimeError("Unsuccessful or nonfinite sensitivity evaluation")
+    return value
+
+
+def compute_local_sensitivity(evolving_traits, bounds, params, epsilon, *, model_factory=None):
+    """Absolute one-sided local derivative, taking an inward step at upper bounds.
+
+    epsilon is a fraction of each parameter's allowed range. Errors propagate;
+    no failed result is presented as a numerical sensitivity.
     """
-    Compute local sensitivity of model parameters with respect to changes in their values.
-
-    Args:
-        evolving_traits (List[str]): List of trait names to analyze.
-        bounds (List[Tuple[float, float]]): Bounds for each trait.
-        params (Dict[str, float]): Model parameters.
-        epsilon (float): Perturbation amount for sensitivity analysis.
-
-    Returns:
-        Dict[str, float]: Local sensitivity indices for each trait.
-    """
-    print("\n[INFO] Running Local Sensitivity Analysis...")
-
-    # Base model
-    base_model = ModelBuilder(params)
-    base_model.build()
-    base_results = base_model.run()
-    base_fitness = (
-        base_results["co2_assimilation_rate_bs"]
-        + base_results["co2_assimilation_rate_mes"]
-    )
-
+    problem = _sensitivity_problem(evolving_traits, bounds, params)
+    if not np.isfinite(epsilon) or not 0 < epsilon <= 1:
+        raise ValueError("epsilon must lie in (0, 1]")
+    factory = ModelBuilder if model_factory is None else model_factory
+    base = _sensitivity_output(params, factory)
     sensitivities = {}
-
-    for i, trait in enumerate(evolving_traits):
-        if trait not in params:
-            raise ValueError(f"Trait '{trait}' not found in parameter dictionary.")
-
-        trait_val = params[trait]
-        trait_range = bounds[i][1] - bounds[i][0]
-        delta = epsilon * trait_range
-
-        perturbed_params = params.copy()
-        perturbed_params[trait] = trait_val + delta
-
-        try:
-            perturbed_model = ModelBuilder(perturbed_params)
-            perturbed_model.build()
-            perturbed_results = perturbed_model.run()
-            pert_fitness = (
-                perturbed_results["co2_assimilation_rate_bs"]
-                + perturbed_results["co2_assimilation_rate_mes"]
-            )
-            sensitivity = abs((pert_fitness - base_fitness) / delta)
-            sensitivities[trait] = float(sensitivity)
-        except Exception as e:
-            print(f"[WARNING] Sensitivity calculation failed for '{trait}': {e}")
-            sensitivities[trait] = np.nan
-
+    for name, (low, high) in zip(problem["names"], problem["bounds"]):
+        value = float(params[name])
+        if not np.isfinite(value) or not low <= value <= high:
+            raise ValueError("Base parameters must lie within sensitivity bounds")
+        step = epsilon * (high - low)
+        delta = min(step, high - value) if value < high else -min(step, value - low)
+        perturbed = dict(params)
+        perturbed[name] = value + delta
+        sensitivities[name] = abs((_sensitivity_output(perturbed, factory) - base) / delta)
     return sensitivities
 
 
@@ -114,11 +106,7 @@ def plot_local_sensitivity(scores, traits, trait_names, save_path=None):
     if isinstance(scores, dict):
         traits = list(scores.keys())
         values = np.array([scores[t] for t in traits], dtype=float)
-        names = (
-            np.array(trait_names)
-            if len(trait_names) == len(traits)
-            else np.array(traits)
-        )
+        names = np.array(trait_names) if len(trait_names) == len(traits) else np.array(traits)
     else:
         values = np.array(scores, dtype=float)
         names = np.array(trait_names)
@@ -142,9 +130,7 @@ def plot_local_sensitivity(scores, traits, trait_names, save_path=None):
     with plt.rc_context(_BEAMER_RC):
         fig, ax = plt.subplots(figsize=(11, 6))
         y = np.arange(len(values))
-        bars = ax.barh(
-            y, values, color=colors, edgecolor="black", linewidth=0.9, height=0.7
-        )
+        bars = ax.barh(y, values, color=colors, edgecolor="black", linewidth=0.9, height=0.7)
         ax.invert_yaxis()
 
         # Annotate
@@ -160,8 +146,7 @@ def plot_local_sensitivity(scores, traits, trait_names, save_path=None):
                 )
             else:
                 ax.text(
-                    0.02
-                    * (np.nanmax(values) if np.isfinite(np.nanmax(values)) else 1.0),
+                    0.02 * (np.nanmax(values) if np.isfinite(np.nanmax(values)) else 1.0),
                     bar.get_y() + bar.get_height() / 2,
                     "n/a",
                     ha="left",
@@ -195,94 +180,49 @@ def plot_local_sensitivity(scores, traits, trait_names, save_path=None):
 
 
 def compute_sobol_sensitivity(
-    evolving_traits, bounds, params, n_samples=1000, n_jobs=-1
+    evolving_traits, bounds, params, n_samples=1024, n_jobs=1, *, seed=0, model_factory=None
 ):
+    """Seeded Sobol indices from an intact Saltelli design.
+
+    n_samples is the base sample count, a power of two; actual evaluations are
+    n_samples*(2*D+2). All evaluations must succeed. Dropping or mean-imputing
+    failed samples invalidates this sampling design, so failures raise with
+    their row indices. Return values retain the sampled inputs and outputs.
     """
-    Compute Sobol sensitivity indices for the given model parameters.
+    problem = _sensitivity_problem(evolving_traits, bounds, params)
+    if (
+        isinstance(n_samples, bool)
+        or not isinstance(n_samples, (int, np.integer))
+        or n_samples < 2
+        or n_samples & (n_samples - 1)
+    ):
+        raise ValueError("n_samples must be a power of two >= 2")
+    if isinstance(seed, bool) or not isinstance(seed, (int, np.integer)) or seed < 0:
+        raise ValueError("seed must be a nonnegative integer")
+    factory = ModelBuilder if model_factory is None else model_factory
+    samples = sobol_sample.sample(problem, N=n_samples, calc_second_order=True, seed=seed)
 
-    Args:
-        evolving_traits (list): List of evolving trait names.
-        bounds (list): List of parameter bounds.
-        params (dict): Dictionary of model parameters.
-        n_samples (int): Number of samples to draw.
-        n_jobs (int): Number of parallel jobs to run.
-
-    Returns:
-        dict: Sobol sensitivity indices (SALib format).
-    """
-    print("\n[INFO] Running Global (Sobol) Sensitivity Analysis...")
-
-    problem = {
-        "num_vars": len(evolving_traits),
-        "names": evolving_traits,
-        "bounds": bounds,
-    }
-
-    param_values = saltelli_sample.sample(problem, N=n_samples, calc_second_order=True)
-    failed_samples = []
-
-    def evaluate_model(x):
+    def evaluate(x):
+        candidate = dict(params)
+        candidate.update(zip(problem["names"], map(float, x)))
         try:
-            perturbed_params = params.copy()
-            trait_dict = {
-                name: float(np.clip(val, *bnd))
-                for (name, val, bnd) in zip(evolving_traits, x, bounds)
-            }
-            if "g_bs" in trait_dict:
-                trait_dict["g_bs"] = max(trait_dict["g_bs"], 1e-5)
+            return _sensitivity_output(candidate, factory)
+        except RuntimeError:
+            return np.nan
 
-            perturbed_params.update(trait_dict)
-            model = ModelBuilder(perturbed_params)
-            model.build()
-            for name, val in trait_dict.items():
-                model.set_parameter_value(name, val)
-
-            result = model.run()
-            fitness = (
-                result["co2_assimilation_rate_bs"] + result["co2_assimilation_rate_mes"]
-            )
-            return True, float(fitness)
-        except Exception as e:
-            print(f"[WARN] Sobol evaluation failed for x={x.tolist()} with error: {e}")
-            failed_samples.append(x.tolist())
-            return False, np.nan
-
-    results = Parallel(n_jobs=n_jobs)(
-        delayed(evaluate_model)(x)
-        for x in tqdm(param_values, desc="[INFO] Evaluating Sobol samples")
-    )
-
-    success_flags, outputs = zip(*results)
-    outputs = np.array(outputs, dtype=float)
-
-    success_count = int(np.sum(success_flags))
-    failure_count = len(success_flags) - success_count
-    print(
-        f"[INFO] Sobol run completed: {success_count} succeeded, {failure_count} failed of {len(success_flags)}."
-    )
-
-    if np.any(np.isnan(outputs)):
-        n_bad = int(np.isnan(outputs).sum())
-        print(
-            f"[INFO] {n_bad} NaN outputs detected. Replacing with mean of valid results."
+    outputs = np.asarray(Parallel(n_jobs=n_jobs)(delayed(evaluate)(x) for x in samples))
+    bad = np.flatnonzero(~np.isfinite(outputs))
+    if bad.size:
+        raise RuntimeError(
+            f"Sobol design contains {bad.size} failed evaluations; rows {bad.tolist()}. No indices computed."
         )
-        if np.all(np.isnan(outputs)):
-            raise RuntimeError(
-                "All Sobol samples failed. Cannot proceed with analysis."
-            )
-        outputs[np.isnan(outputs)] = np.nanmean(outputs)
-
-    if failed_samples:
-        print(
-            "[INFO] Logging failed parameter combinations to failed_sobol_samples.csv"
-        )
-        pd.DataFrame(failed_samples, columns=evolving_traits).to_csv(
-            "failed_sobol_samples.csv", index=False
-        )
-
-    return sobol_analyze.analyze(
-        problem, outputs, calc_second_order=True, print_to_console=False
+    if np.ptp(outputs) == 0:
+        raise ValueError("Sobol indices are undefined for constant outputs")
+    result = sobol_analyze.analyze(
+        problem, outputs, calc_second_order=True, print_to_console=False, seed=seed
     )
+    result.update(sample_values=samples, outputs=outputs, problem=problem, seed=int(seed))
+    return result
 
 
 # ==============================================================
@@ -397,9 +337,7 @@ def plot_sobol_sensitivity(sobol_result, traits, figsize=(11, 6), save_path=None
             fig, ax = plt.subplots(figsize=(11, 8))
 
             # Mask lower triangle -> show upper like pair-plot
-            mask = np.tril(
-                np.ones_like(S2, dtype=bool), k=-1
-            )  # True on lower off-diagonal
+            mask = np.tril(np.ones_like(S2, dtype=bool), k=-1)  # True on lower off-diagonal
             # To hide diagonal too, uncomment:
             # mask |= np.eye(n, dtype=bool)
 
@@ -467,9 +405,7 @@ def plot_sobol_sensitivity_thesis(
         fig, ax = plt.subplots(figsize=figsize)
         order = np.argsort(S1)
         y = np.arange(n)
-        ax.barh(
-            y, S1[order], color="#377eb8", edgecolor="black", linewidth=0.8, height=0.7
-        )
+        ax.barh(y, S1[order], color="#377eb8", edgecolor="black", linewidth=0.8, height=0.7)
         ax.invert_yaxis()
         ax.set_yticks(y, np.array(trait_names)[order])
         ax.set_xlabel(r"First-order index ($S_1$)", labelpad=8)
@@ -487,9 +423,7 @@ def plot_sobol_sensitivity_thesis(
         fig, ax = plt.subplots(figsize=figsize)
         order = np.argsort(ST)
         y = np.arange(n)
-        ax.barh(
-            y, ST[order], color="#2ca02c", edgecolor="black", linewidth=0.8, height=0.7
-        )
+        ax.barh(y, ST[order], color="#2ca02c", edgecolor="black", linewidth=0.8, height=0.7)
         ax.invert_yaxis()
         ax.set_yticks(y, np.array(trait_names)[order])
         ax.set_xlabel(r"Total-order index ($S_T$)", labelpad=8)
