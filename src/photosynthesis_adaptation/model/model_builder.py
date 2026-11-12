@@ -1,18 +1,26 @@
+from copy import deepcopy
+
 import casadi as ca
-from photosynthesis_adaptation.model import hydraulic_model as hydraulic
-from photosynthesis_adaptation.model import heat_model as heat
+import numpy as np
+
 from photosynthesis_adaptation.model import biochemical_model as biochemical
+from photosynthesis_adaptation.model import heat_model as heat
+from photosynthesis_adaptation.model import hydraulic_model as hydraulic
 
 
 class ModelBuilder:
     """
     Modular CasADi-based model coupling hydraulics, heat, and biochemical processes.
-    Includes total enzyme (nitrogen) budget partitioning among PEPC and Rubisco
+    Includes phenomenological catalytic-capacity budget partitioning among PEPC and Rubisco
     in both mesophyll and bundle sheath compartments (C3–C4 continuum).
     """
 
     def __init__(self, params):
-        self.params = params
+        self.params = deepcopy(dict(params))
+        if not self.params or any(
+            not np.isscalar(v) or not np.isfinite(v) for v in self.params.values()
+        ):
+            raise ValueError("Parameters must be finite numeric scalars")
         self.symbolic_params = None
         self.evolvable_params = {}
         self.variables = None
@@ -59,16 +67,14 @@ class ModelBuilder:
         # Enzyme fraction bounds (biologically plausible)
         # ===========================================================
         self.opti.subject_to(v["f_pepc"] >= 0)
-        self.opti.subject_to(v["f_pepc"] <= 1)  # ≤ 35% nitrogen budget
+        self.opti.subject_to(v["f_pepc"] <= 1)
         self.opti.subject_to(v["f_rubisco_mes"] >= 0)
         self.opti.subject_to(v["f_rubisco_mes"] <= 1)
         self.opti.subject_to(v["f_rubisco_bs"] >= 0)
-        self.opti.subject_to(v["f_rubisco_bs"] <= 1)  # ≤ 50% nitrogen budget
+        self.opti.subject_to(v["f_rubisco_bs"] <= 1)
 
         # --- Enzyme budget conservation (≤ 1.0 for feasibility) ---
-        self.opti.subject_to(
-            v["f_pepc"] + v["f_rubisco_mes"] + v["f_rubisco_bs"] <= 1.0
-        )
+        self.opti.subject_to(v["f_pepc"] + v["f_rubisco_mes"] + v["f_rubisco_bs"] <= 1.0)
 
         # ===========================================================
         # Initial guesses (C3-like)
@@ -82,7 +88,7 @@ class ModelBuilder:
         self.opti.set_initial(v["f_rubisco_bs"], 0.05)
 
         # ===========================================================
-        # Enzyme (Nitrogen) budget allocation
+        # Phenomenological catalytic-capacity allocation
         # ===========================================================
         V_budget = self.symbolic_params.get("v_cmax_tot", 220.0)  # Total enzyme budget
         f_pepc = v["f_pepc"]
@@ -91,9 +97,7 @@ class ModelBuilder:
 
         # Residual handling (ensures total ≤ 1 without infeasibility)
         f_sum = f_pepc + f_mes + f_bs
-        f_resid = ca.fmax(
-            0, 1 - f_sum
-        )  # If the total is > 1, push residual to mesophyll
+        f_resid = ca.fmax(0, 1 - f_sum)  # If the total is > 1, push residual to mesophyll
         f_mes = f_mes + 0.5 * f_resid  # redistribute half of residual to mesophyll
         f_pepc = ca.fmax(1e-6, f_pepc)  # Ensure PEPC fraction is not too small
         f_bs = ca.fmax(1e-6, f_bs)  # Ensure Rubisco fraction in BS is not too small
@@ -134,9 +138,7 @@ class ModelBuilder:
         heatm.build_model()
         self.heat_output = heatm.get_output()
 
-        biom = biochemical.BiochemicalModel(
-            self.opti, self.symbolic_params, self.variables
-        )
+        biom = biochemical.BiochemicalModel(self.opti, self.symbolic_params, self.variables)
         biom.build_model()
         self.biochemical_output = biom.get_output()
 
@@ -153,20 +155,25 @@ class ModelBuilder:
     # ===============================================================
     # SOLVE
     # ===============================================================
-    def run(self, solver_options="default"):
+    def run(self, solver_options="default", *, raise_on_failure=True):
+        """Solve and expose diagnostics. A failed solve is never zero assimilation."""
+        if self.opti is None:
+            raise RuntimeError("Call build() before run()")
         _set_solver_options(self.opti, solver_options)
         try:
             sol = self.opti.solve()
-        except Exception as e:
-            # graceful failure
+        except RuntimeError as error:
+            if raise_on_failure:
+                raise RuntimeError("Photosynthesis optimization failed") from error
             return {
-                "co2_assimilation_rate_bs": 0.0,
-                "co2_assimilation_rate_mes": 0.0,
-                "assimilation_total": 0.0,
-                "solver_status": str(e),
-                "v_pmax": 0.0,
-                "v_cmax_mes": 0.0,
-                "v_cmax_bs": 0.0,
+                "success": False,
+                "solver_status": str(error),
+                "assimilation_total": np.nan,
+                "co2_assimilation_rate_bs": np.nan,
+                "co2_assimilation_rate_mes": np.nan,
+                "v_pmax": np.nan,
+                "v_cmax_mes": np.nan,
+                "v_cmax_bs": np.nan,
             }
 
         res = {}
@@ -183,20 +190,9 @@ class ModelBuilder:
 
         # Telemetry (fractions and budgets)
         for k, expr in self._rubisco_split_telemetry.items():
-            try:
-                res[k] = float(sol.value(expr))
-            except Exception:
-                res[k] = float(expr)
+            res[k] = float(sol.value(expr))
 
-        # ===========================================================
-        # Derived catalytic capacities (for plotting and evolution)
-        # ===========================================================
-        try:
-            V_budget_val = float(
-                sol.value(self.symbolic_params.get("v_cmax_tot", 220.0))
-            )
-        except Exception:
-            V_budget_val = 220.0
+        V_budget_val = float(sol.value(self.symbolic_params.get("v_cmax_tot", 220.0)))
 
         res["v_pmax"] = float(res.get("fraction_pepc", 0.0) * V_budget_val)
         res["v_cmax_mes"] = float(res.get("fraction_rubisco_mes", 0.0) * V_budget_val)
@@ -204,10 +200,24 @@ class ModelBuilder:
 
         # Assimilation total (final check)
         res["assimilation_total"] = (
-            res.get("co2_assimilation_rate_bs", 0.0)
-            + res.get("co2_assimilation_rate_mes", 0.0)
+            res.get("co2_assimilation_rate_bs", 0.0) + res.get("co2_assimilation_rate_mes", 0.0)
         ) * 1e6
 
+        stats = sol.stats()
+        constraints = np.asarray(sol.value(self.opti.g)).reshape(-1)
+        lower = np.asarray(sol.value(self.opti.lbg)).reshape(-1)
+        upper = np.asarray(sol.value(self.opti.ubg)).reshape(-1)
+        violation = float(
+            np.max(np.maximum(np.maximum(lower - constraints, constraints - upper), 0))
+        )
+        res.update(
+            success=bool(stats["success"]),
+            solver_status=stats["return_status"],
+            solver_iterations=int(stats.get("iter_count", -1)),
+            max_constraint_violation=violation,
+        )
+        if not np.isfinite(res["assimilation_total"]) or not res["success"]:
+            raise RuntimeError("Solver returned an invalid solution")
         return res
 
     # ===============================================================
@@ -270,25 +280,19 @@ class ModelBuilder:
 # ===============================================================
 def _set_solver_options(opti, solver_options):
     """Quiet, robust, and faster IPOPT setup."""
-    if solver_options == "default":
-        opti.solver(
-            "ipopt",
-            {
-                "ipopt": {
-                    "print_level": 0,
-                    "sb": "yes",
-                    "max_iter": 3000,
-                    "tol": 1e-6,
-                    "acceptable_tol": 1e-5,
-                    "acceptable_iter": 50,
-                    "warm_start_init_point": "yes",
-                    "mu_strategy": "adaptive",
-                    "dual_inf_tol": 1e3,
-                    "linear_solver": "mumps",
-                    "honor_original_bounds": "yes",
-                },
-                "print_time": 0,
-            },
-        )
-    else:
-        raise ValueError(f"Solver options '{solver_options}' not recognized.")
+    options = {
+        "print_level": 0,
+        "sb": "yes",
+        "max_iter": 3000,
+        "tol": 1e-6,
+        "acceptable_tol": 1e-5,
+        "acceptable_iter": 50,
+        "mu_strategy": "adaptive",
+        "linear_solver": "mumps",
+        "honor_original_bounds": "yes",
+    }
+    if isinstance(solver_options, dict):
+        options.update(solver_options)
+    elif solver_options != "default":
+        raise ValueError("solver_options must be 'default' or an IPOPT option dictionary")
+    opti.solver("ipopt", {"ipopt": options, "print_time": False})

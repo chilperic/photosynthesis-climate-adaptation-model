@@ -28,6 +28,6 @@ flowchart TD
 | Biochemistry | `model/biochemical_model.py` | Computes PEPC/Rubisco assimilation and temperature-dependent kinetics. |
 | Coupling | `model/model_builder.py` | Builds and solves the coupled CasADi optimization problem. |
 | Sensitivity | `utils/sensitivity_analysis.py` | Local and global sensitivity workflows. |
-| Evolution | `utils/evolution.py` | Hybrid CMA/Kimura-style trait optimization workflow. |
+| Evolution | `utils/evolution.py` | Seeded CMA-ES optimization; not a population-genetic evolutionary model. |
 | Scripts | `scripts/` | Minimal reproducible entry points. |
 | Legacy | `legacy/` | Preserved manifests and selected original material. |

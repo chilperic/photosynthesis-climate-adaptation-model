@@ -5,4 +5,4 @@ coupled C3/C4 photosynthesis, heat balance, hydraulics, sensitivity analysis,
 and evolutionary trait exploration.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"

@@ -1,0 +1,19 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Photosynthesis climate adaptation model",
+  "codeRepository": "https://github.com/chilperic/photosynthesis-climate-adaptation-model",
+  "version": "0.2.0",
+  "description": "Photosynthesis climate adaptation model; see docs/MIGRATION-0.2.md for numerical changes and validation limits.",
+  "programmingLanguage": "Python",
+  "license": "https://spdx.org/licenses/MIT",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Chilperic Armel",
+      "familyName": "Foko Kuate"
+    }
+  ],
+  "issueTracker": "https://github.com/chilperic/photosynthesis-climate-adaptation-model/issues",
+  "developmentStatus": "https://www.repostatus.org/#active"
+}

@@ -34,3 +34,6 @@ __pycache__/
 
 # Local solver logs
 *.log
+
+# Reproducible runs are exported deliberately to releases, not committed by default.
+/runs/

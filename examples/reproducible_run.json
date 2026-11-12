@@ -1,0 +1,9 @@
+{
+  "purpose": "Default coupled optimization smoke run; not a validated environmental prediction",
+  "presets": {},
+  "parameters": {},
+  "solver": {
+    "tol": 1e-06,
+    "max_iter": 3000
+  }
+}

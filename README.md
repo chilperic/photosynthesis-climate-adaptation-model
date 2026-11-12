@@ -72,7 +72,7 @@ photosynthesis-climate-adaptation-model/
 | Biochemical model | `model/biochemical_model.py` | Computes PEPC/Rubisco kinetics and CO₂ assimilation. |
 | Coupled solver | `model/model_builder.py` | Builds and solves the CasADi optimization problem. |
 | Sensitivity analysis | `utils/sensitivity_analysis.py` | Supports local and Sobol-style sensitivity workflows. |
-| Evolutionary simulation | `utils/evolution.py` | Runs a hybrid CMA/Kimura-style trait optimization workflow. |
+| Evolutionary simulation | `utils/evolution.py` | Runs seeded CMA-ES trait optimization with aligned evaluations and explicit failures. |
 | Plotting | `utils/evolution_plotting.py` | Provides diagnostic and trajectory plotting utilities. |
 
 ## Reproducibility
@@ -160,3 +160,7 @@ An MIT license is included as a practical default for the reusable code. Check a
 ## Maintaining this repository
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the directory map, output conventions, provenance and cleanup boundaries.
+
+## Reproducible 0.2 workflow
+
+See [reproduction instructions](docs/REPRODUCING.md), [scientific migration notes](docs/MIGRATION-0.2.md), and the [FAIR implementation record](docs/FAIR.md). Numerical reliability checks do not substitute for empirical validation.
