@@ -156,3 +156,7 @@ This repository demonstrates a postdoctoral modelling workflow that connects mec
 ## License and provenance
 
 An MIT license is included as a practical default for the reusable code. Check attribution and permissions before redistributing any legacy or lab-rotation material.
+
+## Maintaining this repository
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the directory map, output conventions, provenance and cleanup boundaries.
