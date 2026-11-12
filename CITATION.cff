@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Photosynthesis climate adaptation model"
+message: "Cite this software version and the relevant scientific publication; repository metadata is not evidence of scientific validation."
+type: software
+authors:
+  - family-names: "Foko Kuate"
+    given-names: "Chilperic Armel"
+repository-code: "https://github.com/chilperic/photosynthesis-climate-adaptation-model"
+version: "0.2.0"
+license: MIT

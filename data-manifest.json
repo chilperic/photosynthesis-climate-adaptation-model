@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "source_commit": "5d8e3a3dc4362b88d2e400c136c117b402805c2c",
+  "files": [
+    {
+      "path": "legacy/original_core/resources/biochemical_parameters.json",
+      "sha256": "cfcc7d655e3143338775ee67592fe4d2bf43a019612625efae9be88926199fe7",
+      "bytes": 2718,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "legacy/original_core/resources/c4_percent_1d.asc",
+      "sha256": "2ed5cea5b0530736ea40eacae7d768c201a4f7dae97f5ca56d0a1e2e5a676bb1",
+      "bytes": 328152,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "legacy/original_core/resources/environmental_parameters.json",
+      "sha256": "90fceb30ad8c4b73a2672e6ba72ba6c2c07263334c7ef9cb66831a4194e3f97e",
+      "bytes": 1865,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "legacy/original_core/resources/heat_parameters.json",
+      "sha256": "8dca84c0aced258246d0ecfaa0fbd8835be32525f8a84d283b34b9dbada24b5d",
+      "bytes": 419,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "legacy/original_core/resources/hydraulic_parameters.json",
+      "sha256": "5f24dea7b73d38d3c3199b763031deb3b24e8f21c92f10d9d7916ee73ec731ab",
+      "bytes": 109,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "legacy/original_core/resources/soil_parameters.json",
+      "sha256": "82fc12ac7a4fa14a27ab3713de396c1d1244a176b2d503acfc308cfe1bc78350",
+      "bytes": 1036,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "legacy/original_core/resources/temp_dependence_parameters.json",
+      "sha256": "750aeb57f05fce71dbf387653a96099100df3cabd53153e12571f6637b4c4993",
+      "bytes": 341,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "src/photosynthesis_adaptation/resources/biochemical_parameters.json",
+      "sha256": "cfcc7d655e3143338775ee67592fe4d2bf43a019612625efae9be88926199fe7",
+      "bytes": 2718,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "src/photosynthesis_adaptation/resources/c4_percent_1d.asc",
+      "sha256": "2ed5cea5b0530736ea40eacae7d768c201a4f7dae97f5ca56d0a1e2e5a676bb1",
+      "bytes": 328152,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "src/photosynthesis_adaptation/resources/environmental_parameters.json",
+      "sha256": "90fceb30ad8c4b73a2672e6ba72ba6c2c07263334c7ef9cb66831a4194e3f97e",
+      "bytes": 1865,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "src/photosynthesis_adaptation/resources/heat_parameters.json",
+      "sha256": "8dca84c0aced258246d0ecfaa0fbd8835be32525f8a84d283b34b9dbada24b5d",
+      "bytes": 419,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "src/photosynthesis_adaptation/resources/hydraulic_parameters.json",
+      "sha256": "5f24dea7b73d38d3c3199b763031deb3b24e8f21c92f10d9d7916ee73ec731ab",
+      "bytes": 109,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "src/photosynthesis_adaptation/resources/soil_parameters.json",
+      "sha256": "82fc12ac7a4fa14a27ab3713de396c1d1244a176b2d503acfc308cfe1bc78350",
+      "bytes": 1036,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    },
+    {
+      "path": "src/photosynthesis_adaptation/resources/temp_dependence_parameters.json",
+      "sha256": "750aeb57f05fce71dbf387653a96099100df3cabd53153e12571f6637b4c4993",
+      "bytes": 341,
+      "provenance_status": "inherited from repository; original source and rights require verification",
+      "license_status": "do not infer data redistribution rights from the software license"
+    }
+  ],
+  "note": "Checksums preserve input identity, not scientific correctness. Original data remain unchanged."
+}

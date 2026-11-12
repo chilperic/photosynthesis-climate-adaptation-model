@@ -1,12 +1,15 @@
-import requests
-import pandas as pd
+import hashlib
 import io
+from datetime import datetime
 
-def get_data_from_power_api(longitude: float, 
-                            latitude: float,
-                            start_date: str, 
-                            end_date: str, 
-                            export_to_csv: bool = False):
+import numpy as np
+import pandas as pd
+import requests
+
+
+def get_data_from_power_api(
+    longitude: float, latitude: float, start_date: str, end_date: str, export_to_csv: bool = False
+):
     """
     Fetch hourly environmental data from NASA's POWER API for a specific dates and location.
 
@@ -18,22 +21,33 @@ def get_data_from_power_api(longitude: float,
         csv_file (bool): If True, saves the CSV to 'power_data.csv'. Default is False.
 
     Returns:
-        pandas.DataFrame: 
-            A DataFrame containing the environmental data if successful, otherwise None.
+        pandas.DataFrame:
+            A DataFrame containing the environmental data if successful, raises an exception on failure.
     """
 
+    if (
+        not np.isfinite(latitude)
+        or not -90 <= latitude <= 90
+        or not np.isfinite(longitude)
+        or not -180 <= longitude <= 180
+    ):
+        raise ValueError("Invalid latitude/longitude")
+    start = datetime.strptime(start_date, "%Y%m%d")
+    end = datetime.strptime(end_date, "%Y%m%d")
+    if end < start:
+        raise ValueError("end_date precedes start_date")
     # Define the API endpoint and parameters
     url = "https://power.larc.nasa.gov/api/temporal/hourly/point"
     params = {
-        'start': start_date,
-        'end': end_date,
-        'latitude': latitude,
-        'longitude': longitude,
-        'community': 'sb',
-        'parameters': 'ALLSKY_SFC_PAR_TOT,T2M,RH2M,GWETROOT',
-        'format': 'csv',
-        'header': 'false',
-        'time-standard': 'utc'
+        "start": start_date,
+        "end": end_date,
+        "latitude": latitude,
+        "longitude": longitude,
+        "community": "sb",
+        "parameters": "ALLSKY_SFC_PAR_TOT,T2M,RH2M,GWETROOT",
+        "format": "csv",
+        "header": "false",
+        "time-standard": "utc",
     }
 
     df = _pull_data(url, params, latitude, longitude, start_date, export_to_csv)
@@ -46,12 +60,15 @@ def get_data_from_power_api(longitude: float,
 
     return df
 
-def _pull_data(url: str, 
-              params: dict, 
-              latitude: float, 
-              longitude: float, 
-              start_date: str, 
-              export_to_csv: bool = False):
+
+def _pull_data(
+    url: str,
+    params: dict,
+    latitude: float,
+    longitude: float,
+    start_date: str,
+    export_to_csv: bool = False,
+):
     """
     Helper function to pull data from the POWER API via GET request.
 
@@ -64,30 +81,31 @@ def _pull_data(url: str,
         csv_file (bool): If True, saves the CSV to a file.
 
     Returns:
-        pandas.DataFrame: 
-            A DataFrame containing the environmental data if successful, otherwise None.
+        pandas.DataFrame:
+            A DataFrame containing the environmental data if successful, raises an exception on failure.
     """
 
-    response = requests.get(url, params=params)
+    response = requests.get(url, params=params, timeout=(10, 60))
+    response.raise_for_status()
+    df = pd.read_csv(io.StringIO(response.text), na_values=[-999, -999.0])
+    required = {"YEAR", "MO", "DY", "HR", "ALLSKY_SFC_PAR_TOT", "T2M", "RH2M", "GWETROOT"}
+    if not required.issubset(df.columns) or df.empty:
+        raise ValueError("POWER response lacks required hourly columns or rows")
+    df.attrs["provenance"] = {
+        "url": url,
+        "parameters": dict(params),
+        "response_sha256": hashlib.sha256(response.content).hexdigest(),
+        "time_standard": "UTC",
+        "missing_value": -999,
+    }
+    if export_to_csv:
+        from pathlib import Path
 
-    if response.status_code == 200:
-        df = pd.read_csv(io.StringIO(response.text))
+        Path(f"power_data_{latitude:.3f}_{longitude:.3f}_{start_date}.csv").write_bytes(
+            response.content
+        )
+    return df
 
-        # If csv_file is True, save the data to a CSV file
-        if export_to_csv:
-            with open(f'power_data_{latitude:.3f}_{longitude:.3f}_{start_date}.csv', 'w') as f:
-                f.write(response.text)
-                print(f"Data saved: 'power_data_{latitude:.3f}_{longitude:.3f}_{start_date}.csv'.")
-
-        return df
-    elif response.status_code in [500, 505]:
-        print(f"Error fetching data from POWER API: {response.status_code}. "
-              "This may be due to a temporary issue with the API. Please try again later.")
-        return None
-    else:
-        print(f"Error fetching data from POWER API: {response.status_code, response.text}.")
-
-        return None
 
 def _rename_columns(df):
     """
@@ -100,18 +118,23 @@ def _rename_columns(df):
         pandas.DataFrame: The DataFrame with renamed columns.
     """
     column_mapping = {
-        'YEAR': 'year',
-        'MO': 'month',
-        'DY': 'day',
-        'HR': 'hour',
-        'ALLSKY_SFC_PAR_TOT': 'solar_radiation',
-        'T2M': 'temp',
-        'RH2M': 'rel_humidity',
-        'GWETROOT': 'rel_soil_wetness'
+        "YEAR": "year",
+        "MO": "month",
+        "DY": "day",
+        "HR": "hour",
+        "ALLSKY_SFC_PAR_TOT": "solar_radiation",
+        "T2M": "temp",
+        "RH2M": "rel_humidity",
+        "GWETROOT": "rel_soil_wetness",
     }
-    
+
     return df.rename(columns=column_mapping)
+
 
 def convert_units(df):
     """Convert temperature from °C to K."""
     df["temp"] = df["temp"] + 273.15
+    df.attrs["temperature_unit"] = "K"
+    df.attrs["radiation_note"] = (
+        "NASA POWER PAR field; do not assume equivalence to broadband irradiance"
+    )
